@@ -1,6 +1,6 @@
 {
   "name": "algo-coach-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Interactive algorithm coach MCP server powered by 代码随想录",
   "type": "module",
   "main": "dist/index.js",
