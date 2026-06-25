@@ -1,6 +1,6 @@
 {
   "name": "algo-coach-mcp",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Interactive algorithm coach MCP server powered by 代码随想录",
   "type": "module",
   "main": "dist/index.js",
@@ -14,9 +14,10 @@
     "README.md"
   ],
   "scripts": {
-    "prebuild": "tsx scripts/build-index.ts",
-    "build": "tsx scripts/build-index.ts && tsup src/index.ts --format esm --dts --clean",
+    "build": "tsup src/index.ts --format esm --dts --clean",
     "dev": "tsx src/index.ts",
+    "sync": "tsx scripts/sync-leetcode.ts",
+    "sync:resume": "tsx scripts/sync-leetcode.ts --resume",
     "test": "vitest run",
     "test:watch": "vitest"
   },

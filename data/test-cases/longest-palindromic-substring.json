@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0005.Longest Palindromic Substring",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "\"babad\"",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "\"cbbd\"",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

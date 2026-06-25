@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0003.无重复字符的最长子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "\"abcabcbb\"",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "\"bbbbb\"",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "\"pwwkew\"",
+      "expected": null,
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

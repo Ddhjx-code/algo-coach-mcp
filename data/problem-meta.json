@@ -1,47 +1,25 @@
 {
-  "0704.二分查找": { "difficulty": "easy", "algorithms": ["binary-search"] },
-  "0027.移除元素": { "difficulty": "easy", "algorithms": ["two-pointers"] },
-  "0977.有序数组的平方": { "difficulty": "easy", "algorithms": ["two-pointers"] },
-  "0209.长度最小的子数组": { "difficulty": "medium", "algorithms": ["sliding-window"] },
-  "0059.螺旋矩阵II": { "difficulty": "medium", "algorithms": ["simulation"] },
-  "0203.移除链表元素": { "difficulty": "easy", "algorithms": ["linked-list-traversal"] },
-  "0707.设计链表": { "difficulty": "medium", "algorithms": ["linked-list-design"] },
-  "0206.翻转链表": { "difficulty": "easy", "algorithms": ["linked-list-reversal"] },
-  "0024.两两交换链表中的节点": { "difficulty": "medium", "algorithms": ["linked-list-manipulation"] },
-  "0019.删除链表的倒数第N个节点": { "difficulty": "medium", "algorithms": ["two-pointers"] },
-  "0142.环形链表II": { "difficulty": "medium", "algorithms": ["fast-slow-pointers"] },
-  "0242.有效的字母异位词": { "difficulty": "easy", "algorithms": ["hash-table"] },
-  "1002.查找常用字符": { "difficulty": "easy", "algorithms": ["hash-table"] },
-  "0349.两个数组的交集": { "difficulty": "easy", "algorithms": ["hash-table"] },
-  "0202.快乐数": { "difficulty": "easy", "algorithms": ["hash-table"] },
-  "0001.两数之和": { "difficulty": "easy", "algorithms": ["hash-map-lookup"] },
-  "0454.四数相加II": { "difficulty": "medium", "algorithms": ["hash-table"] },
-  "0383.赎金信": { "difficulty": "easy", "algorithms": ["hash-table"] },
-  "0015.三数之和": { "difficulty": "medium", "algorithms": ["two-pointers", "sorting"] },
-  "0018.四数之和": { "difficulty": "medium", "algorithms": ["two-pointers", "sorting"] },
-  "0102.二叉树的层序遍历": { "difficulty": "medium", "algorithms": ["bfs"] },
-  "0226.翻转二叉树": { "difficulty": "easy", "algorithms": ["dfs", "recursion"] },
-  "0101.对称二叉树": { "difficulty": "easy", "algorithms": ["dfs", "recursion"] },
-  "0104.二叉树的最大深度": { "difficulty": "easy", "algorithms": ["dfs", "recursion"] },
-  "0111.二叉树的最小深度": { "difficulty": "easy", "algorithms": ["bfs", "dfs"] },
-  "0222.完全二叉树的节点个数": { "difficulty": "medium", "algorithms": ["binary-search", "recursion"] },
-  "0110.平衡二叉树": { "difficulty": "easy", "algorithms": ["dfs", "recursion"] },
-  "0257.二叉树的所有路径": { "difficulty": "easy", "algorithms": ["dfs", "backtracking"] },
-  "0404.左叶子之和": { "difficulty": "easy", "algorithms": ["dfs"] },
-  "0112.路径总和": { "difficulty": "easy", "algorithms": ["dfs", "backtracking"] },
-  "0236.二叉树的最近公共祖先": { "difficulty": "medium", "algorithms": ["dfs", "recursion"] },
-  "0700.二叉搜索树中的搜索": { "difficulty": "easy", "algorithms": ["binary-search-tree"] },
-  "0098.验证二叉搜索树": { "difficulty": "medium", "algorithms": ["dfs", "inorder"] },
-  "0509.斐波那契数": { "difficulty": "easy", "algorithms": ["dynamic-programming"] },
-  "0070.爬楼梯": { "difficulty": "easy", "algorithms": ["dynamic-programming"] },
-  "0746.使用最小花费爬楼梯": { "difficulty": "easy", "algorithms": ["dynamic-programming"] },
-  "0062.不同路径": { "difficulty": "medium", "algorithms": ["dynamic-programming"] },
-  "0063.不同路径II": { "difficulty": "medium", "algorithms": ["dynamic-programming"] },
-  "0343.整数拆分": { "difficulty": "medium", "algorithms": ["dynamic-programming"] },
-  "0096.不同的二叉搜索树": { "difficulty": "medium", "algorithms": ["dynamic-programming"] },
-  "0416.分割等和子集": { "difficulty": "medium", "algorithms": ["dynamic-programming", "knapsack"] },
-  "0494.目标和": { "difficulty": "medium", "algorithms": ["dynamic-programming", "knapsack"] },
-  "0322.零钱兑换": { "difficulty": "medium", "algorithms": ["dynamic-programming", "complete-knapsack"] },
-  "0300.最长上升子序列": { "difficulty": "medium", "algorithms": ["dynamic-programming"] },
-  "0072.编辑距离": { "difficulty": "medium", "algorithms": ["dynamic-programming"] }
+  "0001.两数之和": {
+    "difficulty": "easy",
+    "algorithms": [
+      "array",
+      "hash-table"
+    ]
+  },
+  "0002.两数相加": {
+    "difficulty": "medium",
+    "algorithms": [
+      "linked-list",
+      "math",
+      "recursion"
+    ]
+  },
+  "0003.无重复字符的最长子串": {
+    "difficulty": "medium",
+    "algorithms": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ]
+  }
 }

@@ -1,39 +1,39 @@
 {
-  "problemSlug": "0001.两数之和",
+  "problemSlug": "0002.两数相加",
   "functionName": "solution",
   "cases": [
     {
-      "input": "[2,7,11,15]",
+      "input": "[2,4,3]",
       "expected": null,
       "description": "example 1",
       "category": "basic"
     },
     {
-      "input": "9",
+      "input": "[5,6,4]",
       "expected": null,
       "description": "example 2",
       "category": "basic"
     },
     {
-      "input": "[3,2,4]",
+      "input": "[0]",
       "expected": null,
       "description": "example 3",
       "category": "basic"
     },
     {
-      "input": "6",
+      "input": "[0]",
       "expected": null,
       "description": "example 4",
       "category": "basic"
     },
     {
-      "input": "[3,3]",
+      "input": "[9,9,9,9,9,9,9]",
       "expected": null,
       "description": "example 5",
       "category": "basic"
     },
     {
-      "input": "6",
+      "input": "[9,9,9,9]",
       "expected": null,
       "description": "example 6",
       "category": "basic"
