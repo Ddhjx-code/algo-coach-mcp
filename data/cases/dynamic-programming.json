@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "dynamic-programming",
+    "title": "Git Diff / Edit Distance",
+    "domain": "developer-tools",
+    "description": "Git's diff engine uses the Myers algorithm, which finds the shortest edit script (minimum insertions and deletions) to transform one file into another. It exploits optimal substructure: the best diff of two prefixes builds on the best diff of shorter prefixes, a classic DP recurrence.",
+    "codeSnippet": "def edit_distance(s1: str, s2: str) -> int:\n    m, n = len(s1), len(s2)\n    dp = list(range(n + 1))\n    for i in range(1, m + 1):\n        prev = dp[0]\n        dp[0] = i\n        for j in range(1, n + 1):\n            temp = dp[j]\n            if s1[i-1] == s2[j-1]:\n                dp[j] = prev\n            else:\n                dp[j] = 1 + min(prev, dp[j], dp[j-1])\n            prev = temp\n    return dp[n]",
+    "sourceProject": "Git"
+  },
+  {
+    "algorithm": "dynamic-programming",
+    "title": "GPS Route Planning",
+    "domain": "mapping",
+    "description": "Navigation systems use Dijkstra's algorithm, which embodies DP's optimal substructure: the shortest path to any node is built from shortest paths to its predecessors. Dynamic programming tables (distance arrays) are incrementally updated as the algorithm relaxes edges in priority order.",
+    "sourceProject": "Google Maps"
+  },
+  {
+    "algorithm": "dynamic-programming",
+    "title": "Text Wrapping / Knuth-Plass",
+    "domain": "typography",
+    "description": "The Knuth-Plass algorithm used in LaTeX formats paragraphs by minimizing total 'badness' (uneven spacing) across all lines simultaneously. It uses DP to evaluate all possible line-break combinations, choosing the globally optimal set rather than greedily breaking line by line.",
+    "sourceProject": "TeX/LaTeX"
+  }
+]

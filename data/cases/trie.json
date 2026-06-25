@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "trie",
+    "title": "Autocomplete Systems",
+    "domain": "search",
+    "description": "Search engines and IDEs use tries to provide real-time prefix-based suggestions as users type. Each node in the trie represents a character, and traversing from root to a node gives all completions sharing that prefix, enabling sub-millisecond suggestion retrieval.",
+    "codeSnippet": "class TrieNode:\n    def __init__(self):\n        self.children = {}\n        self.is_end = False\n        self.weight = 0\n\ndef autocomplete(root, prefix):\n    node = root\n    for ch in prefix:\n        if ch not in node.children:\n            return []\n        node = node.children[ch]\n    results = []\n    _collect(node, prefix, results)\n    return sorted(results, key=lambda x: -x[1])[:10]\n\ndef _collect(node, path, results):\n    if node.is_end:\n        results.append((path, node.weight))\n    for ch, child in node.children.items():\n        _collect(child, path + ch, results)",
+    "sourceProject": "Elasticsearch"
+  },
+  {
+    "algorithm": "trie",
+    "title": "IP Routing Tables",
+    "domain": "networking",
+    "description": "Routers use binary tries (or compressed Patricia tries) for longest-prefix matching on IP addresses. Each bit of the destination IP guides traversal down the trie, and the deepest matching prefix determines the next-hop router, enabling fast forwarding decisions at line rate.",
+    "sourceProject": "Linux Kernel FIB"
+  },
+  {
+    "algorithm": "trie",
+    "title": "Spell Checkers",
+    "domain": "text-processing",
+    "description": "Spell checkers store dictionaries in tries and combine trie traversal with edit distance computation to suggest corrections. Walking the trie while tracking Levenshtein distance allows pruning of branches that exceed the maximum edit threshold, dramatically reducing the search space.",
+    "sourceProject": "Hunspell"
+  }
+]

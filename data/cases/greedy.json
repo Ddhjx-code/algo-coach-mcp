@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "greedy",
+    "title": "Huffman Coding",
+    "domain": "compression",
+    "description": "Huffman coding builds an optimal prefix-free code by repeatedly selecting the two lowest-frequency symbols and merging them into a new internal node. This greedy choice — always combining the lightest nodes — provably produces the shortest average code length for a given frequency distribution.",
+    "codeSnippet": "import heapq\n\ndef huffman_codes(freq):\n    heap = [(f, i, char) for i, (char, f) in enumerate(freq.items())]\n    heapq.heapify(heap)\n    nodes = {char: '' for char in freq}\n    while len(heap) > 1:\n        f1, _, left = heapq.heappop(heap)\n        f2, _, right = heapq.heappop(heap)\n        for char in (left if isinstance(left, str) else left):\n            nodes[char] = '0' + nodes[char] if isinstance(left, str) else nodes.get(char, '')\n        merged = (f1 + f2, len(heap), (left, right))\n        heapq.heappush(heap, merged)\n    return nodes",
+    "sourceProject": "zlib/gzip"
+  },
+  {
+    "algorithm": "greedy",
+    "title": "Job Scheduling",
+    "domain": "operating-systems",
+    "description": "The Shortest Job First (SJF) scheduling algorithm greedily selects the process with the smallest burst time, minimizing average waiting time across all processes. This greedy strategy is provably optimal for non-preemptive scheduling when all jobs arrive simultaneously.",
+    "sourceProject": "Linux Kernel"
+  },
+  {
+    "algorithm": "greedy",
+    "title": "Coin Change in Vending Machines",
+    "domain": "embedded-systems",
+    "description": "Vending machines dispense change using a greedy algorithm: always give the largest denomination coin that does not exceed the remaining amount. For standard currency systems (where each denomination divides the next), this greedy approach provably produces the minimum number of coins.",
+    "sourceProject": "Embedded Firmware"
+  }
+]

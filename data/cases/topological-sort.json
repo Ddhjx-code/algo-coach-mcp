@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "topological-sort",
+    "title": "Build Systems",
+    "domain": "developer-tools",
+    "description": "Build tools like Make, Bazel, and Gradle model source files and compilation targets as a directed acyclic graph (DAG). Topological sort determines the correct build order so that every dependency is compiled before the targets that depend on it, enabling parallel execution of independent tasks.",
+    "codeSnippet": "from collections import deque\n\ndef build_order(targets, deps):\n    in_degree = {t: 0 for t in targets}\n    graph = {t: [] for t in targets}\n    for src, dst in deps:\n        graph[src].append(dst)\n        in_degree[dst] += 1\n    queue = deque(t for t in targets if in_degree[t] == 0)\n    order = []\n    while queue:\n        node = queue.popleft()\n        order.append(node)\n        for neighbor in graph[node]:\n            in_degree[neighbor] -= 1\n            if in_degree[neighbor] == 0:\n                queue.append(neighbor)\n    if len(order) != len(targets):\n        raise ValueError(\"Cycle detected\")\n    return order",
+    "sourceProject": "Bazel"
+  },
+  {
+    "algorithm": "topological-sort",
+    "title": "Task Scheduling",
+    "domain": "distributed-systems",
+    "description": "Apache Airflow represents workflows as DAGs where nodes are tasks and edges are dependencies. The scheduler uses topological ordering to determine which tasks are ready to execute, launching tasks only after all upstream dependencies have completed successfully.",
+    "sourceProject": "Apache Airflow"
+  },
+  {
+    "algorithm": "topological-sort",
+    "title": "Course Prerequisites",
+    "domain": "education",
+    "description": "University course planning systems model courses and prerequisites as a DAG. Topological sort produces a valid semester-by-semester schedule where no course is taken before its prerequisites, and also detects impossible requirements caused by circular dependencies.",
+    "sourceProject": "LeetCode Problem 210"
+  }
+]

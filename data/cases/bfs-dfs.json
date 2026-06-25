@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "bfs-dfs",
+    "title": "Web Crawlers",
+    "domain": "search-engines",
+    "description": "Web crawlers use BFS to explore pages level by level from seed URLs, ensuring broad coverage before diving deep into any single site. A visited set (hash table) prevents re-crawling the same URL, and the BFS queue naturally prioritizes pages closer to the seed.",
+    "codeSnippet": "from collections import deque\n\ndef crawl_bfs(seed_url, fetch_page, max_pages=1000):\n    visited = set()\n    queue = deque([seed_url])\n    while queue and len(visited) < max_pages:\n        url = queue.popleft()\n        if url in visited:\n            continue\n        visited.add(url)\n        links = fetch_page(url)\n        for link in links:\n            if link not in visited:\n                queue.append(link)\n    return visited",
+    "sourceProject": "Googlebot"
+  },
+  {
+    "algorithm": "bfs-dfs",
+    "title": "File System Traversal",
+    "domain": "operating-systems",
+    "description": "The Unix 'find' command uses DFS to recursively walk directory trees. DFS is memory-efficient for deep hierarchies since it only keeps the current path on the stack, making it ideal for file systems that can have deeply nested directory structures.",
+    "sourceProject": "GNU findutils"
+  },
+  {
+    "algorithm": "bfs-dfs",
+    "title": "Dependency Resolution",
+    "domain": "package-managers",
+    "description": "Package managers use DFS with cycle detection to resolve dependency graphs. Starting from the root package, DFS explores each dependency chain to its leaf, detecting circular dependencies via back-edges in the traversal and producing a valid installation order via post-order.",
+    "sourceProject": "npm"
+  }
+]

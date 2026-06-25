@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0704.二分查找",
+  "functionName": "search",
+  "cases": [
+    { "input": [[-1, 0, 3, 5, 9, 12], 9], "expected": 4, "description": "target exists in array", "category": "basic" },
+    { "input": [[-1, 0, 3, 5, 9, 12], 2], "expected": -1, "description": "target not in array", "category": "basic" },
+    { "input": [[5], 5], "expected": 0, "description": "single element found", "category": "edge" },
+    { "input": [[5], -5], "expected": -1, "description": "single element not found", "category": "edge" },
+    { "input": [[1, 2, 3, 4, 5], 1], "expected": 0, "description": "target is first element", "category": "edge" },
+    { "input": [[1, 2, 3, 4, 5], 5], "expected": 4, "description": "target is last element", "category": "edge" }
+  ]
+}

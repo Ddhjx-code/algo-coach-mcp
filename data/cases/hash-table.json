@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "hash-table",
+    "title": "Redis In-Memory Cache",
+    "domain": "databases",
+    "description": "Redis uses a hash table as its core data structure to provide O(1) key-value lookups. It employs chaining with linked lists for collision resolution and performs incremental rehashing to resize without blocking the event loop.",
+    "codeSnippet": "class SimpleCache:\n    def __init__(self, size=1024):\n        self.buckets = [[] for _ in range(size)]\n\n    def _hash(self, key: str) -> int:\n        return hash(key) % len(self.buckets)\n\n    def get(self, key: str):\n        bucket = self.buckets[self._hash(key)]\n        for k, v in bucket:\n            if k == key:\n                return v\n        return None\n\n    def set(self, key: str, value):\n        bucket = self.buckets[self._hash(key)]\n        for i, (k, _) in enumerate(bucket):\n            if k == key:\n                bucket[i] = (key, value)\n                return\n        bucket.append((key, value))",
+    "sourceProject": "Redis"
+  },
+  {
+    "algorithm": "hash-table",
+    "title": "Database Index Lookup",
+    "domain": "databases",
+    "description": "PostgreSQL supports hash indexes optimized for equality comparisons (= operator). The hash function maps indexed column values to bucket pages, enabling O(1) average-case lookups without the overhead of B-tree traversal for simple equality predicates.",
+    "sourceProject": "PostgreSQL"
+  },
+  {
+    "algorithm": "hash-table",
+    "title": "Network Packet Deduplication",
+    "domain": "networking",
+    "description": "Network switches use Bloom filters — a probabilistic hash-based data structure — to detect duplicate packets at line speed. Multiple hash functions map packet fingerprints to a bit array, allowing fast membership testing with a small, bounded false-positive rate and zero false negatives.",
+    "sourceProject": "Open vSwitch"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "sliding-window",
+    "title": "TCP Congestion Control",
+    "domain": "networking",
+    "description": "TCP uses a sliding window to control how much unacknowledged data can be in flight. The window advances as ACKs arrive and shrinks on packet loss, balancing throughput against network congestion without overwhelming intermediate routers.",
+    "codeSnippet": "class TCPWindow:\n    def __init__(self, size=10):\n        self.window_size = size\n        self.base = 0\n        self.next_seq = 0\n\n    def can_send(self) -> bool:\n        return self.next_seq - self.base < self.window_size\n\n    def send(self):\n        if self.can_send():\n            self.next_seq += 1\n            return self.next_seq - 1\n        return None\n\n    def ack(self, seq_num):\n        if seq_num >= self.base:\n            self.base = seq_num + 1",
+    "sourceProject": "Linux Kernel TCP Stack"
+  },
+  {
+    "algorithm": "sliding-window",
+    "title": "Rate Limiting",
+    "domain": "web-services",
+    "description": "API rate limiters use a sliding window counter to track the number of requests within a rolling time interval. Unlike fixed windows, sliding windows prevent burst traffic at window boundaries by considering partial overlap between adjacent time buckets.",
+    "sourceProject": "Nginx"
+  },
+  {
+    "algorithm": "sliding-window",
+    "title": "Streaming Analytics",
+    "domain": "data-processing",
+    "description": "Stream processing engines like Apache Flink compute aggregations (sum, average, count) over sliding windows of event streams. As new events arrive, they enter the window and old events expire, enabling real-time metrics without storing the entire event history.",
+    "sourceProject": "Apache Flink"
+  }
+]

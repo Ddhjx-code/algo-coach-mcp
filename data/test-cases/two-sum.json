@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0001.两数之和",
+  "functionName": "twoSum",
+  "cases": [
+    { "input": [[2, 7, 11, 15], 9], "expected": [0, 1], "description": "basic case from example", "category": "basic" },
+    { "input": [[3, 2, 4], 6], "expected": [1, 2], "description": "target not using first element", "category": "basic" },
+    { "input": [[3, 3], 6], "expected": [0, 1], "description": "duplicate values", "category": "edge" },
+    { "input": [[-1, -2, -3, -4, -5], -8], "expected": [2, 4], "description": "all negative numbers", "category": "edge" },
+    { "input": [[0, 4, 3, 0], 0], "expected": [0, 3], "description": "zeros in array", "category": "edge" },
+    { "input": [[1000000, 500000, -1500000], -1000000], "expected": [1, 2], "description": "large numbers", "category": "performance" }
+  ]
+}

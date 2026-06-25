@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "binary-search",
+    "title": "Git Bisect",
+    "domain": "developer-tools",
+    "description": "Git bisect performs a binary search over commit history to locate the exact commit that introduced a bug. By marking commits as 'good' or 'bad', it halves the search space each step, finding the culprit in O(log n) steps even across thousands of commits.",
+    "codeSnippet": "def git_bisect(commits, is_bad):\n    lo, hi = 0, len(commits) - 1\n    while lo < hi:\n        mid = (lo + hi) // 2\n        if is_bad(commits[mid]):\n            hi = mid\n        else:\n            lo = mid + 1\n    return commits[lo]  # first bad commit",
+    "sourceProject": "Git"
+  },
+  {
+    "algorithm": "binary-search",
+    "title": "Package Version Resolution",
+    "domain": "package-managers",
+    "description": "Package managers like npm and pip maintain sorted version lists for each package. When resolving version constraints (e.g., >=1.2.0 <2.0.0), they use binary search to efficiently find the highest compatible version from potentially hundreds of published releases.",
+    "sourceProject": "npm"
+  },
+  {
+    "algorithm": "binary-search",
+    "title": "Database B-Tree Lookup",
+    "domain": "databases",
+    "description": "Within each node of a B-tree index, databases perform binary search over the sorted keys to determine which child pointer to follow. This makes each level's lookup O(log k) where k is the branching factor, compounding efficiency across the tree's O(log n) height.",
+    "sourceProject": "SQLite"
+  }
+]

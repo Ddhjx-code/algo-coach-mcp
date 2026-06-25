@@ -1,0 +1,17 @@
+[
+  {
+    "algorithm": "monotonic-stack",
+    "title": "Stock Span Problem",
+    "domain": "finance",
+    "description": "Financial trading systems compute the 'span' of a stock — the number of consecutive preceding days where the price was less than or equal to today's price. A monotonic decreasing stack tracks indices of dominant prices, enabling O(1) amortized span calculation as each price is pushed and weaker prices are popped.",
+    "codeSnippet": "def stock_span(prices):\n    spans = []\n    stack = []  # (price, index)\n    for i, price in enumerate(prices):\n        while stack and stack[-1][0] <= price:\n            stack.pop()\n        span = i - stack[-1][1] if stack else i + 1\n        spans.append(span)\n        stack.append((price, i))\n    return spans",
+    "sourceProject": "Bloomberg Terminal"
+  },
+  {
+    "algorithm": "monotonic-stack",
+    "title": "Histogram Largest Rectangle",
+    "domain": "graphics",
+    "description": "Graphics and layout engines compute the largest rectangle that fits within a histogram of bar heights. A monotonic increasing stack maintains bars in ascending order; when a shorter bar is encountered, the stack unwinds to calculate the maximum area achievable with each popped bar as the shortest in its span.",
+    "sourceProject": "LeetCode Problem 84"
+  }
+]

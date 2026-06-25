@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "union-find",
+    "title": "Network Connectivity",
+    "domain": "networking",
+    "description": "Network monitoring tools use Union-Find to efficiently track connectivity between hosts. When links go up or down, union and find operations determine in near-constant time whether two hosts can still reach each other, without running a full graph traversal.",
+    "codeSnippet": "class UnionFind:\n    def __init__(self, n):\n        self.parent = list(range(n))\n        self.rank = [0] * n\n\n    def find(self, x):\n        if self.parent[x] != x:\n            self.parent[x] = self.find(self.parent[x])\n        return self.parent[x]\n\n    def union(self, x, y):\n        px, py = self.find(x), self.find(y)\n        if px == py:\n            return False\n        if self.rank[px] < self.rank[py]:\n            px, py = py, px\n        self.parent[py] = px\n        if self.rank[px] == self.rank[py]:\n            self.rank[px] += 1\n        return True",
+    "sourceProject": "Linux netfilter"
+  },
+  {
+    "algorithm": "union-find",
+    "title": "Image Segmentation",
+    "domain": "computer-vision",
+    "description": "Image segmentation algorithms group adjacent pixels with similar properties into regions using Union-Find. As the algorithm scans the image, it unions neighboring pixels that meet a similarity threshold, efficiently maintaining disjoint sets that represent distinct image segments.",
+    "sourceProject": "OpenCV"
+  },
+  {
+    "algorithm": "union-find",
+    "title": "Kruskal's MST",
+    "domain": "networking",
+    "description": "Kruskal's algorithm for minimum spanning trees sorts edges by weight and uses Union-Find to efficiently determine whether adding an edge would create a cycle. This enables network designers to build optimal backbone topologies connecting all nodes at minimum total cost.",
+    "sourceProject": "OSPF Network Design"
+  }
+]

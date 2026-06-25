@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "backtracking",
+    "title": "Regex Matching",
+    "domain": "text-processing",
+    "description": "Regular expression engines that support backreferences use backtracking NFA simulation. When a partial match fails (e.g., a quantifier consumed too many characters), the engine backtracks to the last choice point and tries an alternative path through the NFA state graph.",
+    "codeSnippet": "def regex_match(text, pattern, ti=0, pi=0):\n    if pi == len(pattern):\n        return ti == len(text)\n    first_match = ti < len(text) and (\n        pattern[pi] == '.' or pattern[pi] == text[ti]\n    )\n    if pi + 1 < len(pattern) and pattern[pi + 1] == '*':\n        # Try skip (0 matches) or consume (1+ matches)\n        return (regex_match(text, pattern, ti, pi + 2) or\n                (first_match and regex_match(text, pattern, ti + 1, pi)))\n    return first_match and regex_match(text, pattern, ti + 1, pi + 1)",
+    "sourceProject": "PCRE"
+  },
+  {
+    "algorithm": "backtracking",
+    "title": "Constraint Solvers",
+    "domain": "ai",
+    "description": "Sudoku solvers and general constraint satisfaction problem (CSP) engines use backtracking search with constraint propagation. They assign values to variables one at a time, propagate constraints to reduce domains, and backtrack when a contradiction is detected — pruning large portions of the search space.",
+    "sourceProject": "Z3 Theorem Prover"
+  },
+  {
+    "algorithm": "backtracking",
+    "title": "Compiler Register Allocation",
+    "domain": "compilers",
+    "description": "Compilers model register allocation as a graph coloring problem where variables are nodes and edges connect simultaneously live variables. When greedy coloring fails (not enough registers), the compiler backtracks by spilling a variable to memory and retrying the coloring with the reduced interference graph.",
+    "sourceProject": "LLVM"
+  }
+]

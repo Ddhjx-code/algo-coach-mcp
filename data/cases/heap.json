@@ -1,0 +1,24 @@
+[
+  {
+    "algorithm": "heap",
+    "title": "OS Process Scheduling",
+    "domain": "operating-systems",
+    "description": "Operating system schedulers use priority queues (often implemented as binary heaps) to select the next process to run. Higher-priority or shorter-deadline processes are extracted in O(log n) time, ensuring responsive scheduling even with thousands of runnable processes.",
+    "codeSnippet": "import heapq\n\nclass ProcessScheduler:\n    def __init__(self):\n        self.ready_queue = []  # min-heap by priority\n\n    def add_process(self, priority, pid, process):\n        heapq.heappush(self.ready_queue, (priority, pid, process))\n\n    def schedule_next(self):\n        if self.ready_queue:\n            priority, pid, process = heapq.heappop(self.ready_queue)\n            return process\n        return None",
+    "sourceProject": "Linux CFS Scheduler"
+  },
+  {
+    "algorithm": "heap",
+    "title": "Event-Driven Simulation",
+    "domain": "simulation",
+    "description": "Discrete event simulators maintain a min-heap of future events ordered by their scheduled timestamp. The simulation loop repeatedly extracts the earliest event, processes it, and may insert new events — the heap guarantees correct temporal ordering with O(log n) insert and extract operations.",
+    "sourceProject": "SimPy"
+  },
+  {
+    "algorithm": "heap",
+    "title": "K-Way Merge",
+    "domain": "databases",
+    "description": "External sort algorithms merge multiple sorted runs (from disk) using a min-heap of size k holding the smallest unprocessed element from each run. The heap enables selecting the global minimum in O(log k) time, producing the final sorted output in a single streaming pass.",
+    "sourceProject": "LevelDB Compaction"
+  }
+]
