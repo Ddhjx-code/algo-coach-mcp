@@ -3,18 +3,17 @@
 [![npm version](https://img.shields.io/npm/v/algo-coach-mcp)](https://www.npmjs.com/package/algo-coach-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Interactive algorithm coach MCP server powered by [代码随想录 (LeetCode-Master)](https://github.com/youngyangyang04/leetcode-master).
-
-Turns 45 structured algorithm tutorial articles into an interactive practice environment with local code testing and real-world application case mapping.
+Interactive algorithm coach MCP server with 3000+ LeetCode problems, bilingual descriptions (Chinese/English), local code testing, and real-world engineering case mapping.
 
 ## Features
 
-- **Interactive Practice** — Pick problems by topic and difficulty, write code, get instant feedback
+- **3000+ Problems** — Full LeetCode free problem database with bilingual descriptions
+- **12 Topic Categories** — Array, Linked List, Hash Table, String, Two Pointers, Stack/Queue, Binary Tree, Backtracking, Greedy, DP, Monotonic Stack, Graph
 - **Local Code Execution** — Run and test your Python solutions locally, no online judge needed
-- **Progressive Hints** — 4-level hint system: direction → approach → pseudocode → full solution
+- **Progressive Hints** — 4-level hint system: direction -> approach -> pseudocode -> full solution
 - **Real-World Cases** — See how algorithms apply in production systems (Redis, Kafka, React, etc.)
 - **3 Practice Modes** — Student (guided), Interview (timed), Engineering (system design focus)
-- **Theory Review** — Structured fundamentals from 代码随想录 before each topic
+- **LeetCode Sync** — Built-in script to fetch and update problems from LeetCode API
 
 ## Quick Start
 
@@ -26,11 +25,7 @@ Turns 45 structured algorithm tutorial articles into an interactive practice env
 claude mcp add --transport stdio algo-coach -- npx -y --registry https://registry.npmjs.org/ algo-coach-mcp@latest
 ```
 
-Restart Claude Code, then start practicing:
-
-```
-> /algo-coach
-```
+Restart Claude Code, then start practicing.
 
 ### Use with other MCP clients
 
@@ -48,10 +43,6 @@ Add to your MCP configuration:
 }
 ```
 
-### Install the Skill (Optional)
-
-Copy `.claude/skill/algo-coach.md` to your Claude Code skills directory for the full interactive session flow with auto-setup.
-
 ## Available MCP Tools
 
 | Tool | Description |
@@ -66,27 +57,41 @@ Copy `.claude/skill/algo-coach.md` to your Claude Code skills directory for the 
 
 ## Topics
 
-| # | Topic | Problems |
-|---|-------|----------|
-| 1 | Array (数组) | 5 |
-| 2 | Linked List (链表) | 6 |
-| 3 | Hash Table (哈希表) | 9 |
-| 4 | Binary Tree (二叉树) | 13 |
-| 5 | Dynamic Programming (动态规划) | 12 |
+| # | Topic | Description |
+|---|-------|-------------|
+| 1 | Array (数组) | Binary search, two pointers, sliding window |
+| 2 | Linked List (链表) | Reversal, cycle detection, merge |
+| 3 | Hash Table (哈希表) | Lookup, grouping, counting |
+| 4 | String (字符串) | Matching, parsing, manipulation |
+| 5 | Two Pointers (双指针) | Fast-slow, left-right, sliding window |
+| 6 | Stack & Queue (栈与队列) | Monotonic queue, expression parsing |
+| 7 | Binary Tree (二叉树) | Traversal, construction, BST |
+| 8 | Backtracking (回溯) | Permutations, combinations, subsets |
+| 9 | Greedy (贪心) | Interval scheduling, optimization |
+| 10 | Dynamic Programming (动态规划) | Knapsack, subsequence, state machines |
+| 11 | Monotonic Stack (单调栈) | Next greater element, histogram |
+| 12 | Graph (图论) | BFS, DFS, union-find, topological sort |
 
-## Real-World Algorithm Cases
+## LeetCode Sync
 
-12 algorithms mapped to production engineering scenarios:
+Fetch all free problems from LeetCode with bilingual descriptions:
 
-`hash-table` · `binary-search` · `sliding-window` · `bfs-dfs` · `trie` · `topological-sort` · `dynamic-programming` · `union-find` · `monotonic-stack` · `heap` · `backtracking` · `greedy`
+```bash
+npm run sync                  # Full sync (~3000 problems, ~50 min)
+npm run sync -- --limit 100   # Sync first 100 problems
+npm run sync:resume           # Resume interrupted sync
+```
+
+Features: checkpoint/resume, rate limiting (2 req/s), retry logic, bilingual (CN + EN).
 
 ## Development
 
 ```bash
 npm install
 npm run dev        # Run with tsx (hot reload)
-npm test           # Run tests
+npm run sync       # Sync problems from LeetCode
 npm run build      # Build for production
+npm test           # Run tests
 ```
 
 ## Architecture
@@ -96,7 +101,8 @@ src/
 ├── index.ts           # MCP server entry (stdio transport)
 ├── paths.ts           # Package root resolution
 ├── types.ts           # Shared type definitions
-├── content/           # Markdown parsing and indexing
+├── content/           # Content indexing and parsing
+├── sync/              # LeetCode API sync pipeline
 ├── testgen/           # Test case generation
 ├── executor/          # Python subprocess runner
 ├── cases/             # Real-world case loader
