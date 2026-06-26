@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2781.最长合法子字符串的长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"cbaaaabc\", forbidden = [\"aaa\",\"cb\"]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"leetcode\", forbidden = [\"de\",\"le\",\"e\"]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

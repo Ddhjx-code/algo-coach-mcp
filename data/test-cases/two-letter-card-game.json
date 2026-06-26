@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3664.两个字母卡牌游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "cards = [\"aa\",\"ab\",\"ba\",\"ac\"], x = \"a\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "cards = [\"aa\",\"ab\",\"ba\"], x = \"a\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "cards = [\"aa\",\"ab\",\"ba\",\"ac\"], x = \"b\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

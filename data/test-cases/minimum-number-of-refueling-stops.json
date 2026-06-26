@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0871.最低加油次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "target = 1, startFuel = 1, stations = []",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "target = 100, startFuel = 1, stations = [[10,100]]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "target = 100, startFuel = 10, stations = [[10,60],[20,30],[30,30],[60,40]]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

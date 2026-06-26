@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3345.最小可整除数位乘积 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 10, t = 2",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 15, t = 3",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

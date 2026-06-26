@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1816.截断句子",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"Hello how are you Contestant\", k = 4",
+      "expected": "\"Hello how are you\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"What is the solution to this problem\", k = 4",
+      "expected": "\"What is the solution\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"chopper is not a tanuki\", k = 5",
+      "expected": "\"chopper is not a tanuki\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

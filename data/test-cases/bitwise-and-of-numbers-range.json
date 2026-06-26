@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0201.数字范围按位与",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "left = 5, right = 7",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "left = 0, right = 0",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "left = 1, right = 2147483647",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

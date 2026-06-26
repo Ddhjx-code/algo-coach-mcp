@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0091.解码方法",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"12\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"226\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"06\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

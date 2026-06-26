@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1046.最后一块石头的重量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[2,7,4,1,8,1]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[1]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

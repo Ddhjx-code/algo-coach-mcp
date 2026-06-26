@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3556.最大质数子字符串之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"12234\"",
+      "expected": "1469",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"111\"",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

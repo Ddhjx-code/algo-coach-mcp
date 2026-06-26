@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1553.吃掉 N 个橘子的最少天数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 10",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 6",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 56",
+      "expected": "6",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

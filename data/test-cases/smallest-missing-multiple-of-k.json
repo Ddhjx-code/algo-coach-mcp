@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3718.缺失的最小倍数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [8,2,3,4,6], k = 2",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,4,7,10,15], k = 5",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0051.N 皇后",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4",
+      "expected": "[[\".Q..\",\"...Q\",\"Q...\",\"..Q.\"],[\"..Q.\",\"Q...\",\"...Q\",\".Q..\"]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "[[\"Q\"]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

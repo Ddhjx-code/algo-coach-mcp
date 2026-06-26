@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0258.各位相加",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 38",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 0",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

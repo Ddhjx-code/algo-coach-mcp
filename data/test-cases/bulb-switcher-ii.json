@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0672.灯泡开关 Ⅱ",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1, presses = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, presses = 1",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, presses = 1",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

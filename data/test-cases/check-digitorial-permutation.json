@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3848.阶数数字排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 145",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

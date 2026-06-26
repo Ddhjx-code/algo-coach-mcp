@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3146.两个字符串的排列差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\", t = \"bac\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcde\", t = \"edbac\"",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

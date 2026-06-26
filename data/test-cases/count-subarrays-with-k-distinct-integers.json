@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3859.统计包含 K 个不同整数的子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,1,2,2], k = 2, m = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,1,2,4], k = 2, m = 1",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

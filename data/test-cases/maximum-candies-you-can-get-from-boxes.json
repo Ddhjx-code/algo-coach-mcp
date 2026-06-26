@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1298.你能从盒子里获得的最大糖果数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "status = [1,0,1,0], candies = [7,5,4,100], keys = [[],[],[1],[]], containedBoxes = [[1,2],[3],[],[]], initialBoxes = [0]",
+      "expected": "16",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "status = [1,0,0,0,0,0], candies = [1,1,1,1,1,1], keys = [[1,2,3,4,5],[],[],[],[],[]], containedBoxes = [[1,2,3,4,5],[],[],[],[],[]], initialBoxes = [0]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "status = [1,1,1], candies = [100,1,100], keys = [[],[0,2],[]], containedBoxes = [[],[],[]], initialBoxes = [1]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "status = [1], candies = [100], keys = [[]], containedBoxes = [[]], initialBoxes = []",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "status = [1,1,1], candies = [2,3,2], keys = [[],[],[]], containedBoxes = [[],[],[]], initialBoxes = [2,1,0]",
+      "expected": "7",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

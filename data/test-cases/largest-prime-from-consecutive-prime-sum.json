@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3770.可表示为连续质数和的最大质数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 20",
+      "expected": "17",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

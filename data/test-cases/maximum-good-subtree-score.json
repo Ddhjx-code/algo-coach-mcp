@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3575.最大好子树分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "vals = [2,3], par = [-1,0]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "vals = [1,5,2], par = [-1,0,0]",
+      "expected": "15",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "vals = [34,1,2], par = [-1,0,1]",
+      "expected": "42",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "vals = [3,22,5], par = [-1,0,1]",
+      "expected": "18",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

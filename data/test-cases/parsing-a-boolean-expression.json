@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1106.解析布尔表达式",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "expression = \"&amp;(|(f))\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"|(f,f,f,t)\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"!(&amp;(f,t))\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

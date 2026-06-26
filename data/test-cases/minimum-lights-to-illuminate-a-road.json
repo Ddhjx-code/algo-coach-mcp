@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3964.照亮道路的最少灯泡数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "lights = [0,0,0,0]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "lights = [0,0,0,2,0]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

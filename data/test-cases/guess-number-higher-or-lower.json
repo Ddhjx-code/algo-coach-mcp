@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0374.猜数字大小",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 10, pick = 6",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, pick = 1",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, pick = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

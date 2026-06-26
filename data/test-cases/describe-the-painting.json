@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1943.描述绘画结果",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "segments = [[1,4,5],[4,7,7],[1,7,9]]",
+      "expected": "[[1,4,14],[4,7,16]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "segments = [[1,7,9],[6,8,15],[8,10,7]]",
+      "expected": "[[1,6,9],[6,7,24],[7,8,15],[8,10,7]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "segments = [[1,4,5],[1,4,7],[4,7,1],[4,7,11]]",
+      "expected": "[[1,4,12],[4,7,12]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

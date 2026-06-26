@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3791.给定范围内平衡整数的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "low = 1, high = 100",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "low = 120, high = 129",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "low = 1234, high = 1234",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

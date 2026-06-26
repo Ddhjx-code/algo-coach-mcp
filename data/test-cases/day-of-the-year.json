@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1154.一年中的第几天",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "date = \"2019-01-09\"",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "date = \"2019-02-10\"",
+      "expected": "41",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

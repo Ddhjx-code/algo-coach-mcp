@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0187.重复的DNA序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT\"",
+      "expected": "[\"AAAAACCCCC\",\"CCCCCAAAAA\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"AAAAAAAAAAAAA\"",
+      "expected": "[\"AAAAAAAAAA\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

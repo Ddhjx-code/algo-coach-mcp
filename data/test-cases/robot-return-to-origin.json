@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0657.机器人能否返回原点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "moves = \"UD\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "moves = \"LL\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

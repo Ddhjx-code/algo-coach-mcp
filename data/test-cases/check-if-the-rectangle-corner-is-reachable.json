@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3235.判断矩形的两个角落是否可达",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "X = 3, Y = 4, circles = [[2,1,1]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "X = 3, Y = 3, circles = [[1,1,2]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "X = 3, Y = 3, circles = [[2,1,1],[1,2,1]]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "X = 4, Y = 4, circles = [[5,5,1]]",
+      "expected": "true",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

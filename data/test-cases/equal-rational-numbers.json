@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0972.相等的有理数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"0.(52)\", t = \"0.5(25)\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0.1666(6)\", t = \"0.166(66)\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0.9(9)\", t = \"1.\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

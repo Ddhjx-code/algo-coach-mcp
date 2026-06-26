@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0067.二进制求和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = \"11\", b = \"1\"",
+      "expected": "\"100\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = \"1010\", b = \"1011\"",
+      "expected": "\"10101\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

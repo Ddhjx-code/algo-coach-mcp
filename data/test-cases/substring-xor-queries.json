@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2564.子字符串异或查询",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"101101\", queries = [[0,5],[1,2]]",
+      "expected": "[[0,2],[2,3]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0101\", queries = [[12,8]]",
+      "expected": "[[-1,-1]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1\", queries = [[4,5]]",
+      "expected": "[[0,0]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

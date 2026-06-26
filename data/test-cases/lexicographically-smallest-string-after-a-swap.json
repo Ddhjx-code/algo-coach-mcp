@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3216.交换后字典序最小的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"45320\"",
+      "expected": "\"43520\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"001\"",
+      "expected": "\"001\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

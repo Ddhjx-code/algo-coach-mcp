@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0118.杨辉三角",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "numRows = 5",
+      "expected": "[[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "numRows = 1",
+      "expected": "[[1]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

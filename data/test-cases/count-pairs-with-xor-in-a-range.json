@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1803.统计异或值在范围内的数对有多少",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,4,2,7], low = 2, high = 6",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [9,8,4,2,1], low = 5, high = 14",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

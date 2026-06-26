@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0076.最小覆盖子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"ADOBECODEBANC\", t = \"ABC\"",
+      "expected": "\"BANC\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a\", t = \"a\"",
+      "expected": "\"a\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a\", t = \"aa\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

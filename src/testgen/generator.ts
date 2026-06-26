@@ -1,28 +1,37 @@
-import { readFileSync, existsSync, readdirSync } from "node:fs";
+import { readFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
-import type { TestSuite } from "../types.js";
+import type { ProblemEntry, TestSuite } from "../types.js";
 import { TOPIC_TEMPLATES } from "./templates.js";
 import { DATA_DIR } from "../paths.js";
 
 const TEST_CASES_DIR = resolve(DATA_DIR, "test-cases");
 
-export function generateTestCases(problemSlug: string, topic: string): TestSuite {
-  const preAuthored = loadPreAuthored(problemSlug);
-  if (preAuthored) return preAuthored;
+export function generateTestCases(problem: ProblemEntry): TestSuite {
+  const preAuthored = loadPreAuthored(problem.leetcodeSlug, problem.slug);
+  const functionName = extractFunctionName(problem);
 
-  const templateCases = TOPIC_TEMPLATES[topic] ?? [];
+  if (preAuthored) {
+    return { ...preAuthored, functionName };
+  }
+
+  const templateCases = TOPIC_TEMPLATES[problem.topic] ?? [];
   return {
-    problemSlug,
-    functionName: "solution",
+    problemSlug: problem.slug,
+    functionName,
     cases: templateCases,
   };
 }
 
-function loadPreAuthored(problemSlug: string): TestSuite | null {
-  const candidates = buildCandidates(problemSlug);
+function loadPreAuthored(leetcodeSlug: string, slug: string): TestSuite | null {
+  const candidates = [leetcodeSlug, slug];
 
-  for (const fileName of candidates) {
-    const filePath = resolve(TEST_CASES_DIR, `${fileName}.json`);
+  const dotIdx = slug.indexOf(".");
+  if (dotIdx > 0) {
+    candidates.push(slug.slice(dotIdx + 1));
+  }
+
+  for (const name of candidates) {
+    const filePath = resolve(TEST_CASES_DIR, `${name}.json`);
     if (!existsSync(filePath)) continue;
 
     try {
@@ -36,30 +45,21 @@ function loadPreAuthored(problemSlug: string): TestSuite | null {
   return null;
 }
 
-function buildCandidates(problemSlug: string): string[] {
-  const candidates: string[] = [];
+function extractFunctionName(problem: ProblemEntry): string {
+  const pythonCode = problem.solutions.python ?? problem.solutions.javascript;
+  if (pythonCode) {
+    const match = pythonCode.match(/def\s+(\w+)\s*\(/);
+    if (match && match[1] !== "__init__") return match[1];
 
-  const dotIdx = problemSlug.indexOf(".");
-  if (dotIdx > 0) {
-    candidates.push(problemSlug.slice(dotIdx + 1));
-  }
-  candidates.push(problemSlug);
-
-  try {
-    const files = readdirSync(TEST_CASES_DIR);
-    for (const f of files) {
-      if (!f.endsWith(".json")) continue;
-      const name = f.replace(".json", "");
-      if (!candidates.includes(name)) {
-        const slugLower = problemSlug.toLowerCase();
-        if (slugLower.includes(name) || name.includes(slugLower)) {
-          candidates.push(name);
-        }
-      }
-    }
-  } catch {
-    // test-cases dir may not exist
+    const jsMatch = pythonCode.match(/(?:var|const|function)\s+(\w+)\s*[=(]/);
+    if (jsMatch) return jsMatch[1];
   }
 
-  return candidates;
+  const javaCode = problem.solutions.java ?? problem.solutions.cpp;
+  if (javaCode) {
+    const match = javaCode.match(/(?:public|private)\s+\w+[\w<>\[\], ]*\s+(\w+)\s*\(/);
+    if (match && match[1] !== "Solution") return match[1];
+  }
+
+  return "solution";
 }

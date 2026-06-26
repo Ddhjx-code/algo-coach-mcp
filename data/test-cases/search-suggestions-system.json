@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1268.搜索推荐系统",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "products = [&quot;mobile&quot;,&quot;mouse&quot;,&quot;moneypot&quot;,&quot;monitor&quot;,&quot;mousepad&quot;], searchWord = &quot;mouse&quot;",
+      "expected": "[ [&quot;mobile&quot;,&quot;moneypot&quot;,&quot;monitor&quot;], [&quot;mobile&quot;,&quot;moneypot&quot;,&quot;monitor&quot;], [&quot;mouse&quot;,&quot;mousepad&quot;], [&quot;mouse&quot;,&quot;mousepad&quot;], [&quot;mouse&quot;,&quot;mousepad&quot;] ]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "products = [&quot;havana&quot;], searchWord = &quot;havana&quot;",
+      "expected": "[[&quot;havana&quot;],[&quot;havana&quot;],[&quot;havana&quot;],[&quot;havana&quot;],[&quot;havana&quot;],[&quot;havana&quot;]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "products = [&quot;bags&quot;,&quot;baggage&quot;,&quot;banner&quot;,&quot;box&quot;,&quot;cloths&quot;], searchWord = &quot;bags&quot;",
+      "expected": "[[&quot;baggage&quot;,&quot;bags&quot;,&quot;banner&quot;],[&quot;baggage&quot;,&quot;bags&quot;,&quot;banner&quot;],[&quot;baggage&quot;,&quot;bags&quot;],[&quot;bags&quot;]]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "products = [&quot;havana&quot;], searchWord = &quot;tatiana&quot;",
+      "expected": "[[],[],[],[],[],[],[]]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

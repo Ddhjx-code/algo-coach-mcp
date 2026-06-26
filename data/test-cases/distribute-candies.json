@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0575.分糖果",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "candyType = [1,1,2,2,3,3]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "candyType = [1,1,2,3]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "candyType = [6,6,6,6]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

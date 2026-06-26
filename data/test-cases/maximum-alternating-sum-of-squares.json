@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3727.最大交替平方和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3]",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,-1,2,-2,3,-3]",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

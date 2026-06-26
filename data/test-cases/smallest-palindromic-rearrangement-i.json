@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3517.最小回文排列 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"z\"",
+      "expected": "\"z\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"babab\"",
+      "expected": "\"abbba\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"daccad\"",
+      "expected": "\"acddca\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

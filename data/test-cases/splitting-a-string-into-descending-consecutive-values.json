@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1849.将字符串拆分为递减的连续值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1234\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"050043\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"9080701\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"10009998\"",
+      "expected": "true",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

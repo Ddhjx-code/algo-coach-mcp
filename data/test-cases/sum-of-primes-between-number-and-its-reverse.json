@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3918.数与其逆序数之间的质数和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 13",
+      "expected": "132",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10",
+      "expected": "17",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 8",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

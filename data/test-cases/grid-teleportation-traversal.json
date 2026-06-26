@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3552.网格传送门旅游",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matrix = [\"A..\",\".A.\",\"...\"]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [\".#...\",\".#.#.\",\".#.#.\",\"...#.\"]",
+      "expected": "13",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

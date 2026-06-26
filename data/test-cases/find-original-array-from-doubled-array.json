@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2007.从双倍数组中还原原数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "changed = [1,3,4,2,6,8]",
+      "expected": "[1,3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "changed = [6,3,0,1]",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "changed = [1]",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

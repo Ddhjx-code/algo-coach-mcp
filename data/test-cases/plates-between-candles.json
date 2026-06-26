@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2055.蜡烛之间的盘子",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"**|**|***|\", queries = [[2,5],[5,9]]",
+      "expected": "[2,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"***|**|*****|**||**|*\", queries = [[1,17],[4,5],[14,17],[5,11],[15,16]]",
+      "expected": "[9,0,0,0,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

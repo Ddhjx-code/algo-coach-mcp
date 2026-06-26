@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0927.三等分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [1,0,1,0,1]",
+      "expected": "[0,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,1,0,1,1]",
+      "expected": "[-1,-1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,1,0,0,1]",
+      "expected": "[0,2]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

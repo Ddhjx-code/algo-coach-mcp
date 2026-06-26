@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2996.大于等于顺序前缀和的最小缺失整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,2,5]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,4,5,1,12,14,13]",
+      "expected": "15",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

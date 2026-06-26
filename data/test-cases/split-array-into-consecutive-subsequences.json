@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0659.分割数组为连续子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,3,4,5]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,3,4,4,5,5]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4,4,5]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

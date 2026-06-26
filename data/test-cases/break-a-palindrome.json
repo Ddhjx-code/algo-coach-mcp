@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1328.破坏回文串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "palindrome = \"abccba\"",
+      "expected": "\"aaccba\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "palindrome = \"a\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

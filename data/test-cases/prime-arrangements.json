@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1175.质数排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 100",
+      "expected": "682289015",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

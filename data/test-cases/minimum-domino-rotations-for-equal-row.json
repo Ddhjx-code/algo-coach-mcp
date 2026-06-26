@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1007.行相等的最少多米诺旋转",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "tops = [2,1,2,4,2,2], bottoms = [5,2,6,2,3,2]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "tops = [3,5,1,2,3], bottoms = [3,6,3,3,4]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

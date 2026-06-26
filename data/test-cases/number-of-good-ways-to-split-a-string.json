@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1525.字符串的好分割数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;aacaba&quot;",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;abcd&quot;",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;aaaaa&quot;",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;acbadbaada&quot;",
+      "expected": "2",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

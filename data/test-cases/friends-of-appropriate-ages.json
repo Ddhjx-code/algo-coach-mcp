@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0825.适龄的朋友",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "ages = [16,16]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "ages = [16,17,18]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "ages = [20,30,100,110,120]",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

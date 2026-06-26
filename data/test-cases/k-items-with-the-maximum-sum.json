@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2600.K 件物品的最大和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "numOnes = 3, numZeros = 2, numNegOnes = 0, k = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "numOnes = 3, numZeros = 2, numNegOnes = 0, k = 4",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

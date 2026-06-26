@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0747.至少是其他数字两倍的最大数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,6,1,0]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2800.包含三个字符串的最短字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = \"abc\", b = \"bca\", c = \"aaa\"",
+      "expected": "\"aaabca\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = \"ab\", b = \"ba\", c = \"aba\"",
+      "expected": "\"aba\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

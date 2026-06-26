@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1128.等价多米诺骨牌对的数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "dominoes = [[1,2],[2,1],[3,4],[5,6]]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "dominoes = [[1,2],[1,2],[1,1],[1,2],[2,2]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

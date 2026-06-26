@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2404.出现最频繁的偶数元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,1,2,2,4,4,1]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,4,4,9,2,4]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [29,47,21,41,13,37,25,7]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

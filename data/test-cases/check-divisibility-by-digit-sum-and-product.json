@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3622.判断整除性",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 99",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 23",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

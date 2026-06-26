@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0820.单词的压缩编码",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"time\", \"me\", \"bell\"]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"t\"]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

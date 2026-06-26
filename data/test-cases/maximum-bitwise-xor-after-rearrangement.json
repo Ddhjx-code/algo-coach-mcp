@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3849.重新排列后的最大按位异或值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"101\", t = \"011\"",
+      "expected": "\"110\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0110\", t = \"1110\"",
+      "expected": "\"1101\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0101\", t = \"1001\"",
+      "expected": "\"1111\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

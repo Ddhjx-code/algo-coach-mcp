@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1330.翻转子数组得到最大的数组值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,1,5,4]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,4,9,24,2,1,10]",
+      "expected": "68",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

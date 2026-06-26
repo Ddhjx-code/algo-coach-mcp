@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3319.第 K 大的完美二叉子树的大小",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [5,3,6,5,2,5,7,1,8,null,null,6,8], k = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,2,3,4,5,6,7], k = 1",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,2,3,null,4], k = 3",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

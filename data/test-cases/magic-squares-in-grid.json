@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0840.矩阵中的幻方",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[4,3,8,4],[9,5,1,9],[2,7,6,2]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[8]]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

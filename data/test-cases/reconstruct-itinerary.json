@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0332.重新安排行程",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "tickets = [[\"MUC\",\"LHR\"],[\"JFK\",\"MUC\"],[\"SFO\",\"SJC\"],[\"LHR\",\"SFO\"]]",
+      "expected": "[\"JFK\",\"MUC\",\"LHR\",\"SFO\",\"SJC\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "tickets = [[\"JFK\",\"SFO\"],[\"JFK\",\"ATL\"],[\"SFO\",\"ATL\"],[\"ATL\",\"JFK\"],[\"ATL\",\"SFO\"]]",
+      "expected": "[\"JFK\",\"ATL\",\"JFK\",\"SFO\",\"ATL\",\"SFO\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

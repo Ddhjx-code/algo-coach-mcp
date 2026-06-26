@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1742.盒子中小球的最大数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "lowLimit = 1, highLimit = 10",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "lowLimit = 5, highLimit = 15",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "lowLimit = 19, highLimit = 28",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

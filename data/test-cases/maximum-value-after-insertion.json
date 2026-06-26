@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1881.插入后的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = \"99\", x = 9",
+      "expected": "\"999\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = \"-13\", x = 2",
+      "expected": "\"-123\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

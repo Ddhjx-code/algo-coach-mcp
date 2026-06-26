@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3761.镜像对之间最小绝对距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [12,21,45,33,54]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [120,21]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [21,120]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

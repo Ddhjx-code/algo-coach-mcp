@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3518.最小回文排列 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abba\", k = 2",
+      "expected": "\"baab\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aa\", k = 2",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bacab\", k = 1",
+      "expected": "\"abcba\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

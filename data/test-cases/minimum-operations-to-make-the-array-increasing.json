@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1827.最少操作使数组递增",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,1]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,5,2,4,1]",
+      "expected": "14",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [8]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

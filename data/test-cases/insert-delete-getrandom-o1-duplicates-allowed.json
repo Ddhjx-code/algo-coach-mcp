@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0381.O(1) 时间插入、删除和获取随机元素 - 允许重复",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"RandomizedCollection\",\"insert\",\"insert\",\"insert\",\"getRandom\",\"remove\",\"getRandom\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[1],[1],[2],[],[1],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

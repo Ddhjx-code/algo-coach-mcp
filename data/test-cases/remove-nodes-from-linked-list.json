@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2487.从链表中移除节点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [5,2,13,3,8]",
+      "expected": "[13,8]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [1,1,1,1]",
+      "expected": "[1,1,1,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

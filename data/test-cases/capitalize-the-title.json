@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2129.将标题首字母大写",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "title = \"capiTalIze tHe titLe\"",
+      "expected": "\"Capitalize The Title\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "title = \"First leTTeR of EACH Word\"",
+      "expected": "\"First Letter of Each Word\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "title = \"i lOve leetcode\"",
+      "expected": "\"i Love Leetcode\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

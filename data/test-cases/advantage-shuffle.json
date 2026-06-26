@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0870.优势洗牌",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [2,7,11,15], nums2 = [1,10,4,11]",
+      "expected": "[2,11,7,15]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [12,24,8,32], nums2 = [13,25,32,11]",
+      "expected": "[24,32,8,12]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

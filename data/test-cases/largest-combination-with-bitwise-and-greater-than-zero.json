@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2275.按位与结果大于零的最长组合",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "candidates = [16,17,71,62,12,24,14]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "candidates = [8,8]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

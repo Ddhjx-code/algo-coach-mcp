@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3615.图中的最长回文路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, edges = [[0,1],[1,2]], label = \"aba\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[0,1],[0,2]], label = \"abc\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, edges = [[0,2],[0,3],[3,1]], label = \"bbac\"",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

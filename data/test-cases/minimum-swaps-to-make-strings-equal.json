@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1247.交换字符使得字符串相同",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"xx\", s2 = \"yy\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"xy\", s2 = \"yx\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"xx\", s2 = \"xy\"",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

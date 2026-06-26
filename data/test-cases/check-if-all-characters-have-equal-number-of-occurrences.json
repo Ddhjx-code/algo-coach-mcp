@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1941.检查是否所有字符出现次数相同",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abacbc\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aaabb\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2895.最小处理时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "processorTime = [8,10], tasks = [2,2,3,1,8,7,4,5]",
+      "expected": "16",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "processorTime = [10,20], tasks = [2,3,1,2,5,8,4,3]",
+      "expected": "23",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

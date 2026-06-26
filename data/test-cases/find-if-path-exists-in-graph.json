@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1971.寻找图中是否存在路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, edges = [[0,1],[1,2],[2,0]], source = 0, destination = 2",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 6, edges = [[0,1],[0,2],[3,5],[5,4],[4,3]], source = 0, destination = 5",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

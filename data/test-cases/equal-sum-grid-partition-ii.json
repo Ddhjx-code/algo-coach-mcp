@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3548.等和矩阵分割 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,4],[2,3]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,2],[3,4]]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,2,4],[2,3,5]]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[4,1,8],[3,2,6]]",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

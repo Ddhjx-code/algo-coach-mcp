@@ -1,0 +1,12 @@
+{
+  "problemSlug": "1993.树上的操作",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"LockingTree\", \"lock\", \"unlock\", \"unlock\", \"lock\", \"upgrade\", \"lock\"] [[[-1, 0, 0, 1, 1, 2, 2]], [2, 2], [2, 3], [2, 2], [4, 5], [0, 1], [0, 1]]",
+      "expected": "[null, true, false, true, true, true, false]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3241.标记所有节点需要的时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "edges = [[0,1],[0,2]]",
+      "expected": "[2,4,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "edges = [[0,1]]",
+      "expected": "[1,2]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "edges = [[2,4],[0,1],[2,3],[0,2]]",
+      "expected": "[4,6,3,5,5]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

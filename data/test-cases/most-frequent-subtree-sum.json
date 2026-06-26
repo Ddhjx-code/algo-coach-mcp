@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0508.出现次数最多的子树元素和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [5,2,-3]",
+      "expected": "[2,-3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [5,2,-5]",
+      "expected": "[2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

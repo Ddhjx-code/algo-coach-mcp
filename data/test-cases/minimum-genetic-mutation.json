@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0433.最小基因变化",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "start = \"AACCGGTT\", end = \"AACCGGTA\", bank = [\"AACCGGTA\"]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "start = \"AACCGGTT\", end = \"AAACGGTA\", bank = [\"AACCGGTA\",\"AACCGCTA\",\"AAACGGTA\"]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "start = \"AAAAACCC\", end = \"AACCCCCC\", bank = [\"AAAACCCC\",\"AAACCCCC\",\"AACCCCCC\"]",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

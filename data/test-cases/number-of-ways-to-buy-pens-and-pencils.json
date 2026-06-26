@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2240.买钢笔和铅笔的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "total = 20, cost1 = 10, cost2 = 5",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "total = 5, cost1 = 10, cost2 = 10",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

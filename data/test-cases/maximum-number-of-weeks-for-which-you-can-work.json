@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1953.你可以工作的最大周数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "milestones = [1,2,3]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "milestones = [5,2,1]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

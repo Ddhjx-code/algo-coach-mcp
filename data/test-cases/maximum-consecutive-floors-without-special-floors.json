@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2274.不含特殊楼层的最大连续楼层数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "bottom = 2, top = 9, special = [4,6]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "bottom = 6, top = 8, special = [7,6,8]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

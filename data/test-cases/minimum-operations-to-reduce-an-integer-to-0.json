@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2571.将整数减少到零需要的最少操作数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 39",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 54",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

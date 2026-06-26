@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2243.计算字符串的数字和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"11111222223\", k = 3",
+      "expected": "\"135\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"00000000\", k = 3",
+      "expected": "\"000\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

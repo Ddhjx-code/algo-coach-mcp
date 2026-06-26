@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2162.设置时间的最少代价",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "startAt = 1, moveCost = 2, pushCost = 1, targetSeconds = 600",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "startAt = 0, moveCost = 1, pushCost = 2, targetSeconds = 76",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

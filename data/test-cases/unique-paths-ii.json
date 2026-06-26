@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0063.不同路径 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "obstacleGrid = [[0,0,0],[0,1,0],[0,0,0]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "obstacleGrid = [[0,1],[0,0]]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

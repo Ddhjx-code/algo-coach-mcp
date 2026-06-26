@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0793.阶乘函数后 K 个零",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 0",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 5",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "k = 3",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

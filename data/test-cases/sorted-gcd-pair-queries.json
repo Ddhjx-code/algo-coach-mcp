@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3312.查询排序后的最大公约数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,4], queries = [0,2,2]",
+      "expected": "[1,2,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,4,2,1], queries = [5,3,1,0]",
+      "expected": "[4,2,1,1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2], queries = [0,0]",
+      "expected": "[2,2]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

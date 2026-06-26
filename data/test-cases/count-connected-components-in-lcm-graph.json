@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3378.统计最小公倍数图中的连通块数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,4,8,3,9], threshold = 5",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,4,8,3,9,12], threshold = 10",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

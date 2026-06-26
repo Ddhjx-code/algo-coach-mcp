@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0375.猜数字大小 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 10",
+      "expected": "16",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

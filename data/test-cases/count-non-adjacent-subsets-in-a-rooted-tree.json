@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3939.统计有根树中不相邻子集的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "parent = [-1,0,1], nums = [1,2,3], k = 3",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "parent = [-1,0,0,0], nums = [2,1,2,1], k = 3",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

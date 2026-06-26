@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0917.仅仅反转字母",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"ab-cd\"",
+      "expected": "\"dc-ba\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a-bC-dEf-ghIj\"",
+      "expected": "\"j-Ih-gfE-dCba\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"Test1ng-Leet=code-Q!\"",
+      "expected": "\"Qedo1ct-eeLg=ntse-T!\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

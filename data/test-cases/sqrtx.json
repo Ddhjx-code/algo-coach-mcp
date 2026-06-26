@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0069.x 的平方根 ",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "x = 4",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "x = 8",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

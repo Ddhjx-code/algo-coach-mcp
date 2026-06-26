@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3645.最优激活顺序得到的最大总和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "value = [3,5,8], limit = [2,1,3]",
+      "expected": "16",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "value = [4,2,6], limit = [1,1,1]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "value = [4,1,5,2], limit = [3,3,2,3]",
+      "expected": "12",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

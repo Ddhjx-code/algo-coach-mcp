@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1324.竖直打印单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;HOW ARE YOU&quot;",
+      "expected": "[&quot;HAY&quot;,&quot;ORO&quot;,&quot;WEU&quot;]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;TO BE OR NOT TO BE&quot;",
+      "expected": "[&quot;TBONTB&quot;,&quot;OEROOE&quot;,&quot; T&quot;]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;CONTEST IS COMING&quot;",
+      "expected": "[&quot;CIC&quot;,&quot;OSO&quot;,&quot;N M&quot;,&quot;T I&quot;,&quot;E N&quot;,&quot;S G&quot;,&quot;T&quot;]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1111.有效括号的嵌套深度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "seq = \"(()())\"",
+      "expected": "[0,1,1,1,1,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "seq = \"()(())()\"",
+      "expected": "[0,0,0,1,1,0,1,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

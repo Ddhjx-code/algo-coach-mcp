@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3955.成本限制的有效二进制字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 1",
+      "expected": "[\"000\",\"010\",\"100\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, k = 0",
+      "expected": "[\"0\",\"1\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

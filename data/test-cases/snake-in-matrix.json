@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3248.矩阵中的蛇",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, commands = [\"RIGHT\",\"DOWN\"]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, commands = [\"DOWN\",\"RIGHT\",\"UP\"]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0795.区间子数组个数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,1,4,3], left = 2, right = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,9,2,5,6], left = 2, right = 8",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

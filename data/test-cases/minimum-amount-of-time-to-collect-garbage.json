@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2391.收集垃圾的最少总时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "garbage = [\"G\",\"P\",\"GP\",\"GG\"], travel = [2,4,3]",
+      "expected": "21",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "garbage = [\"MMM\",\"PGM\",\"GP\"], travel = [3,10]",
+      "expected": "37",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

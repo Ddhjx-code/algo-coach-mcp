@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0237.删除链表中的节点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [4,5,1,9], node = 5",
+      "expected": "[4,1,9]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [4,5,1,9], node = 1",
+      "expected": "[4,5,9]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

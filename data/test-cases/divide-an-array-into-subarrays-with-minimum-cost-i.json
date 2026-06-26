@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3010.将数组分成最小总代价的子数组 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,12]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,4,3]",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,3,1,1]",
+      "expected": "12",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

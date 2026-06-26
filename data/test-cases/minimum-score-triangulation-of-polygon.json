@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1039.多边形三角剖分的最低得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "values = [1,2,3]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "values = [3,7,4,5]",
+      "expected": "144",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "values = [1,3,1,4,1,5]",
+      "expected": "13",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

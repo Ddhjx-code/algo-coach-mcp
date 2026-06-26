@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3509.最大化交错和为 K 的子序列乘积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3], k = 2, limit = 10",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,2,3], k = -5, limit = 12",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2,3,3], k = 0, limit = 9",
+      "expected": "9",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

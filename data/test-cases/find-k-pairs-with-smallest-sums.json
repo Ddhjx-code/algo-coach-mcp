@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0373.查找和最小的 K 对数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [1,7,11], nums2 = [2,4,6], k = 3",
+      "expected": "[[1,2],[1,4],[1,6]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [1,1,2], nums2 = [1,2,3], k = 2",
+      "expected": "[[1,1],[1,1]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3309.连接二进制表示可形成的最大数值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3]",
+      "expected": "30",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,8,16]",
+      "expected": "1296",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

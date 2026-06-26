@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2918.数组的最小相等和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [3,2,0,1,0], nums2 = [6,5,0]",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [2,0,2,0], nums2 = [1,4]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

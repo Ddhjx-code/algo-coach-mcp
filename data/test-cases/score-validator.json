@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3921.分数验证器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "events = [\"1\",\"4\",\"W\",\"6\",\"WD\"]",
+      "expected": "[12,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "events = [\"WD\",\"NB\",\"0\",\"4\",\"4\"]",
+      "expected": "[10,0]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "events = [\"W\",\"W\",\"W\",\"W\",\"W\",\"W\",\"W\",\"W\",\"W\",\"W\",\"W\"]",
+      "expected": "[0,10]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

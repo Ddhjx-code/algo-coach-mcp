@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2920.收集所有金币可获得的最大积分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "edges = [[0,1],[1,2],[2,3]], coins = [10,10,3,3], k = 5",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "edges = [[0,1],[0,2]], coins = [8,4,4], k = 0",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

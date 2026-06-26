@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2999.统计强大整数的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "start = 1, finish = 6000, limit = 4, s = \"124\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "start = 15, finish = 215, limit = 6, s = \"10\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "start = 1000, finish = 2000, limit = 4, s = \"3000\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

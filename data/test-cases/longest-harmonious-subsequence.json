@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0594.最长和谐子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,3,2,2,5,2,3,7]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,1,1]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2768.黑格子的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "m = 3, n = 3, coordinates = [[0,0]]",
+      "expected": "[3,1,0,0,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "m = 3, n = 3, coordinates = [[0,0],[1,1],[0,2]]",
+      "expected": "[0,2,2,0,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

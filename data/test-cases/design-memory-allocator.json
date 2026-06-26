@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2502.设计内存分配器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Allocator\",\"allocate\",\"allocate\",\"allocate\",\"freeMemory\",\"allocate\",\"allocate\",\"allocate\",\"freeMemory\",\"allocate\",\"freeMemory\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[10],[1,1],[1,2],[1,3],[2],[3,4],[1,1],[1,1],[1],[10,2],[7]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

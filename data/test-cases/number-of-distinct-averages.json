@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2465.不同的平均值数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,1,4,0,3,5]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,100]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

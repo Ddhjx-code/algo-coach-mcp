@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1416.恢复数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;1000&quot;, k = 10000",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;1000&quot;, k = 10",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;1317&quot;, k = 2000",
+      "expected": "8",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;2020&quot;, k = 30",
+      "expected": "1",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;1234567890&quot;, k = 90",
+      "expected": "34",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3757.有效子序列的数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [7,4,6]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [8,8]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2,1]",
+      "expected": "5",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

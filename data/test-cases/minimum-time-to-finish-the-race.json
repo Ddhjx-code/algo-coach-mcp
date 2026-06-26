@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2188.完成比赛的最少时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "tires = [[2,3],[3,4]], changeTime = 5, numLaps = 4",
+      "expected": "21",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "tires = [[1,10],[2,2],[3,4]], changeTime = 6, numLaps = 5",
+      "expected": "25",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

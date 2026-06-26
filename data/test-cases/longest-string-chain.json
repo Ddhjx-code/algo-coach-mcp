@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1048.最长字符串链",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"a\",\"b\",\"ba\",\"bca\",\"bda\",\"bdca\"]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"xbc\",\"pcxbcf\",\"xb\",\"cxbc\",\"pcxbc\"]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"abcd\",\"dbqca\"]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

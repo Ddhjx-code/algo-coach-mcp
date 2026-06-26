@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2897.对数组执行操作使平方和最大",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,6,5,8], k = 2",
+      "expected": "261",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,5,4,7], k = 3",
+      "expected": "90",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3500.将数组分割为子数组的最小代价",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,4], cost = [4,6,6], k = 1",
+      "expected": "110",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,8,5,1,14,2,2,12,1], cost = [7,2,8,4,2,2,1,1,2], k = 7",
+      "expected": "985",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

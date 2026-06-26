@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0233.数字 1 的个数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 13",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 0",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

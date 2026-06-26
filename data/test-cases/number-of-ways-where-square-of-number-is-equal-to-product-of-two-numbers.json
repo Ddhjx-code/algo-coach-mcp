@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1577.数的平方等于两数乘积的方法数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [7,4], nums2 = [5,2,8,9]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [1,1], nums2 = [1,1,1]",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [7,7,8,3], nums2 = [1,2,9,7]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [4,7,9,11,23], nums2 = [3,5,1024,12,18]",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

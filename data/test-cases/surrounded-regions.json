@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0130.被围绕的区域",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "board = [['X','X','X','X'],['X','O','O','X'],['X','X','O','X'],['X','O','X','X']]",
+      "expected": "[['X','X','X','X'],['X','X','X','X'],['X','X','X','X'],['X','O','X','X']]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "board = [['X']]",
+      "expected": "[['X']]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

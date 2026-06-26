@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2788.按分隔符拆分字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"one.two.three\",\"four.five\",\"six\"], separator = \".\"",
+      "expected": "[\"one\",\"two\",\"three\",\"four\",\"five\",\"six\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"$easy$\",\"$problem$\"], separator = \"$\"",
+      "expected": "[\"easy\",\"problem\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"|||\"], separator = \"|\"",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

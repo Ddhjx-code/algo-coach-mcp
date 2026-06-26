@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1052.爱生气的书店老板",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "customers = [1,0,1,2,1,1,7,5], grumpy = [0,1,0,1,0,1,0,1], minutes = 3",
+      "expected": "16",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "customers = [1], grumpy = [0], minutes = 1",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2281.巫师的总力量和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "strength = [1,3,1,2]",
+      "expected": "44",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "strength = [5,4,6]",
+      "expected": "213",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

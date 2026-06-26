@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1541.平衡括号字符串的最少插入次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;(()))&quot;",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;())&quot;",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;))())(&quot;",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;((((((&quot;",
+      "expected": "12",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;)))))))&quot;",
+      "expected": "5",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

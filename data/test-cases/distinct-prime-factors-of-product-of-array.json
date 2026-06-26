@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2521.数组乘积中的不同质因数数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,4,3,7,10,6]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,4,8,16]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2815.数组中的最大数对和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [51,71,17,24,42]",
+      "expected": "88",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

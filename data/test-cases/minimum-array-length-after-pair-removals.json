@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2856.删除数对后的最小数组长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,2,2,3,3]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1000000000,1000000000]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3,4,4,4]",
+      "expected": "1",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

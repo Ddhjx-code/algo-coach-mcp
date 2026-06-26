@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0200.岛屿数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [ ['1','1','1','1','0'], ['1','1','0','1','0'], ['1','1','0','0','0'], ['0','0','0','0','0'] ]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [ ['1','1','0','0','0'], ['1','1','0','0','0'], ['0','0','1','0','0'], ['0','0','0','1','1'] ]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

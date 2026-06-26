@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3729.统计有序数组中可被 K 整除的子数组数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3], k = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2,2,2,2,2], k = 6",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

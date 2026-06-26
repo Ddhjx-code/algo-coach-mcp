@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0525.连续数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,1]",
+      "expected": "2 说明： [0, 1] 是具有相同数量 0 和 1 的最长连续子数组。",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1,0]",
+      "expected": "2 说明： [0, 1] (或 [1, 0]) 是具有相同数量 0 和 1 的最长连续子数组。",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1,1,1,1,1,0,0,0]",
+      "expected": "6",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

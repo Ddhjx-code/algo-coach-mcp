@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2259.移除指定数字得到的最大结果",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "number = \"123\", digit = '3'",
+      "expected": "\"12\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "number = \"1231\", digit = '1'",
+      "expected": "\"231\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "number = \"551\", digit = '5'",
+      "expected": "\"51\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

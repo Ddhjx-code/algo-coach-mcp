@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0621.任务调度器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "tasks = [\"A\",\"A\",\"A\",\"B\",\"B\",\"B\"], n = 2",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "tasks = [\"A\",\"C\",\"A\",\"B\",\"D\",\"B\"], n = 1",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "tasks = [\"A\",\"A\",\"A\",\"B\",\"B\",\"B\"], n = 3",
+      "expected": "10",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0770.基本计算器 IV",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "expression = \"e + 8 - a + 5\", evalvars = [\"e\"], evalints = [1]",
+      "expected": "[\"-1*a\",\"14\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"e - 8 + temperature - pressure\", evalvars = [\"e\", \"temperature\"], evalints = [1, 12]",
+      "expected": "[\"-1*pressure\",\"5\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"(e + 8) * (e - 8)\", evalvars = [], evalints = []",
+      "expected": "[\"1*e*e\",\"-64\"]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

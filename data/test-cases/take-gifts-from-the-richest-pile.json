@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2558.从数量最多的堆取走礼物",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "gifts = [25,64,9,4,100], k = 4",
+      "expected": "29",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "gifts = [1,1,1,1], k = 4",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

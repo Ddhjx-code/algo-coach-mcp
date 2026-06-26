@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1859.将句子排序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"is2 sentence4 This1 a3\"",
+      "expected": "\"This is a sentence\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"Myself2 Me1 I4 and3\"",
+      "expected": "\"Me Myself and I\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

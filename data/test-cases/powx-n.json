@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0050.Pow(x, n)",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "x = 2.00000, n = 10",
+      "expected": "1024.00000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "x = 2.10000, n = 3",
+      "expected": "9.26100",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "x = 2.00000, n = -2",
+      "expected": "0.25000",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1640.能否连接形成数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [15,88], pieces = [[88],[15]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [49,18,16], pieces = [[16,18,49]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [91,4,64,78], pieces = [[78],[4,64],[91]]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

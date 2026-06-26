@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0392.判断子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\", t = \"ahbgdc\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"axc\", t = \"ahbgdc\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

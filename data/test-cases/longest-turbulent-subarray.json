@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0978.最长湍流子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [9,4,2,10,7,8,8,1,9]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [4,8,12,16]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [100]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

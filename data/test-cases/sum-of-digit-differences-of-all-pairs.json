@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3153.所有数对中数位差之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [13,23,12]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,10,10,10]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1387.将整数按权重排序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "lo = 12, hi = 15, k = 2",
+      "expected": "13",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "lo = 7, hi = 11, k = 4",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

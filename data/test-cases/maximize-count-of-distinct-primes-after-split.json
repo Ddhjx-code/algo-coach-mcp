@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3569.分割数组后不同质数的最大数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,1,3,1,2], queries = [[1,2],[3,3]]",
+      "expected": "[3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,1,4], queries = [[0,1]]",
+      "expected": "[0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

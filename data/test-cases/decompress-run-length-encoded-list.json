@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1313.解压缩编码列表",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "[2,4,4,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,2,3]",
+      "expected": "[1,3,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

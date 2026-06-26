@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0497.非重叠矩形中的随机点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Solution\", \"pick\", \"pick\", \"pick\", \"pick\", \"pick\"] [[[[-2, -2, 1, 1], [2, 2, 4, 6]]], [], [], [], [], []]",
+      "expected": "[null, [1, -2], [1, -1], [-1, -2], [-2, -2], [0, 0]]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

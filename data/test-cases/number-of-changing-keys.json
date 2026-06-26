@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3019.按键变更的次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aAbBcC\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"AaAaAaaA\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

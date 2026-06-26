@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2573.找出对应 LCP 矩阵的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "lcp = [[4,0,2,0],[0,3,0,1],[2,0,2,0],[0,1,0,1]]",
+      "expected": "\"abab\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "lcp = [[4,3,2,1],[3,3,2,1],[2,2,2,1],[1,1,1,1]]",
+      "expected": "\"aaaa\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "lcp = [[4,3,2,1],[3,3,2,1],[2,2,2,1],[1,1,1,3]]",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

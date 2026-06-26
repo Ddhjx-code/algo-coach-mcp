@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3638.平衡装运的最大数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "weight = [2,5,1,4,3]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "weight = [4,4]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1108.IP 地址无效化",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "address = &quot;1.1.1.1&quot;",
+      "expected": "&quot;1[.]1[.]1[.]1&quot;",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "address = &quot;255.100.50.0&quot;",
+      "expected": "&quot;255[.]100[.]50[.]0&quot;",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

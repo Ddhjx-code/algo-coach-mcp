@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2147.分隔长廊的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "corridor = \"SSPPSPS\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "corridor = \"PPSPSP\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "corridor = \"S\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

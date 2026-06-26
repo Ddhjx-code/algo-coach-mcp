@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0890.查找和替换模式",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"abc\",\"deq\",\"mee\",\"aqq\",\"dkd\",\"ccc\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "\"abb\"",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "[\"a\",\"b\",\"c\"]",
+      "expected": null,
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "\"a\"",
+      "expected": null,
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

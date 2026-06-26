@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1936.新增的最少台阶数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "rungs = [1,3,5,10], dist = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "rungs = [3,6,8,10], dist = 3",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "rungs = [3,4,6,7], dist = 2",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "rungs = [5], dist = 10",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

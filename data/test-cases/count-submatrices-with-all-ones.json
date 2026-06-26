@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1504.统计全 1 子矩形",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[1,0,1],[1,1,0],[1,1,0]]",
+      "expected": "13",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[0,1,1,0],[0,1,1,1],[1,1,1,0]]",
+      "expected": "24",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

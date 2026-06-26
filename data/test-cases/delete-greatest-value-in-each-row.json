@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2500.删除每行中的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,2,4],[3,3,1]]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[10]]",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

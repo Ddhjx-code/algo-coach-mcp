@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0081.搜索旋转排序数组 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,5,6,0,0,1,2] , target = 0",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,5,6,0,0,1,2] , target = 3",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

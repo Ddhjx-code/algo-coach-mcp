@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0087.扰乱字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"great\", s2 = \"rgeat\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"abcde\", s2 = \"caebd\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"a\", s2 = \"a\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

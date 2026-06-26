@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1359.有效的快递序列数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "90",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

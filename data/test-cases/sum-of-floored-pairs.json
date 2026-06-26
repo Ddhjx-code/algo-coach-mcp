@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1862.向下取整数对和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,5,9]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [7,7,7,7,7,7,7]",
+      "expected": "49",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

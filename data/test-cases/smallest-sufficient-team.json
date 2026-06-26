@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1125.最小的必要团队",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "req_skills = [\"java\",\"nodejs\",\"reactjs\"], people = [[\"java\"],[\"nodejs\"],[\"nodejs\",\"reactjs\"]]",
+      "expected": "[0,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "req_skills = [\"algorithms\",\"math\",\"java\",\"reactjs\",\"csharp\",\"aws\"], people = [[\"algorithms\",\"math\",\"java\"],[\"algorithms\",\"math\",\"reactjs\"],[\"java\",\"csharp\",\"aws\"],[\"reactjs\",\"csharp\"],[\"csharp\",\"math\"],[\"aws\",\"java\"]]",
+      "expected": "[1,2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

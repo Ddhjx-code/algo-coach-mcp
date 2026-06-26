@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3080.执行操作标记数组中的元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,2,1,2,3,1], queries = [[1,2],[3,3],[4,2]]",
+      "expected": "[8,3,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,4,2,3], queries = [[0,1]]",
+      "expected": "[7]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2843.统计对称整数的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "low = 1, high = 100",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "low = 1200, high = 1230",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

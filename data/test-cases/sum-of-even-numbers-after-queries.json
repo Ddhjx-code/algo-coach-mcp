@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0985.查询后的偶数和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[1,2,3,4]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[1,0],[-3,1],[-4,0],[2,3]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "[1]",
+      "expected": null,
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "[[4,0]]",
+      "expected": null,
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

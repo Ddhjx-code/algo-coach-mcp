@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0815.公交路线",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "routes = [[1,2,7],[3,6,7]], source = 1, target = 6",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "routes = [[7,12],[4,5,15],[6],[15,19],[9,12,13]], source = 15, target = 12",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

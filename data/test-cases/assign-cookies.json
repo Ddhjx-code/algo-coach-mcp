@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0455.分发饼干",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "g = [1,2,3], s = [1,1]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "g = [1,2], s = [1,2,3]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

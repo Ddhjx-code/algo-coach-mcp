@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3895.统计数字出现总次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [12,54,32,22], digit = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,34,7], digit = 9",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

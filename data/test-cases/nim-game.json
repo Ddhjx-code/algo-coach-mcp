@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0292.Nim 游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

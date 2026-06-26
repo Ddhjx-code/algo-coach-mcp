@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1314.矩阵区域和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[1,2,3],[4,5,6],[7,8,9]], k = 1",
+      "expected": "[[12,21,16],[27,45,33],[24,39,28]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[1,2,3],[4,5,6],[7,8,9]], k = 2",
+      "expected": "[[45,45,45],[45,45,45],[45,45,45]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

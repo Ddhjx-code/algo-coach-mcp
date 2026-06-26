@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2089.找出数组排序后的目标下标",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,5,2,3], target = 2",
+      "expected": "[1,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,5,2,3], target = 3",
+      "expected": "[3]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,5,2,3], target = 5",
+      "expected": "[4]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,5,2,3], target = 4",
+      "expected": "[]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

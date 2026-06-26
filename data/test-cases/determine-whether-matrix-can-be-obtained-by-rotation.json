@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1886.判断矩阵经轮转后是否一致",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[0,1],[1,0]], target = [[1,0],[0,1]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[0,1],[1,1]], target = [[1,0],[0,1]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[0,0,0],[0,1,0],[1,1,1]], target = [[1,1,1],[0,1,0],[0,0,0]]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

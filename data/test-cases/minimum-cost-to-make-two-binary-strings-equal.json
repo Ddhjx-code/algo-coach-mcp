@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3800.使二进制字符串相等的最小成本",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"01000\", t = \"10111\", flipCost = 10, swapCost = 2, crossCost = 2",
+      "expected": "16",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"001\", t = \"110\", flipCost = 2, swapCost = 100, crossCost = 100",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1010\", t = \"1010\", flipCost = 5, swapCost = 5, crossCost = 5",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

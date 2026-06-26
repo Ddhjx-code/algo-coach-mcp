@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0383.赎金信",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "ransomNote = \"a\", magazine = \"b\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "ransomNote = \"aa\", magazine = \"ab\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "ransomNote = \"aa\", magazine = \"aab\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

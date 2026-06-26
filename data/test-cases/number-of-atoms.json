@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0726.原子的数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "formula = \"H2O\"",
+      "expected": "\"H2O\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "formula = \"Mg(OH)2\"",
+      "expected": "\"H2MgO2\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "formula = \"K4(ON(SO3)2)2\"",
+      "expected": "\"K4N2O14S4\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

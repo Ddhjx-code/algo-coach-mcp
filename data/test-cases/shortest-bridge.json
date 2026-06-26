@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0934.最短的桥",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[0,1],[1,0]]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[0,1,0],[0,0,0],[0,0,1]]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,1,1,1,1],[1,0,0,0,1],[1,0,1,0,1],[1,0,0,0,1],[1,1,1,1,1]]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

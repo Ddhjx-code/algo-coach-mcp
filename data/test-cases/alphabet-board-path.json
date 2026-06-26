@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1138.字母板上的路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "target = \"leet\"",
+      "expected": "\"DDR!UURRR!!DDD!\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "target = \"code\"",
+      "expected": "\"RR!DDRR!UUL!R!\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

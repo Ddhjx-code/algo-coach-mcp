@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3681.子序列最大 XOR 值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,2]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

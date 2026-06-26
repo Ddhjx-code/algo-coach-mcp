@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3697.计算十进制表示",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 537",
+      "expected": "[500,30,7]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 102",
+      "expected": "[100,2]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 6",
+      "expected": "[6]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

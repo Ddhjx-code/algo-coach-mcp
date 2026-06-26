@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1927.求和游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"5023\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"25??\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"?3295???\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

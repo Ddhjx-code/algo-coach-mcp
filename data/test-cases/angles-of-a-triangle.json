@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3899.三角形的内角度数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sides = [3,4,5]",
+      "expected": "[36.86990,53.13010,90.00000]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sides = [2,4,2]",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0731.我的日程安排表 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"MyCalendarTwo\", \"book\", \"book\", \"book\", \"book\", \"book\", \"book\"] [[], [10, 20], [50, 60], [10, 40], [5, 15], [5, 10], [25, 55]]",
+      "expected": "[null, true, true, true, false, true, true]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

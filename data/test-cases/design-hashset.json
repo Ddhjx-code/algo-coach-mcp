@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0705.设计哈希集合",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"MyHashSet\",\"add\",\"add\",\"add\",\"remove\",\"contains\",\"add\",\"add\",\"add\",\"remove\",\"contains\",\"add\",\"add\",\"add\",\"remove\",\"contains\",\"add\",\"add\",\"add\",\"remove\",\"contains\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[1],[10001],[1],[1],[1],[7],[10007],[7],[7],[7],[123],[10123],[123],[123],[123],[5000],[15000],[5000],[5000],[5000]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

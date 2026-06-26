@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3856.移除尾部元音字母",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"idea\"",
+      "expected": "\"id\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"day\"",
+      "expected": "\"day\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aeiou\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

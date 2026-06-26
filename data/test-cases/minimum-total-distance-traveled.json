@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2463.最小移动总距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "robot = [0,4,6], factory = [[2,2],[6,2]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "robot = [1,-1], factory = [[-2,1],[2,1]]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

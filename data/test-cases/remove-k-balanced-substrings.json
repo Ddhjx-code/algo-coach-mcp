@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3703.移除K-平衡子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"(())\", k = 1",
+      "expected": "\"\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"(()(\", k = 1",
+      "expected": "\"((\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"((()))()()()\", k = 3",
+      "expected": "\"()()()\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

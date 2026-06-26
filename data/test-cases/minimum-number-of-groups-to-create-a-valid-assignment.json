@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2910.合法分组的最少组数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "balls = [3,2,3,2,3]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "balls = [10,10,10,3,1,1]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

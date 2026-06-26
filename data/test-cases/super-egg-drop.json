@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0887.鸡蛋掉落",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 1, n = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 2, n = 6",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "k = 3, n = 14",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2141.同时运行 N 台电脑的最长时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, batteries = [3,3,3]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, batteries = [1,1,1,1]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0103.二叉树的锯齿形层序遍历",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [3,9,20,null,null,15,7]",
+      "expected": "[[3],[20,9],[15,7]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1]",
+      "expected": "[[1]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = []",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

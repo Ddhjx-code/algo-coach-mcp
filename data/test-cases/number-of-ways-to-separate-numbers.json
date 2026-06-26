@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1977.划分数字的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"327\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"094\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"0\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"9999999999999\"",
+      "expected": "101",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

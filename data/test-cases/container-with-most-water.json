@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0011.盛最多水的容器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[1,8,6,2,5,4,8,3,7]",
+      "expected": "49",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "height = [1,1]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

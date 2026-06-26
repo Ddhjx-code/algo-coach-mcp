@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3449.最大化游戏分数的最小值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [2,4], m = 3",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [1,2,3], m = 5",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

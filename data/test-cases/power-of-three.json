@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0326.3 的幂",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 27",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 0",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 9",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 45",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

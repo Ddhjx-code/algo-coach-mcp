@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0452.用最少数量的箭引爆气球",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[10,16],[2,8],[1,6],[7,12]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,2],[3,4],[5,6],[7,8]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,2],[2,3],[3,4],[4,5]]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

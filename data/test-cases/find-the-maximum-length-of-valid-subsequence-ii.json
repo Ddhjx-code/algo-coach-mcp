@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3202.找出有效子序列的最大长度 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,5], k = 2",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,4,2,3,1,4], k = 3",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

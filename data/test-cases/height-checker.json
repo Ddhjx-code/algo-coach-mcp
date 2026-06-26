@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1051.高度检查器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "heights = [5,1,2,3,4]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "heights = [1,2,3,4,5]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

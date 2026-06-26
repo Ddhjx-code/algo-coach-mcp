@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2490.回环句",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sentence = \"leetcode exercises sound delightful\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sentence = \"eetcode\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "sentence = \"Leetcode is cool\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

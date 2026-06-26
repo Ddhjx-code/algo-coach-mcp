@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1727.重新排列后的最大子矩阵",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matrix = [[0,0,1],[1,1,1],[1,0,1]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[1,0,1,0,1]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[1,1,0],[1,0,1]]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[0,0],[0,0]]",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

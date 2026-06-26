@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0372.超级次方",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = 2, b = [3]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = 2, b = [1,0]",
+      "expected": "1024",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "a = 1, b = [4,3,3,8,5,2]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "a = 2147483647, b = [2,0,0]",
+      "expected": "1198",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

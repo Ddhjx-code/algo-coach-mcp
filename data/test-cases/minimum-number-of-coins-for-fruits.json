@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2944.购买水果需要的最少金币数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "prices = [3,1,2]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "prices = [1,10,1,1]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "prices = [26,18,6,12,49,7,45,45]",
+      "expected": "39",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

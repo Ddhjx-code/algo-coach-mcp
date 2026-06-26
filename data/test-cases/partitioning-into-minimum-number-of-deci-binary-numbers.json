@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1689.十-二进制数的最少数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = \"32\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = \"82734\"",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = \"27346209830709182346\"",
+      "expected": "9",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

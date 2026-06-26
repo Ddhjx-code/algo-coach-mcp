@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1844.将所有数字用字符替换",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"a1c1e1\"",
+      "expected": "\"abcdef\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a1b2c3d4e\"",
+      "expected": "\"abbdcfdhe\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

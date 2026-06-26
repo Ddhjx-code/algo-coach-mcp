@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3839.前缀连接组的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"apple\",\"apply\",\"banana\",\"bandit\"], k = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"car\",\"cat\",\"cartoon\"], k = 3",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"bat\",\"dog\",\"dog\",\"doggy\",\"bat\"] , k = 3",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

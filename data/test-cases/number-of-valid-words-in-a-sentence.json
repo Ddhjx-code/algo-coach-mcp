@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2047.句子中的有效单词数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sentence = \" cat and dog \"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sentence = \"!this 1-s b8d!\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "sentence = \" alice and bob are playing stone-game10\"",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

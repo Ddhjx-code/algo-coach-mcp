@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2136.全部开花的最早一天",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "plantTime = [1,4,3], growTime = [2,3,1]",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "plantTime = [1,2,3,2], growTime = [2,1,2,1]",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "plantTime = [1], growTime = [1]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

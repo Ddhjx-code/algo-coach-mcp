@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2545.根据第 K 场考试的分数排序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "score = [[10,6,9,1],[7,5,11,2],[4,8,3,15]], k = 2",
+      "expected": "[[7,5,11,2],[10,6,9,1],[4,8,3,15]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "score = [[3,4],[5,6]], k = 0",
+      "expected": "[[5,6],[3,4]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

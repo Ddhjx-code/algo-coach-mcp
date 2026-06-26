@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0995.K 连续位的最小翻转次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,1,0], K = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,0], K = 2",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,0,0,1,0,1,1,0], K = 3",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

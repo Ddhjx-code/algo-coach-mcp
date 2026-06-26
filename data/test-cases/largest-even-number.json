@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3798.最大的偶数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1112\"",
+      "expected": "\"1112\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"221\"",
+      "expected": "\"22\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

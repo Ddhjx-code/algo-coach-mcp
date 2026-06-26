@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2226.每个小孩最多能分到多少糖果",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "candies = [5,8,6], k = 3",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "candies = [2,5], k = 11",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

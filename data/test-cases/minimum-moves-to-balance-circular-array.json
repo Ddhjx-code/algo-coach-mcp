@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3776.使循环数组余额非负的最少移动次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "balance = [5,1,-4]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "balance = [1,2,-5,2]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "balance = [-3,2]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

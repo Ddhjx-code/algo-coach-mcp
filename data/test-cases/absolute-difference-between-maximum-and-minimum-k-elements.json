@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3774.最大和最小 K 个元素的绝对差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [5,2,2,4], k = 2",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [100], k = 1",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

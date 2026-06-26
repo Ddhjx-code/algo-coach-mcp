@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3799.单词方块 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"able\",\"area\",\"echo\",\"also\"]",
+      "expected": "[[\"able\",\"area\",\"echo\",\"also\"],[\"area\",\"able\",\"also\",\"echo\"]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"code\",\"cafe\",\"eden\",\"edge\"]",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

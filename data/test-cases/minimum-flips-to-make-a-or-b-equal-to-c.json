@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1318.或运算的最小翻转次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = 2, b = 6, c = 5",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = 4, b = 2, c = 7",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "a = 1, b = 2, c = 3",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

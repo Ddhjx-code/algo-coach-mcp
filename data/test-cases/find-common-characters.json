@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1002.查找共用字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"bella\",\"label\",\"roller\"]",
+      "expected": "[\"e\",\"l\",\"l\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"cool\",\"lock\",\"cook\"]",
+      "expected": "[\"c\",\"o\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

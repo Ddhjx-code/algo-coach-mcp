@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1839.所有元音按顺序排布的最长子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"aeiaaio aaaaeiiiiouuu ooaauuaeiu\"",
+      "expected": "13",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"aeeeiiiioooauuu aeiou \"",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"a\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1451.重新排列句子中的单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "text = &quot;Leetcode is cool&quot;",
+      "expected": "&quot;Is cool leetcode&quot;",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot;Keep calm and code on&quot;",
+      "expected": "&quot;On and keep calm code&quot;",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot;To be or not to be&quot;",
+      "expected": "&quot;To be or to be not&quot;",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

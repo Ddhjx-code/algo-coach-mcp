@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3092.最高频率的 ID",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,2,1], freq = [3,2,-3,1]",
+      "expected": "[3,3,2,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,5,3], freq = [2,-2,1]",
+      "expected": "[2,0,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

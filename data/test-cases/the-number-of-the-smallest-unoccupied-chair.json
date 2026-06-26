@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1942.最小未被占据椅子的编号",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "times = [[1,4],[2,3],[4,6]], targetFriend = 1",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "times = [[3,10],[1,5],[2,6]], targetFriend = 0",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

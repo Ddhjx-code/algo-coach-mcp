@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3011.判断一个数组是否可以变为有序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [8,4,2,30,15]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4,5]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,16,8,4,2]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3514.不同 XOR 三元组的数目 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,3]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [6,7,8,9]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

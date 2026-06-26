@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3498.字符串的反转度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\"",
+      "expected": "148",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"zaza\"",
+      "expected": "160",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

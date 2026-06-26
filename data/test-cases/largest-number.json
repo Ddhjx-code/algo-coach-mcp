@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0179.最大数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [10,2]",
+      "expected": "\"210\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,30,34,5,9]",
+      "expected": "\"9534330\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1893.检查是否区域内所有整数都被覆盖",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "ranges = [[1,2],[3,4],[5,6]], left = 2, right = 5",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "ranges = [[1,10],[10,20]], left = 21, right = 21",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

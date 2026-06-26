@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0732.我的日程安排表 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"MyCalendarThree\",\"book\",\"book\",\"book\",\"book\",\"book\",\"book\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[10,20],[50,60],[10,40],[5,15],[5,10],[25,55]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

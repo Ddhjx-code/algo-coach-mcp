@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3098.求出所有子序列的能量和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4], k = 3",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2], k = 2",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,3,-1], k = 2",
+      "expected": "10",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

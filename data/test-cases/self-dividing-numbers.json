@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0728.自除数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "left = 1, right = 22",
+      "expected": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 22]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "left = 47, right = 85",
+      "expected": "[48,55,66,77]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

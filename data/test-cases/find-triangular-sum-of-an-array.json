@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2221.数组的三角和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,5]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

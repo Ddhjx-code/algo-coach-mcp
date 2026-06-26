@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3472.至多 K 次操作后的最长回文子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abced\", k = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aaazzz\", k = 4",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

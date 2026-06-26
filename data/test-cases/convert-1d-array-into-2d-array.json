@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2022.将一维数组转变成二维数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "original = [1,2,3,4], m = 2, n = 2",
+      "expected": "[[1,2],[3,4]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "original = [1,2,3], m = 1, n = 3",
+      "expected": "[[1,2,3]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "original = [1,2], m = 1, n = 1",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "original = [3], m = 1, n = 2",
+      "expected": "[]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

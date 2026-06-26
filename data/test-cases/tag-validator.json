@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0591.标签验证器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "code = \"&lt;DIV&gt;This is the first line &lt;![CDATA[&lt;div&gt;]]&gt;&lt;/DIV&gt;\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "code = \"&lt;DIV&gt;&gt;&gt; ![cdata[]] &lt;![CDATA[&lt;div&gt;]&gt;]]&gt;]]&gt;&gt;]&lt;/DIV&gt;\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "code = \"&lt;A&gt; &lt;B&gt; &lt;/A&gt; &lt;/B&gt;\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

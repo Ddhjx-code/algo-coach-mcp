@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3461.判断操作后字符串中的数字是否相等 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"3902\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"34789\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

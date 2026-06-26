@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2379.得到 K 个黑块的最少涂色次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "blocks = \"WBBWWBBWBW\", k = 7",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "blocks = \"WBWBBBW\", k = 2",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

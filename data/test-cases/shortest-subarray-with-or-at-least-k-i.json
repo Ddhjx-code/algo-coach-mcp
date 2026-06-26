@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3095.或值至少为 K 的最短子数组 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3], k = 2",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,1,8], k = 10",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2], k = 0",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

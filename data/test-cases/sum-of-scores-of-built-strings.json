@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2223.构造字符串的总得分和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"babab\"",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"azbazbzaz\"",
+      "expected": "14",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

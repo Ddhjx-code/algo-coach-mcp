@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0502.IPO",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 2, w = 0, profits = [1,2,3], capital = [0,1,1]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 3, w = 0, profits = [1,2,3], capital = [0,1,2]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

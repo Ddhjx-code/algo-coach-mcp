@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2239.找到最接近 0 的数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [-4,-2,1,4,8]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,-1,1]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3872.替换最多一个元素后的最长等差子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [9,7,5,10,1]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,6,7]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

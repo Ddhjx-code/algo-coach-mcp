@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1753.移除石子的最大得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = 2, b = 4, c = 6",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = 4, b = 4, c = 6",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "a = 1, b = 8, c = 8",
+      "expected": "8",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

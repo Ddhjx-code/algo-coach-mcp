@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2591.将钱分给最多的儿童",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "money = 20, children = 3",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "money = 16, children = 2",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

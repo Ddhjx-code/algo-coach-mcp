@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2790.长度递增组的最大数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "usageLimits = [1,2,5]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "usageLimits = [2,1,2]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "usageLimits = [1,1]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

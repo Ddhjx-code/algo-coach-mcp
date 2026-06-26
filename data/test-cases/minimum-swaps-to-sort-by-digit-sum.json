@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3551.数位和排序需要的最小交换次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [37,100]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [22,14,33,7]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [18,43,34,16]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

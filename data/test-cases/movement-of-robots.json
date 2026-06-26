@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2731.移动机器人",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [-2,0,2], s = \"RLL\", d = 3",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,0], s = \"RL\", d = 2",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

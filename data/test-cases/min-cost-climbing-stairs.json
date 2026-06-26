@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0746.使用最小花费爬楼梯",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "cost = [10, 15 ,20]",
+      "expected": "15",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "cost = [ 1 ,100, 1 ,1, 1 ,100, 1 , 1 ,100, 1 ]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

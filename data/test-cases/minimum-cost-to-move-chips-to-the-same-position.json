@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1217.玩筹码",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "position = [1,2,3]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "position = [2,2,2,3,3]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "position = [1,1000000000]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0319.灯泡开关",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 0",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

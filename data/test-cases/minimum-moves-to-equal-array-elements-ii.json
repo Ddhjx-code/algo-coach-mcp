@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0462.最小操作次数使数组元素相等 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,10,2,9]",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

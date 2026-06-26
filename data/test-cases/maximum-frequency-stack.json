@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0895.最大频率栈",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"FreqStack\",\"push\",\"push\",\"push\",\"push\",\"push\",\"push\",\"pop\",\"pop\",\"pop\",\"pop\"], [[],[5],[7],[5],[7],[4],[5],[],[],[],[]]",
+      "expected": "[null,null,null,null,null,null,null,5,7,5,4]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

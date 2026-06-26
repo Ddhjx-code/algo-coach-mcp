@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1851.包含每个查询的最小区间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "intervals = [[1,4],[2,4],[3,6],[4,4]], queries = [2,3,4,5]",
+      "expected": "[3,3,1,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "intervals = [[2,3],[2,5],[1,8],[20,25]], queries = [2,19,5,22]",
+      "expected": "[2,-1,4,6]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

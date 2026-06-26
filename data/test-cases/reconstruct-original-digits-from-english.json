@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0423.从英文中重建数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"owoztneoer\"",
+      "expected": "\"012\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"fviefuro\"",
+      "expected": "\"45\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

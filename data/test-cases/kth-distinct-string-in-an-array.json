@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2053.数组中第 K 个独一无二的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [\"d\",\"b\",\"c\",\"b\",\"c\",\"a\"], k = 2",
+      "expected": "\"a\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [\"aaa\",\"aa\",\"a\"], k = 1",
+      "expected": "\"aaa\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [\"a\",\"b\",\"a\"], k = 3",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2904.最短且字典序最小的美丽子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"100011001\", k = 3",
+      "expected": "\"11001\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1011\", k = 2",
+      "expected": "\"11\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"000\", k = 1",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

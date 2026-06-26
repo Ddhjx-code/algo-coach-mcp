@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1620.网络信号最好的坐标",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "towers = [[1,2,5],[2,1,7],[3,1,9]], radius = 2",
+      "expected": "[2,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "towers = [[23,11,21]], radius = 9",
+      "expected": "[23,11]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "towers = [[1,2,13],[2,1,7],[0,1,9]], radius = 2",
+      "expected": "[1,2]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

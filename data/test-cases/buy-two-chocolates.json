@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2706.购买两块巧克力",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "prices = [1,2,2], money = 3",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "prices = [3,2,3], money = 3",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

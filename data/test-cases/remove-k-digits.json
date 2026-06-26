@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0402.移掉 K 位数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"1432219\", k = 3",
+      "expected": "\"1219\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"10200\", k = 1",
+      "expected": "\"200\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"10\", k = 2",
+      "expected": "\"0\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

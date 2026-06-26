@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1040.移动石子直到连续 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[7,4,9]",
+      "expected": "[1,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[6,5,4,3,10]",
+      "expected": "[2,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

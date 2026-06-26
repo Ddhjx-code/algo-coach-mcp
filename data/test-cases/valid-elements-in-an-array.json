@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3912.数组中的有效元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,4,2,3,2]",
+      "expected": "[1,2,4,3,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,5,5,5]",
+      "expected": "[5,5]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1]",
+      "expected": "[1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

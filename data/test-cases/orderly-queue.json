@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0899.有序队列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"cba\", k = 1",
+      "expected": "\"acb\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"baaca\", k = 3",
+      "expected": "\"aaabc\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

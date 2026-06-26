@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0306.累加数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "\"112358\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "\"199100199\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

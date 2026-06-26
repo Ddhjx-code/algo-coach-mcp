@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1754.构造字典序最大的合并字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"cabaa\", word2 = \"bcaaa\"",
+      "expected": "\"cbcabaaaaa\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abcabc\", word2 = \"abdcaba\"",
+      "expected": "\"abdcabcabcaba\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

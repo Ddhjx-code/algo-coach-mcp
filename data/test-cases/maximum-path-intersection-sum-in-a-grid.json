@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3938.矩阵中最大共享路径和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,2,0,-3],[1,-2,1,0],[-4,2,-1,3],[3,-3,3,-2],[-1,-5,0,1]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[4,-2,-3],[-1,-3,-1],[-4,2,-1]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0583.两个字符串的删除操作",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"sea\", word2 = \"eat\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"leetcode\", word2 = \"etco\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

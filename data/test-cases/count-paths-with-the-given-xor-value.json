@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3393.统计异或值为给定值的路径数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[2, 1, 5], [7, 10, 0], [12, 6, 4]], k = 11",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1, 3, 3, 3], [0, 3, 3, 2], [3, 0, 1, 1]], k = 2",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1, 1, 1, 2], [3, 0, 3, 2], [3, 0, 2, 2]], k = 10",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

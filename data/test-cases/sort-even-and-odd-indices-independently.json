@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2164.对奇偶下标分别排序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,1,2,3]",
+      "expected": "[2,3,4,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,1]",
+      "expected": "[2,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

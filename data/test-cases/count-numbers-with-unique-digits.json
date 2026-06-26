@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0357.统计各位数字都不同的数字个数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2",
+      "expected": "91",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 0",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

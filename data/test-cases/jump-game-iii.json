@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1306.跳跃游戏 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [4,2,3,0,3,1,2], start = 5",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [4,2,3,0,3,1,2], start = 0",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [3,0,2,1,2], start = 2",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

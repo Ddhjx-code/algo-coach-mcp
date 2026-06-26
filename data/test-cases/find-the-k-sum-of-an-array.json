@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2386.找出数组的第 K 大和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,4,-2], k = 5",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,-2,3,4,-10,12], k = 16",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

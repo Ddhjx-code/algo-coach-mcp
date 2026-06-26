@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3494.酿造药水需要的最少总时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "skill = [1,5,2,4], mana = [5,1,4,2]",
+      "expected": "110",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "skill = [1,1,1], mana = [1,1,1]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "skill = [1,2,3,4], mana = [1,2]",
+      "expected": "21",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

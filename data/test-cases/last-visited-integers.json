@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2899.上一个遍历的整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,-1,-1,-1]",
+      "expected": "[2,1,-1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,-1,2,-1,-1]",
+      "expected": "[1,2,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

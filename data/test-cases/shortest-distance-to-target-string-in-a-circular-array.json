@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2515.到目标字符串的最短距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"hello\",\"i\",\"am\",\"leetcode\",\"hello\"], target = \"hello\", startIndex = 1",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"a\",\"b\",\"leetcode\"], target = \"leetcode\", startIndex = 0",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"i\",\"eat\",\"leetcode\"], target = \"ate\", startIndex = 0",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

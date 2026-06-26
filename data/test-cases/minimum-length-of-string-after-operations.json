@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3223.操作后字符串的最短长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abaacbcbb\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aa\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

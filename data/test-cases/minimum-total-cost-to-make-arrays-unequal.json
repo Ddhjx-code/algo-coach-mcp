@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2499.让数组不相等的最小总代价",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [1,2,3,4,5], nums2 = [1,2,3,4,5]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [2,2,2,1,3], nums2 = [1,2,2,3,3]",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [1,2,2], nums2 = [1,2,2]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

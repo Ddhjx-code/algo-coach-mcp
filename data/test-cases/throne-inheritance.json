@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1600.王位继承顺序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"ThroneInheritance\",\"birth\",\"birth\",\"birth\",\"birth\",\"birth\",\"birth\",\"getInheritanceOrder\",\"death\",\"getInheritanceOrder\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[\"king\"],[\"king\",\"andy\"],[\"king\",\"bob\"],[\"king\",\"catherine\"],[\"andy\",\"matthew\"],[\"bob\",\"alex\"],[\"bob\",\"asha\"],[null],[\"bob\"],[null]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

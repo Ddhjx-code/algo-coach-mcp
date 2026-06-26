@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1486.数组异或操作",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5, start = 0",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, start = 3",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, start = 7",
+      "expected": "7",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10, start = 5",
+      "expected": "2",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

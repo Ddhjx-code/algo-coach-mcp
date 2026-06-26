@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1606.找到处理最多请求的服务器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 3, arrival = [1,2,3,4,5], load = [5,2,3,3,3]",
+      "expected": "[1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 3, arrival = [1,2,3,4], load = [1,2,1,2]",
+      "expected": "[0]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "k = 3, arrival = [1,2,3], load = [10,12,11]",
+      "expected": "[0,1,2]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "k = 3, arrival = [1,2,3,4,8,9,10], load = [5,2,10,3,1,2,2]",
+      "expected": "[1]",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "k = 1, arrival = [1], load = [1]",
+      "expected": "[0]",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

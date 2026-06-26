@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3950.恰好一对连续置位",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 6",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

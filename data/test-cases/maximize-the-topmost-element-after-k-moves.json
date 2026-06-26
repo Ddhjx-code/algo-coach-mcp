@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2202.K 次操作后最大化顶端元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [5,2,2,4,0,6], k = 4",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2], k = 1",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

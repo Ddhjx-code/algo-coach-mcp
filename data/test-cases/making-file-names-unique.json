@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1487.保证文件名唯一",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "names = [&quot;pes&quot;,&quot;fifa&quot;,&quot;gta&quot;,&quot;pes(2019)&quot;]",
+      "expected": "[&quot;pes&quot;,&quot;fifa&quot;,&quot;gta&quot;,&quot;pes(2019)&quot;]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "names = [&quot;gta&quot;,&quot;gta(1)&quot;,&quot;gta&quot;,&quot;avalon&quot;]",
+      "expected": "[&quot;gta&quot;,&quot;gta(1)&quot;,&quot;gta(2)&quot;,&quot;avalon&quot;]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "names = [&quot;onepiece&quot;,&quot;onepiece(1)&quot;,&quot;onepiece(2)&quot;,&quot;onepiece(3)&quot;,&quot;onepiece&quot;]",
+      "expected": "[&quot;onepiece&quot;,&quot;onepiece(1)&quot;,&quot;onepiece(2)&quot;,&quot;onepiece(3)&quot;,&quot;onepiece(4)&quot;]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "names = [&quot;wano&quot;,&quot;wano&quot;,&quot;wano&quot;,&quot;wano&quot;]",
+      "expected": "[&quot;wano&quot;,&quot;wano(1)&quot;,&quot;wano(2)&quot;,&quot;wano(3)&quot;]",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "names = [&quot;kaido&quot;,&quot;kaido(1)&quot;,&quot;kaido&quot;,&quot;kaido(1)&quot;]",
+      "expected": "[&quot;kaido&quot;,&quot;kaido(1)&quot;,&quot;kaido(2)&quot;,&quot;kaido(1)(1)&quot;]",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

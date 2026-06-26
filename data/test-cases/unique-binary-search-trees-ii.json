@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0095.不同的二叉搜索树 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3",
+      "expected": "[[1,null,2,null,3],[1,null,3,2],[2,1,3],[3,1,null,null,2],[3,2,null,1]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "[[1]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

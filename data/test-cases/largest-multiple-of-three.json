@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1363.形成三的最大倍数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "digits = [8,1,9]",
+      "expected": "\"981\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "digits = [8,6,7,1,0]",
+      "expected": "\"8760\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "digits = [1]",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "digits = [0,0,0,0,0,0]",
+      "expected": "\"0\"",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

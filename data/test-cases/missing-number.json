@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0268.丢失的数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,0,1]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [9,6,4,2,3,5,7,0,1]",
+      "expected": "8",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

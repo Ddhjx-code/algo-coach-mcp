@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2283.判断一个数的数字计数是否等于数位的值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"1210\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"030\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

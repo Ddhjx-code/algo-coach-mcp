@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1420.生成数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, m = 3, k = 1",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, m = 2, k = 3",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 9, m = 1, k = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

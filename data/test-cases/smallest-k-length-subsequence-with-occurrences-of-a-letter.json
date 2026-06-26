@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2030.含特定字母的最小子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leet\", k = 3, letter = \"e\", repetition = 1",
+      "expected": "\"eet\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"leetcode\", k = 4, letter = \"e\", repetition = 2",
+      "expected": "\"ecde\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bb\", k = 2, letter = \"b\", repetition = 2",
+      "expected": "\"bb\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

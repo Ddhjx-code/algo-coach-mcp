@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2306.公司命名",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "ideas = [\"coffee\",\"donuts\",\"time\",\"toffee\"]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "ideas = [\"lack\",\"back\"]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0557.反转字符串中的单词 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"Let's take LeetCode contest\"",
+      "expected": "\"s'teL ekat edoCteeL tsetnoc\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"Mr Ding\"",
+      "expected": "\"rM gniD\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

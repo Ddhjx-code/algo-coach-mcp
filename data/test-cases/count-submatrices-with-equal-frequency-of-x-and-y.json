@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3212.统计 X 和 Y 频数相等的子矩阵数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[\"X\",\"Y\",\".\"],[\"Y\",\".\",\".\"]]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[\"X\",\"X\"],[\"X\",\"Y\"]]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[\".\",\".\"],[\".\",\".\"]]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

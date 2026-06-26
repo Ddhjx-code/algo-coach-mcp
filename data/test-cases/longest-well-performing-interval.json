@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1124.表现良好的最长时间段",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "hours = [9,9,6,0,6,6,9]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "hours = [6,6,6]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

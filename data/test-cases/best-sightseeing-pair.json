@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1014.最佳观光组合",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "values = [8,1,5,2,6]",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "values = [1,2]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

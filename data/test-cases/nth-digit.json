@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0400.第 N 位数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 11",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

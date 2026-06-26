@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2475.数组中不等三元组的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,4,2,4,3]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,1,1,1]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

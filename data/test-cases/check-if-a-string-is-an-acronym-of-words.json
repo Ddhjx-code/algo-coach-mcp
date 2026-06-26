@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2828.判别首字母缩略词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"alice\",\"bob\",\"charlie\"], s = \"abc\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"an\",\"apple\"], s = \"a\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"never\",\"gonna\",\"give\",\"up\",\"on\",\"you\"], s = \"ngguoy\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2161.根据给定数字划分数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [9,12,5,10,14,3,10], pivot = 10",
+      "expected": "[9,5,3,10,10,12,14]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-3,4,3,2], pivot = 2",
+      "expected": "[-3,2,4,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

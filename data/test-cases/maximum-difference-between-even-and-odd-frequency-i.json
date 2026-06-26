@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3442.奇偶频次间的最大差值 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aaaaabbc\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcabcab\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

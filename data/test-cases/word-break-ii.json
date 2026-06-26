@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0140.单词拆分 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"catsanddog\", wordDict = [\"cat\",\"cats\",\"and\",\"sand\",\"dog\"]",
+      "expected": "[\"cats and dog\",\"cat sand dog\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"pineapplepenapple\", wordDict = [\"apple\",\"pen\",\"applepen\",\"pine\",\"pineapple\"]",
+      "expected": "[\"pine apple pen apple\",\"pineapple pen apple\",\"pine applepen apple\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"catsandog\", wordDict = [\"cats\",\"dog\",\"sand\",\"and\",\"cat\"]",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

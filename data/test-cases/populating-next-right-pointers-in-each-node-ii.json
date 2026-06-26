@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0117.填充每个节点的下一个右侧节点指针 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,2,3,4,5,null,7]",
+      "expected": "[1,#,2,3,#,4,5,7,#]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = []",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

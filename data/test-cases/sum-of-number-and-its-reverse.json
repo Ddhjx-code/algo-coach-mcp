@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2443.反转之后的数字和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 443",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 63",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 181",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

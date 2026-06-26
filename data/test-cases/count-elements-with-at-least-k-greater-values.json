@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3759.统计合格元素的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,2], k = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,5,5], k = 2",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

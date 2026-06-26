@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3324.出现在屏幕上的字符串序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "target = \"abc\"",
+      "expected": "[\"a\",\"aa\",\"ab\",\"aba\",\"abb\",\"abc\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "target = \"he\"",
+      "expected": "[\"a\",\"b\",\"c\",\"d\",\"e\",\"f\",\"g\",\"h\",\"ha\",\"hb\",\"hc\",\"hd\",\"he\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

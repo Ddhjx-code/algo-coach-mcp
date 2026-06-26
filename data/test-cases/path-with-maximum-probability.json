@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1514.概率最大的路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, edges = [[0,1],[1,2],[0,2]], succProb = [0.5,0.5,0.2], start = 0, end = 2",
+      "expected": "0.25000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[0,1],[1,2],[0,2]], succProb = [0.5,0.5,0.3], start = 0, end = 2",
+      "expected": "0.30000",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[0,1]], succProb = [0.5], start = 0, end = 2",
+      "expected": "0.00000",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

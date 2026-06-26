@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0230.二叉搜索树中第 K 小的元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [3,1,4,null,2], k = 1",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [5,3,6,2,4,null,null,1], k = 3",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

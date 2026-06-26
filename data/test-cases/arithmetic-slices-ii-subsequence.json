@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0446.等差数列划分 II - 子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,4,6,8,10]",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [7,7,7,7,7]",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

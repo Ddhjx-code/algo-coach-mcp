@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1655.分配重复整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4], quantity = [2]",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,3], quantity = [2]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,2,2], quantity = [2,2]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

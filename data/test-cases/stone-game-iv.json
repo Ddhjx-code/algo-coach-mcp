@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1510.石子游戏 IV",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 7",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "n = 17",
+      "expected": "false",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

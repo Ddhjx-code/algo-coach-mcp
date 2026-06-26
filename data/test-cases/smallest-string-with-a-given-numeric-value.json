@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1663.具有给定数值的最小字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 27",
+      "expected": "\"aay\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, k = 73",
+      "expected": "\"aaszz\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

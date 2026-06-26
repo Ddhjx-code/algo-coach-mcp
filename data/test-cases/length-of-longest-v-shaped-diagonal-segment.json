@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3459.最长 V 形对角线段的长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[2,2,1,2,2],[2,0,2,2,0],[2,0,1,1,0],[1,0,2,2,2],[2,0,0,2,2]]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[2,2,2,2,2],[2,0,2,2,0],[2,0,1,1,0],[1,0,2,2,2],[2,0,0,2,2]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,2,2,2,2],[2,2,2,2,0],[2,0,0,0,0],[0,0,2,2,2],[2,0,0,2,0]]",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1]]",
+      "expected": "1",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

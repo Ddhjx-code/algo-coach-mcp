@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2565.最少得分子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abacaba\", t = \"bzaa\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"cde\", t = \"xyz\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

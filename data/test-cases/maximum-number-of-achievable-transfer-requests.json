@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1601.最多可达成的换楼请求数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5, requests = [[0,1],[1,0],[0,1],[1,2],[2,0],[3,4]]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, requests = [[0,0],[1,2],[2,1]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, requests = [[0,3],[3,1],[1,2],[2,0]]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

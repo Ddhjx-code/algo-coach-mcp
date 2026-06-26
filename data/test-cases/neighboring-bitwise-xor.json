@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2683.相邻值的按位异或",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "derived = [1,1,0]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "derived = [1,1]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "derived = [1,0]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

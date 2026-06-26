@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1790.仅执行一次字符串交换能否使两个字符串相等",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"bank\", s2 = \"kanb\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"attack\", s2 = \"defend\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"kelb\", s2 = \"kelb\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"abcd\", s2 = \"dcba\"",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

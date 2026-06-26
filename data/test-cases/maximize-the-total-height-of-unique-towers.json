@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3301.高度互不相同的最大塔高和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "maximumHeight = [2,3,4,3]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "maximumHeight = [15,10]",
+      "expected": "25",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "maximumHeight = [2,2,1]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

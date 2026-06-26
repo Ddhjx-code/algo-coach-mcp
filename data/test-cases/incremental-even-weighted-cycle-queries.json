@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3887.增量偶权环查询",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, edges = [[0,1,1],[1,2,1],[0,2,1]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[0,1,1],[1,2,1],[0,2,0]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

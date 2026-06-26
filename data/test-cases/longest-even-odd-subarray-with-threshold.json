@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2760.最长奇偶子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,2,5,4], threshold = 5",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2], threshold = 2",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3,4,5], threshold = 4",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

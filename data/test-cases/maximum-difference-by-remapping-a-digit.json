@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2566.替换一个数字后的最大差值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 11891",
+      "expected": "99009",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 90",
+      "expected": "99",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

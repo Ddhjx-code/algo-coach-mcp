@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1979.找出数组的最大公约数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,5,6,9,10]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [7,5,6,8,3]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,3]",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

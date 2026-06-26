@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1673.找出最具竞争力的子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,5,2,6], k = 2",
+      "expected": "[2,6]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,4,3,3,5,4,9,6], k = 4",
+      "expected": "[2,3,3,4]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

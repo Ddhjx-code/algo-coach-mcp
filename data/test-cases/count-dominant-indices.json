@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3833.统计主导元素下标数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [5,4,3]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,1,2]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

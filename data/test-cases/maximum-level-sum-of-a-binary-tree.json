@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1161.最大层内元素和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,7,0,7,-8,null,null]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [989,null,10250,98693,-89388,null,null,null,-32127]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

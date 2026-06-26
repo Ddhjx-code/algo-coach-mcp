@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0991.坏了的计算器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "startValue = 2, target = 3",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "startValue = 5, target = 8",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "startValue = 3, target = 10",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

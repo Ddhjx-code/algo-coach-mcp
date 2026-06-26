@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3038.相同分数的最大操作数目 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,2,1,4,5]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,2,6,1,4]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

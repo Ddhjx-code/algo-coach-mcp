@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0680.验证回文串 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aba\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abca\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

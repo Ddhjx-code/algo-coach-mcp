@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2227.加密解密字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Encrypter\",\"encrypt\",\"decrypt\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[[\"a\",\"b\",\"c\",\"d\"],[\"ei\",\"zf\",\"ei\",\"am\"],[\"abcd\",\"acbd\",\"adbc\",\"badc\",\"dacb\",\"cadb\",\"cbda\",\"abad\"]],[\"abcd\"],[\"eizfeiam\"]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

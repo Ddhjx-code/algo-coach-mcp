@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0921.使括号有效的最少添加",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"())\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"(((\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3438.找到字符串中合法的相邻数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"2523533\"",
+      "expected": "\"23\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"221\"",
+      "expected": "\"21\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"22\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

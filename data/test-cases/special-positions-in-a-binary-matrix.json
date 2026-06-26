@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1582.二进制矩阵中的特殊位置",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[1,0,0],[0,0,1],[1,0,0]]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[1,0,0],[0,1,0],[0,0,1]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

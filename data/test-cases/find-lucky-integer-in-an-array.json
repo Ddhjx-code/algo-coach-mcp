@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1394.找出数组中的幸运数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [2,2,3,4]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,2,2,3,3,3]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [2,2,2,3,3]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [5]",
+      "expected": "-1",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [7,7,7,7,7,7,7]",
+      "expected": "7",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2416.字符串的前缀分数和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"abc\",\"ab\",\"bc\",\"b\"]",
+      "expected": "[5,4,3,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"abcd\"]",
+      "expected": "[4]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

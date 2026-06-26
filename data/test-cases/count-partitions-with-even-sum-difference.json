@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3432.统计元素和差值为偶数的分区方案",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [10,10,3,7,6]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,2]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,4,6,8]",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

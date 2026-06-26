@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0207.课程表",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "numCourses = 2, prerequisites = [[1,0]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "numCourses = 2, prerequisites = [[1,0],[0,1]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

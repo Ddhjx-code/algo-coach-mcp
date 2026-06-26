@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2865.美丽塔 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "maxHeights = [5,3,4,1,1]",
+      "expected": "13",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "maxHeights = [6,5,3,9,2,7]",
+      "expected": "22",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "maxHeights = [3,2,5,5,2,3]",
+      "expected": "18",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

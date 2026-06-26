@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2035.将数组分成两个数组并最小化数组和的差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,9,7,3]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-36,36]",
+      "expected": "72",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,-1,0,4,-2,-9]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

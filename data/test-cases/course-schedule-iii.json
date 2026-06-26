@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0630.课程表 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "courses = [[100, 200], [200, 1300], [1000, 1250], [2000, 3200]]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "courses = [[1,2]]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "courses = [[3,2],[4,3]]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

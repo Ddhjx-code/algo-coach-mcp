@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0419.棋盘上的战舰",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "board = [[\"X\",\".\",\".\",\"X\"],[\".\",\".\",\".\",\"X\"],[\".\",\".\",\".\",\"X\"]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "board = [[\".\"]]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

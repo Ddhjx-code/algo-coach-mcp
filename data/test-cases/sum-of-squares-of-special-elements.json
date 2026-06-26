@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2778.特殊元素平方和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "21",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,7,1,19,18,3]",
+      "expected": "63",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

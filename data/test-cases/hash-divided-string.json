@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3271.哈希分割字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcd\", k = 2",
+      "expected": "\"bf\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"mxz\", k = 3",
+      "expected": "\"i\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

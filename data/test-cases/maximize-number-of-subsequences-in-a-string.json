@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2207.字符串中最多数目的子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "text = \"abdcdbc\", pattern = \"ac\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "text = \"aabb\", pattern = \"ab\"",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

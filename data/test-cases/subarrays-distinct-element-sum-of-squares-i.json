@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2913.子数组不同元素数目的平方和 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,1]",
+      "expected": "15",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

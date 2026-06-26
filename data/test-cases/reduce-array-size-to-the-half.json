@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1338.数组大小减半",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [3,3,3,3,5,5,5,2,2,7]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [7,7,7,7,7,7]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

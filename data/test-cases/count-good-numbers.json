@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1922.统计好数字的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4",
+      "expected": "400",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 50",
+      "expected": "564908303",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

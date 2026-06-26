@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2075.解码斜向换位密码",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "encodedText = \"ch ie pr\", rows = 3",
+      "expected": "\"cipher\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "encodedText = \"iveo eed l te olc\", rows = 4",
+      "expected": "\"i love leetcode\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "encodedText = \"coding\", rows = 1",
+      "expected": "\"coding\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "encodedText = \" b ac\", rows = 2",
+      "expected": "\" abc\"",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

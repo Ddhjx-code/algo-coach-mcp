@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0553.最优除法",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[1000,100,10,2]",
+      "expected": "\"1000/(100/10/2)\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3,4]",
+      "expected": "\"2/(3/4)\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

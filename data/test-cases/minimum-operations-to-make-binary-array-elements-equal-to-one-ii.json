@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3192.使二进制数组全部等于 1 的最少操作次数 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,1,1,0,1]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,0,0,0]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

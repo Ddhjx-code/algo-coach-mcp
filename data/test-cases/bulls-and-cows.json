@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0299.猜数字游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "secret = \"1807\", guess = \"7810\"",
+      "expected": "\"1A3B\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "secret = \"1123\", guess = \"0111\"",
+      "expected": "\"1A1B\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

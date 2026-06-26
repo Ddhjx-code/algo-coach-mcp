@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3530.有向无环图中合法拓扑排序的最大利润",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, edges = [[0,1]], score = [2,3]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[0,1],[0,2]], score = [1,6,3]",
+      "expected": "25",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

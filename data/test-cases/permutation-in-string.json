@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0567.字符串的排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"ab\" s2 = \"eidbaooo\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1= \"ab\" s2 = \"eidboaoo\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

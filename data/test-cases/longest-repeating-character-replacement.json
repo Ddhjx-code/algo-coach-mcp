@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0424.替换后的最长重复字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"ABAB\", k = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"AABABBA\", k = 1",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

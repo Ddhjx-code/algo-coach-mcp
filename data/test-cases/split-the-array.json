@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3046.分割数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,2,2,3,4]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,1,1]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

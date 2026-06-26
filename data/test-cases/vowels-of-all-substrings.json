@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2063.所有子字符串中的元音",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"aba\"",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"abc\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"ltcd\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"noosabasboosa\"",
+      "expected": "237",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

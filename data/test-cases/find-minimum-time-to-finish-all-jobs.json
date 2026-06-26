@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1723.完成所有工作的最短时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "jobs = [3,2,3], k = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "jobs = [1,2,4,7,8], k = 2",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

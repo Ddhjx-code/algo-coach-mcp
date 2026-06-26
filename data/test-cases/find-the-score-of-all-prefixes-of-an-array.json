@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2640.一个数组所有前缀的分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,7,5,10]",
+      "expected": "[4,10,24,36,56]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,2,4,8,16]",
+      "expected": "[2,4,8,16,32,64]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

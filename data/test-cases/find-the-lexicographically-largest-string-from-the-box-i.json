@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3403.从盒子中找出字典序最大的字符串 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"dbca\", numFriends = 2",
+      "expected": "\"dbc\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"gggg\", numFriends = 4",
+      "expected": "\"g\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

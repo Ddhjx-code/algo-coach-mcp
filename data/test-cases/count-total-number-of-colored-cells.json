@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2579.统计染色格子数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

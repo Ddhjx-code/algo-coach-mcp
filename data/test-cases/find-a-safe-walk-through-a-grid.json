@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3286.穿越网格图的安全路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[0,1,0,0,0],[0,1,0,1,0],[0,0,0,1,0]], health = 1",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[0,1,1,0,0,0],[1,0,1,0,0,0],[0,1,1,1,0,1],[0,0,1,0,1,0]], health = 3",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,1,1],[1,0,1],[1,1,1]], health = 5",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

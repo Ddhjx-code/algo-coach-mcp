@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2115.从给定原材料中找到所有可以做出的菜",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "recipes = [\"bread\"], ingredients = [[\"yeast\",\"flour\"]], supplies = [\"yeast\",\"flour\",\"corn\"]",
+      "expected": "[\"bread\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "recipes = [\"bread\",\"sandwich\"], ingredients = [[\"yeast\",\"flour\"],[\"bread\",\"meat\"]], supplies = [\"yeast\",\"flour\",\"meat\"]",
+      "expected": "[\"bread\",\"sandwich\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "recipes = [\"bread\",\"sandwich\",\"burger\"], ingredients = [[\"yeast\",\"flour\"],[\"bread\",\"meat\"],[\"sandwich\",\"meat\",\"bread\"]], supplies = [\"yeast\",\"flour\",\"meat\"]",
+      "expected": "[\"bread\",\"sandwich\",\"burger\"]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "recipes = [\"bread\"], ingredients = [[\"yeast\",\"flour\"]], supplies = [\"yeast\"]",
+      "expected": "[]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

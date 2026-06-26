@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1530.好叶子节点对的数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,2,3,null,4], distance = 3",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,2,3,4,5,6,7], distance = 3",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [7,1,4,6,null,5,3,null,null,null,null,null,2], distance = 3",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "root = [100], distance = 1",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,1,1], distance = 2",
+      "expected": "1",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

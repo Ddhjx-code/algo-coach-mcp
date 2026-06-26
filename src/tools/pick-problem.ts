@@ -22,6 +22,18 @@ export function pickProblem(
   const randomIndex = Math.floor(Math.random() * problems.length);
   const problem = problems[randomIndex];
 
+  const signatures: Record<string, string> = {};
+  for (const [lang, code] of Object.entries(problem.solutions)) {
+    if (!code) continue;
+    const lines = code.split("\n");
+    const sigLine = lines.find(
+      (l) =>
+        /^\s*(def |public |private |func |var |const |function )/.test(l) &&
+        !/class /.test(l)
+    );
+    if (sigLine) signatures[lang] = sigLine.trim();
+  }
+
   return {
     slug: problem.slug,
     title: problem.title,
@@ -31,5 +43,6 @@ export function pickProblem(
     leetcodeSlug: problem.leetcodeSlug,
     description: problem.description,
     algorithms: problem.algorithms,
+    signatures,
   };
 }

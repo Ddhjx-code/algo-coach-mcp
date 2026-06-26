@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1163.按字典序排在最后的子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abab\"",
+      "expected": "\"bab\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"leetcode\"",
+      "expected": "\"tcode\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

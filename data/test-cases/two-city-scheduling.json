@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1029.两地调度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "costs = [[10,20],[30,200],[400,50],[30,20]]",
+      "expected": "110",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "costs = [[259,770],[448,54],[926,667],[184,139],[840,118],[577,469]]",
+      "expected": "1859",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "costs = [[515,563],[451,713],[537,709],[343,819],[855,779],[457,60],[650,359],[631,42]]",
+      "expected": "3086",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

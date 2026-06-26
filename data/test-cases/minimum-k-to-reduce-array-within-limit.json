@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3824.减小数组使其满足条件的最小 K 值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,7,5]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

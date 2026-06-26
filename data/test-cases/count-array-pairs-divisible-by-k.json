@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2183.统计可以被 K 整除的下标对数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,5], k = 2",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4], k = 5",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

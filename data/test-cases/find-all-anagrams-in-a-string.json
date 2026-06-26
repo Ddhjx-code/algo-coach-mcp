@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0438.找到字符串中所有字母异位词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"cbaebabacd\", p = \"abc\"",
+      "expected": "[0,6]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abab\", p = \"ab\"",
+      "expected": "[0,1,2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

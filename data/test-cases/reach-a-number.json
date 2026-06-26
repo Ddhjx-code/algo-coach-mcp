@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0754.到达终点数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "target = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "target = 3",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

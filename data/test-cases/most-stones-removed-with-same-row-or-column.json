@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0947.移除最多的同行或同列石头",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "stones = [[0,0],[0,1],[1,0],[1,2],[2,1],[2,2]]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [[0,0],[0,2],[1,1],[2,0],[2,2]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [[0,0]]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

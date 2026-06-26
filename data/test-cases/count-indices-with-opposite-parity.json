@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3917.统计下标的相反奇偶性得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "[2,1,1,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1]",
+      "expected": "[0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

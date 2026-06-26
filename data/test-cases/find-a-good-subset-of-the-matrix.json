@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2732.找到矩阵中的好子集",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[0,1,1,0],[0,0,0,1],[1,1,1,1]]",
+      "expected": "[0,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[0]]",
+      "expected": "[0]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,1,1],[1,1,1]]",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

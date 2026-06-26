@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1871.跳跃游戏 VII",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \" 0 11 0 1 0 \", minJump = 2, maxJump = 3",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"01101110\", minJump = 2, maxJump = 3",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

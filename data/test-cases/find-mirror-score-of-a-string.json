@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3412.计算字符串的镜像分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aczzx\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcdef\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

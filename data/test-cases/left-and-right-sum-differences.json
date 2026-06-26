@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2574.左右元素和的差值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [10,4,8,3]",
+      "expected": "[15,1,11,22]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1]",
+      "expected": "[0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

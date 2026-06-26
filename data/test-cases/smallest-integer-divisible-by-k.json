@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1015.可被 K 整除的最小整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 1",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 2",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "k = 3",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

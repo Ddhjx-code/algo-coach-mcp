@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3336.最大公约数相等的子序列数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,20,30]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,1,1]",
+      "expected": "50",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

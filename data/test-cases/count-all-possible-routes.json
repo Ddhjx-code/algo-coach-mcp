@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1575.统计所有可行路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "locations = [2,3,6,8,4], start = 1, finish = 3, fuel = 5",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "locations = [4,3,1], start = 1, finish = 0, fuel = 6",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "locations = [5,2,1], start = 0, finish = 2, fuel = 3",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

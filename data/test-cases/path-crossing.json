@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1496.判断路径是否相交",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "path = \"NES\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "path = \"NESWW\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

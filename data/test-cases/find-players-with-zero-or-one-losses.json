@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2225.找出输掉零场或一场比赛的玩家",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matches = [[1,3],[2,3],[3,6],[5,6],[5,7],[4,5],[4,8],[4,9],[10,4],[10,9]]",
+      "expected": "[[1,2,10],[4,5,7,8]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matches = [[2,3],[1,3],[5,4],[6,4]]",
+      "expected": "[[1,2,5,6],[]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

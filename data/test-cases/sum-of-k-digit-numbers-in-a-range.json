@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3855.给定范围内 K 位数字之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "l = 1, r = 2, k = 2",
+      "expected": "66",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "l = 0, r = 1, k = 3",
+      "expected": "444",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "l = 5, r = 5, k = 10",
+      "expected": "555555520",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

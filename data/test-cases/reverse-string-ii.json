@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0541.反转字符串 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcdefg\", k = 2",
+      "expected": "\"bacdfeg\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\", k = 2",
+      "expected": "\"bacd\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0699.掉落的方块",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "positions = [[1,2],[2,3],[6,1]]",
+      "expected": "[2,5,5]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "positions = [[100,100],[200,100]]",
+      "expected": "[100,100]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

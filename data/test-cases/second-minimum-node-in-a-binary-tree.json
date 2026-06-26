@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0671.二叉树中第二小的节点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [2,2,5,null,null,5,7]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [2,2,2]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

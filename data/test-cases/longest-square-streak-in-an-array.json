@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2501.数组中最长的方波",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,3,6,16,8,2]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3,5,6,7]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

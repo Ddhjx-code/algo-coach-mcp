@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0833.字符串中的查找与替换",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcd\", indices = [0,2], sources = [\"a\",\"cd\"], targets = [\"eee\",\"ffff\"]",
+      "expected": "\"eeebffff\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\", indices = [0,2], sources = [\"ab\",\"ec\"], targets = [\"eee\",\"ffff\"]",
+      "expected": "\"eeecd\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

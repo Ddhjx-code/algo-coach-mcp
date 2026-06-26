@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2578.最小和分割",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 4325",
+      "expected": "59",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 687",
+      "expected": "75",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

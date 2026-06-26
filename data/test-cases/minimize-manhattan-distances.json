@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3102.最小化曼哈顿距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[3,10],[5,15],[10,2],[4,4]]",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,1],[1,1],[1,1]]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

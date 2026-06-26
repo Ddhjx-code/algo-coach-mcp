@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1054.距离相等的条形码",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "barcodes = [1,1,1,2,2,2]",
+      "expected": "[2,1,2,1,2,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "barcodes = [1,1,1,1,2,2,3,3]",
+      "expected": "[1,3,1,3,2,1,2,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

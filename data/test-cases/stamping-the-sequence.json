@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0936.戳印序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "stamp = &quot;abc&quot;, target = &quot;ababc&quot;",
+      "expected": "[0,2] （[1,0,2] 以及其他一些可能的结果也将作为答案被接受）",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "stamp = &quot;abca&quot;, target = &quot;aabcaca&quot;",
+      "expected": "[3,0,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

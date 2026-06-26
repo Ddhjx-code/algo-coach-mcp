@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1370.上升下降字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aaaabbbbcccc\"",
+      "expected": "\"abccbaabccba\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"rat\"",
+      "expected": "\"art\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

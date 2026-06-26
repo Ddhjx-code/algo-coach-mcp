@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2087.网格图中机器人回家的最小代价",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "startPos = [1, 0], homePos = [2, 3], rowCosts = [5, 4, 3], colCosts = [8, 2, 6, 7]",
+      "expected": "18",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "startPos = [0, 0], homePos = [0, 0], rowCosts = [5], colCosts = [26]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

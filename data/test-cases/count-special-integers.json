@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2376.统计特殊整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 20",
+      "expected": "19",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 135",
+      "expected": "110",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

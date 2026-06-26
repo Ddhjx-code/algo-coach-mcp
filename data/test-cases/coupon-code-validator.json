@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3606.优惠券校验器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "code = [\"SAVE20\",\"\",\"PHARMA5\",\"SAVE@20\"], businessLine = [\"restaurant\",\"grocery\",\"pharmacy\",\"restaurant\"], isActive = [true,true,true,true]",
+      "expected": "[\"PHARMA5\",\"SAVE20\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "code = [\"GROCERY15\",\"ELECTRONICS_50\",\"DISCOUNT10\"], businessLine = [\"grocery\",\"electronics\",\"invalid\"], isActive = [false,true,true]",
+      "expected": "[\"ELECTRONICS_50\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

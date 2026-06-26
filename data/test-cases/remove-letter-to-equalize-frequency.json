@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2423.删除字符使频率相同",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"abcc\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"aazz\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

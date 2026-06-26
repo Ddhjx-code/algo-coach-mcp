@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2568.最小无法得到的或值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,1]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,3,2]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

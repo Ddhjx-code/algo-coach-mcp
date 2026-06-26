@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2741.特别的排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,6]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,4,3]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

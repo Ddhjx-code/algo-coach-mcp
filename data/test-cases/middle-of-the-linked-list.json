@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0876.链表的中间结点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [1,2,3,4,5]",
+      "expected": "[3,4,5]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [1,2,3,4,5,6]",
+      "expected": "[4,5,6]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

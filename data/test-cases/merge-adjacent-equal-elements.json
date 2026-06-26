@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3834.合并相邻且相等的元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,1,2]",
+      "expected": "[3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2,4]",
+      "expected": "[8]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,7,5]",
+      "expected": "[3,7,5]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

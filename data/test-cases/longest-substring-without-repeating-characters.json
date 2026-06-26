@@ -3,20 +3,20 @@
   "functionName": "solution",
   "cases": [
     {
-      "input": "\"abcabcbb\"",
-      "expected": null,
+      "input": "s = \"abcabcbb\"",
+      "expected": "3",
       "description": "example 1",
       "category": "basic"
     },
     {
-      "input": "\"bbbbb\"",
-      "expected": null,
+      "input": "s = \"bbbbb\"",
+      "expected": "1",
       "description": "example 2",
       "category": "basic"
     },
     {
-      "input": "\"pwwkew\"",
-      "expected": null,
+      "input": "s = \"pwwkew\"",
+      "expected": "3",
       "description": "example 3",
       "category": "basic"
     }

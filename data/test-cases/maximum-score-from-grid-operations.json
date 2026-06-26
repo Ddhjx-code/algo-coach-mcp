@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3225.网格图操作后的最大分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[0,0,0,0,0],[0,0,3,0,0],[0,1,0,0,0],[5,0,0,3,0],[0,0,0,0,2]]",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[10,9,0,0,15],[7,1,0,8,0],[5,20,0,11,0],[0,0,0,1,2],[8,12,1,10,3]]",
+      "expected": "94",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

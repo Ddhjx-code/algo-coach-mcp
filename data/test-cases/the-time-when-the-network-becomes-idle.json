@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2039.网络空闲的时刻",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "edges = [[0,1],[1,2]], patience = [0,2,1]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "edges = [[0,1],[0,2],[1,2]], patience = [0,10,10]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

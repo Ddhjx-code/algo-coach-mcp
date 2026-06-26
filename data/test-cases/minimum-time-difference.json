@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0539.最小时间差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "timePoints = [\"23:59\",\"00:00\"]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "timePoints = [\"00:00\",\"23:59\",\"00:00\"]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

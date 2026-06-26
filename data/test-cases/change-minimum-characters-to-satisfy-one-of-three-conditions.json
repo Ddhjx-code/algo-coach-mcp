@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1737.满足三条件之一需改变的最少字符数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = \"aba\", b = \"caa\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = \"dabadd\", b = \"cda\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

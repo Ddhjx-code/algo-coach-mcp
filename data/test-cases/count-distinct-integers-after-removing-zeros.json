@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3747.统计移除零后不同整数的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 10",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3805.统计凯撒加密对数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"fusion\",\"layout\"]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"ab\",\"aa\",\"za\",\"aa\"]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

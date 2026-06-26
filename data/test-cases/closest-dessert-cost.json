@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1774.最接近目标价格的甜点成本",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "baseCosts = [1,7], toppingCosts = [3,4], target = 10",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "baseCosts = [2,3], toppingCosts = [4,5,100], target = 18",
+      "expected": "17",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "baseCosts = [3,10], toppingCosts = [2,5], target = 9",
+      "expected": "8",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "baseCosts = [10], toppingCosts = [1], target = 1",
+      "expected": "10",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

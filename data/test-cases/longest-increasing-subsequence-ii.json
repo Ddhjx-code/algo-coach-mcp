@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2407.最长递增子序列 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,2,1,4,3,4,5,8,15], k = 3",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [7,4,5,1,8,12,4,7], k = 5",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,5], k = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

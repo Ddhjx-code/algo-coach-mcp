@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1901.寻找峰值 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[1,4],[3,2]]",
+      "expected": "[0,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[10,20,15],[21,30,14],[7,16,32]]",
+      "expected": "[1,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

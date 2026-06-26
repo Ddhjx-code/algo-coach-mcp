@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0837.新 21 点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 10, k = 1, maxPts = 10",
+      "expected": "1.00000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 6, k = 1, maxPts = 10",
+      "expected": "0.60000",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 21, k = 17, maxPts = 10",
+      "expected": "0.73278",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

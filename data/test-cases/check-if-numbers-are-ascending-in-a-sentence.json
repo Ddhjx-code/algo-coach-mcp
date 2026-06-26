@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2042.检查句子中的数字是否递增",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1 box has 3 blue 4 red 6 green and 12 yellow marbles\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"hello world 5 x 5\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"sunset is at 7 51 pm overnight lows will be in the low 50 and 60 s\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"4 5 11 26\"",
+      "expected": "true",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3914.使数组非递减需要的最小累计值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,3,2,1]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,1,2,3]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

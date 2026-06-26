@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1482.制作 m 束花所需的最少天数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "bloomDay = [1,10,3,10,2], m = 3, k = 1",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "bloomDay = [1,10,3,10,2], m = 3, k = 2",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "bloomDay = [7,7,7,7,12,7,7], m = 2, k = 3",
+      "expected": "12",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "bloomDay = [1000000000,1000000000], m = 1, k = 1",
+      "expected": "1000000000",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "bloomDay = [1,10,2,9,3,8,4,7,5,6], m = 4, k = 2",
+      "expected": "9",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

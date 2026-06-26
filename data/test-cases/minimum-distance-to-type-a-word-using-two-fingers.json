@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1320.二指输入的的最小距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"CAKE\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"HAPPY\"",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

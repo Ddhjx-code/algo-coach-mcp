@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3926.有效单词计数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "chunks = [\"hello wor\",\"ld hello\"], queries = [\"hello\",\"world\",\"wor\"]",
+      "expected": "[2,1,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "chunks = [\"a--b a-\",\"-c\"], queries = [\"a\",\"b\",\"c\"]",
+      "expected": "[2,1,1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "chunks = [\"hello\"], queries = [\"hello\",\"ell\"]",
+      "expected": "[1,0]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3794.反转字符串前缀",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcd\", k = 2",
+      "expected": "\"bacd\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"xyz\", k = 3",
+      "expected": "\"zyx\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"hey\", k = 1",
+      "expected": "\"hey\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

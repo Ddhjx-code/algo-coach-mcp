@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0903.DI 序列的有效排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"DID\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"D\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2130.链表最大孪生和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [5,4,2,1]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [4,2,2,3]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "head = [1,100000]",
+      "expected": "100001",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

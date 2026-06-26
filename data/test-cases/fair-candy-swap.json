@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0888.公平的糖果交换",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "aliceSizes = [1,1], bobSizes = [2,2]",
+      "expected": "[1,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "aliceSizes = [1,2], bobSizes = [2,3]",
+      "expected": "[1,2]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "aliceSizes = [2], bobSizes = [1,3]",
+      "expected": "[2,3]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "aliceSizes = [1,2,5], bobSizes = [2,4]",
+      "expected": "[5,4]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

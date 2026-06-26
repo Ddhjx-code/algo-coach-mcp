@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3457.吃披萨",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "pizzas = [1,2,3,4,5,6,7,8]",
+      "expected": "14",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "pizzas = [2,1,1,1,1,1,1,1]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

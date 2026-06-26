@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3478.选出和最大的 K 个元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [4,2,1,5,3], nums2 = [10,20,30,40,50], k = 2",
+      "expected": "[80,30,0,80,50]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [2,2,2,2], nums2 = [3,1,2,3], k = 1",
+      "expected": "[0,0,0,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

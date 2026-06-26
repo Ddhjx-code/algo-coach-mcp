@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3614.用特殊操作处理字符串 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"a#b%*\", k = 1",
+      "expected": "\"a\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"cd%#*#\", k = 3",
+      "expected": "\"d\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"z*#\", k = 0",
+      "expected": "\".\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

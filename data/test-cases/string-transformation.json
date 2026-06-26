@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2851.字符串转换",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcd\", t = \"cdab\", k = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ababab\", t = \"ababab\", k = 1",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

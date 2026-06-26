@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0060.排列序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 3",
+      "expected": "\"213\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, k = 9",
+      "expected": "\"2314\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, k = 1",
+      "expected": "\"123\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

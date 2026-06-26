@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0476.数字的补数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 5",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 1",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

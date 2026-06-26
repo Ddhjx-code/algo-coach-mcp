@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1957.删除字符使字符串变好",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"le e etcode\"",
+      "expected": "\"leetcode\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \" a aab aa aa\"",
+      "expected": "\"aabaa\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aab\"",
+      "expected": "\"aab\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2862.完全子集的最大元素和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [8,7,3,5,7,2,4,9]",
+      "expected": "16",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [8,10,3,8,1,13,7,9,4]",
+      "expected": "20",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

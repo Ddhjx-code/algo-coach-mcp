@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1240.铺瓷砖",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, m = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, m = 8",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 11, m = 13",
+      "expected": "6",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1235.规划兼职工作",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "startTime = [1,2,3,3], endTime = [3,4,5,6], profit = [50,10,40,70]",
+      "expected": "120",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "startTime = [1,2,3,4,6], endTime = [3,5,10,6,9], profit = [20,20,100,70,60]",
+      "expected": "150",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "startTime = [1,1,1], endTime = [2,3,4], profit = [5,6,4]",
+      "expected": "6",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

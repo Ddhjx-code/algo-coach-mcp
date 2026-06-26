@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0009.回文数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "x = 121",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "x = -121",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "x = 10",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

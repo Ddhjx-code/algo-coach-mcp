@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2294.划分数组使最大差为 K",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,6,1,2,5], k = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3], k = 1",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2,4,5], k = 0",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

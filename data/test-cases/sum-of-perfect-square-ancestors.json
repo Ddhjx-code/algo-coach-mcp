@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3715.完全平方数的祖先个数总和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, edges = [[0,1],[1,2]], nums = [2,8,2]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[0,1],[0,2]], nums = [1,2,4]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, edges = [[0,1],[0,2],[1,3]], nums = [1,2,9,4]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2971.找到最大周长的多边形",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [5,5,5]",
+      "expected": "15",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,12,1,2,5,50,3]",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,5,50]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

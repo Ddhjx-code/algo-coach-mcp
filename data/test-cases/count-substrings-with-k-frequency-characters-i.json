@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3325.字符至少出现 K 次的子字符串 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abacb\", k = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcde\", k = 1",
+      "expected": "15",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

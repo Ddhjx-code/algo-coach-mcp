@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3651.带传送的最小路径成本",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,3,3],[2,5,4],[4,3,5]], k = 2",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,2],[2,3],[3,4]], k = 1",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

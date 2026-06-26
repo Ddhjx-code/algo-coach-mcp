@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1019.链表中的下一个更大节点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [2,1,5]",
+      "expected": "[5,5,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [2,7,4,3,5]",
+      "expected": "[7,0,5,5,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

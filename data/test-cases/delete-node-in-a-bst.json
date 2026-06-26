@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0450.删除二叉搜索树中的节点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [5,3,6,2,4,null,7], key = 3",
+      "expected": "[5,4,6,2,null,null,7]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [5,3,6,2,4,null,7], key = 0",
+      "expected": "[5,3,6,2,4,null,7]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [], key = 0",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

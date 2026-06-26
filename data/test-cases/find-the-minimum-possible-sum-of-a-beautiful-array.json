@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2834.找出美丽数组的最小和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, target = 3",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, target = 3",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, target = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

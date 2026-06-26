@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1305.两棵二叉搜索树中的所有元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root1 = [2,1,4], root2 = [1,0,3]",
+      "expected": "[0,1,1,2,3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root1 = [1,null,8], root2 = [8,1]",
+      "expected": "[1,1,8,8]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

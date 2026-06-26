@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3035.回文字符串的最大数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"abbb\",\"ba\",\"aa\"]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"abc\",\"ab\"]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"cd\",\"ef\",\"a\"]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0968.监控二叉树",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[0,0,null,0,0]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[0,0,null,0,null,0,null,null,0]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0744.寻找比目标字母大的最小字母",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "letters = ['c', 'f', 'j'], target = 'a'",
+      "expected": "'c'",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "letters = ['c','f','j'], target = 'c'",
+      "expected": "'f'",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "letters = ['x','x','y','y'], target = 'z'",
+      "expected": "'x'",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

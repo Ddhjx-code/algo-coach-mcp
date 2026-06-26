@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3842.切换打开灯泡",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "bulbs = [10,30,20,10]",
+      "expected": "[20,30]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "bulbs = [100,100]",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0068.文本左右对齐",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"This\", \"is\", \"an\", \"example\", \"of\", \"text\", \"justification.\"], maxWidth = 16",
+      "expected": "[ \"This is an\", \"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"What\",\"must\",\"be\",\"acknowledgment\",\"shall\",\"be\"], maxWidth = 16",
+      "expected": "[ \"What must be\", \"acknowledgment \", \"shall be \" ]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"Science\",\"is\",\"what\",\"we\",\"understand\",\"well\",\"enough\",\"to\",\"explain\",\"to\",\"a\",\"computer.\",\"Art\",\"is\",\"everything\",\"else\",\"we\",\"do\"]，maxWidth = 20",
+      "expected": "[ \"Science is what we\", \"understand well\", \"enough to explain to\", \"a computer. Art is\", \"everything else we\", \"do \" ]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

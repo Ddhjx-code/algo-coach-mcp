@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0416.分割等和子集",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,5,11,5]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,5]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

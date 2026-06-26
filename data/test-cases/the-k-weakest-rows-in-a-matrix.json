@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1337.矩阵中战斗力最弱的 K 行",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[1,1,0,0,0], [1,1,1,1,0], [1,0,0,0,0], [1,1,0,0,0], [1,1,1,1,1]], k = 3",
+      "expected": "[2,0,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[1,0,0,0], [1,1,1,1], [1,0,0,0], [1,0,0,0]], k = 2",
+      "expected": "[0,2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

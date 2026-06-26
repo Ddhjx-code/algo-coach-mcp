@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0740.删除并获得点数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,4,2]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2,3,3,3,4]",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

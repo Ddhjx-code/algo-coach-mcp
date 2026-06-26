@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2785.将字符串中的元音字母排序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"lEetcOde\"",
+      "expected": "\"lEOtcede\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"lYmpH\"",
+      "expected": "\"lYmpH\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

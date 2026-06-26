@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1591.奇怪的打印机 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "targetGrid = [[1,1,1,1],[1,2,2,1],[1,2,2,1],[1,1,1,1]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "targetGrid = [[1,1,1,1],[1,1,3,3],[1,1,3,4],[5,5,1,4]]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "targetGrid = [[1,2,1],[2,1,2],[1,2,1]]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "targetGrid = [[1,1,1],[3,1,3]]",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1955.统计特殊子序列的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,1,2,2]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2,0,0]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1,2,0,1,2]",
+      "expected": "7",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

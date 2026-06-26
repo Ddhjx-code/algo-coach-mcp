@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2718.查询后矩阵的和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, queries = [[0,0,1],[1,2,2],[0,2,3],[1,0,4]]",
+      "expected": "23",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, queries = [[0,0,4],[0,1,2],[1,0,1],[0,2,3],[1,2,1]]",
+      "expected": "17",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2742.给墙壁刷油漆",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "cost = [1,2,3,2], time = [1,2,3,2]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "cost = [2,3,4,2], time = [1,1,1,1]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2845.统计趣味子数组的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,2,4], modulo = 2, k = 1",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,1,9,6], modulo = 3, k = 0",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

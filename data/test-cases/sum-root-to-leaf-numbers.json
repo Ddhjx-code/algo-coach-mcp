@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0129.求根节点到叶节点数字之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,2,3]",
+      "expected": "25",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [4,9,0,5,1]",
+      "expected": "1026",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

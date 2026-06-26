@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1249.移除无效的括号",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"lee(t(c)o)de)\"",
+      "expected": "\"lee(t(c)o)de\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a)b(c)d\"",
+      "expected": "\"ab(c)d\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"))((\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

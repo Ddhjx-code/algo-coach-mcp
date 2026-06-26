@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1061.按字典序排列最小的等效字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"parker\", s2 = \"morris\", baseStr = \"parser\"",
+      "expected": "\"makkek\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"hello\", s2 = \"world\", baseStr = \"hold\"",
+      "expected": "\"hdld\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"leetcode\", s2 = \"programs\", baseStr = \"sourcecode\"",
+      "expected": "\"aauaaaaada\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

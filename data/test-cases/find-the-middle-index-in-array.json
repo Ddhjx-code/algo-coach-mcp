@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1991.找到数组的中间位置",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,-1, 8 ,4]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,-1, 4 ]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,5]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [ 1 ]",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

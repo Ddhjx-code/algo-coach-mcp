@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2014.重复 K 次的最长子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"letsleetcode\", k = 2",
+      "expected": "\"let\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bb\", k = 2",
+      "expected": "\"b\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ab\", k = 2",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

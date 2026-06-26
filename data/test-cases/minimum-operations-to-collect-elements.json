@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2869.收集元素的最少操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,5,4,2], k = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,1,5,4,2], k = 5",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,2,5,3,1], k = 3",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

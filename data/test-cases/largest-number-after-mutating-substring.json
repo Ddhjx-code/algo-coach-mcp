@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1946.子字符串突变后可能得到的最大整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \" 1 32\", change = [9,8,5,0,3,6,4,2,6,8]",
+      "expected": "\" 8 32\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \" 021 \", change = [9,4,3,5,7,2,1,9,0,6]",
+      "expected": "\" 934 \"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"5\", change = [1,4,7,5,3,2,5,6,9,4]",
+      "expected": "\"5\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

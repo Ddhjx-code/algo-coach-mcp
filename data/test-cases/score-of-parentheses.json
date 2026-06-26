@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0856.括号的分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "&quot;()&quot;",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "&quot;(())&quot;",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "&quot;()()&quot;",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "&quot;(()(()))&quot;",
+      "expected": "6",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

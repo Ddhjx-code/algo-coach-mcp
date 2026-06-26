@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2974.最小数字游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [5,4,2,3]",
+      "expected": "[3,2,5,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,5]",
+      "expected": "[5,2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

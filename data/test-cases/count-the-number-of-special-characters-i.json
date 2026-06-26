@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3120.统计特殊字母的数量 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"aaAbcBC\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"abc\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"abBCab\"",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0848.字母移位",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\", shifts = [3,5,9]",
+      "expected": "\"rpl\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aaa\", shifts = [1,2,3]",
+      "expected": "\"gfd\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1735.生成乘积数组的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "queries = [[2,6],[5,1],[73,660]]",
+      "expected": "[4,1,50734910]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "queries = [[1,1],[2,2],[3,3],[4,4],[5,5]]",
+      "expected": "[1,2,3,10,5]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

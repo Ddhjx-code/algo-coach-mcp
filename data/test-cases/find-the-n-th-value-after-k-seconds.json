@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3179.K 秒后第 N 个元素的值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, k = 5",
+      "expected": "56",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, k = 3",
+      "expected": "35",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

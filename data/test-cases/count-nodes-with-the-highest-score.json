@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2049.统计最高分的节点数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "parents = [-1,2,0,2,0]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "parents = [-1,2,0]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

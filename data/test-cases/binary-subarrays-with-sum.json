@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0930.和相同的二元子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,0,1,0,1], goal = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,0,0,0,0], goal = 0",
+      "expected": "15",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

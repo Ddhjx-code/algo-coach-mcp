@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1079.活字印刷",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "\"AAB\"",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "\"AAABBC\"",
+      "expected": "188",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "\"V\"",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

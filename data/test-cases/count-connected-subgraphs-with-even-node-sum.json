@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3910.统计节点和为偶数的连通子图",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,0,1], edges = [[0,1],[1,2]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1], edges = []",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

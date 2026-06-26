@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3427.变长子数组求和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,1]",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,1,1,2]",
+      "expected": "13",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

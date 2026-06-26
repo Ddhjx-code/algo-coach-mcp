@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1234.替换子串得到平衡字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"QWER\"",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"QQWE\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"QQQW\"",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"QQQQ\"",
+      "expected": "3",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

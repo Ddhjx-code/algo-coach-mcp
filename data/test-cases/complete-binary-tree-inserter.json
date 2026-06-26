@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0919.完全二叉树插入器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"CBTInserter\",\"insert\",\"insert\",\"get_root\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[[1,2]],[3],[4],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

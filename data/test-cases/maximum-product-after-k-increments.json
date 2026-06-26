@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2233.K 次增加后的最大乘积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,4], k = 5",
+      "expected": "20",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [6,3,3,2], k = 2",
+      "expected": "216",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

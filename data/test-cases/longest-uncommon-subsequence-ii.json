@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0522.最长特殊序列 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "strs = [\"aba\",\"cdc\",\"eae\"]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"aaa\",\"aaa\",\"aa\"]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

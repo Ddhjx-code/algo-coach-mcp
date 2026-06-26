@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1657.确定两个字符串是否接近",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"abc\", word2 = \"bca\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"a\", word2 = \"aa\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"cabbba\", word2 = \"abbccc\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

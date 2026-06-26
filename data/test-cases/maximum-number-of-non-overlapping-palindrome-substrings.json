@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2472.不重叠回文子字符串的最大数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abaccdbbd\", k = 3",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"adbcda\", k = 2",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

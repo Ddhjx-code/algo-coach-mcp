@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1877.数组中最大数对和的最小值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,5,2,3]",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,5,4,2,4,6]",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

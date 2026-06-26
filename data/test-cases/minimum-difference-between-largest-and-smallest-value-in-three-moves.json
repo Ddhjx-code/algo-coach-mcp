@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1509.三次操作后最大值与最小值的最小差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [5,3,2,4]",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,5,0,10,14]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,100,20]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1358.包含所有三种字符的子字符串数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;abcabc&quot;",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;aaacb&quot;",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;abc&quot;",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

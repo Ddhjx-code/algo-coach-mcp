@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1585.检查字符串是否可以通过排序子字符串得到另一个字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;84532&quot;, t = &quot;34852&quot;",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;34521&quot;, t = &quot;23415&quot;",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;12345&quot;, t = &quot;12435&quot;",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;1&quot;, t = &quot;2&quot;",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

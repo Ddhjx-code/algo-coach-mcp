@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2739.总行驶距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mainTank = 5, additionalTank = 10",
+      "expected": "60",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mainTank = 1, additionalTank = 2",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

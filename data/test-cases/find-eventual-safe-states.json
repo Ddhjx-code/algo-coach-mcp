@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0802.找到最终的安全状态",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "graph = [[1,2],[2,3],[5],[0],[5],[],[]]",
+      "expected": "[2,4,5,6]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "graph = [[1,2,3,4],[1,2],[3,4],[0,4],[]]",
+      "expected": "[4]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

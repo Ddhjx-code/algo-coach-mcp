@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1544.整理字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leEeetcode\"",
+      "expected": "\"leetcode\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abBAcC\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"s\"",
+      "expected": "\"s\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0739.每日温度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "temperatures = [73,74,75,71,69,72,76,73]",
+      "expected": "[1,1,4,2,1,1,0,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "temperatures = [30,40,50,60]",
+      "expected": "[1,1,1,0]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "temperatures = [30,60,90]",
+      "expected": "[1,1,0]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

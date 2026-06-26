@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0670.最大交换",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "2736",
+      "expected": "7236",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "9973",
+      "expected": "9973",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

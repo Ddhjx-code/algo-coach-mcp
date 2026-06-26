@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2210.统计数组中峰和谷的数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,4,1,1,6,5]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [6,6,5,5,4,1]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

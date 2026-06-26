@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1471.数组中的 k 个最强值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [1,2,3,4,5], k = 2",
+      "expected": "[5,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,1,3,5,5], k = 2",
+      "expected": "[5,5]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [6,7,11,7,6,8], k = 5",
+      "expected": "[11,8,6,6,7]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

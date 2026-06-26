@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0664.奇怪的打印机",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aaabbb\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aba\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1288.删除被覆盖区间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[[1,4],[3,6],[2,8]]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[1,4],[2,3]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

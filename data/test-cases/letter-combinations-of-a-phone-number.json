@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0017.电话号码的字母组合",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "digits = \"23\"",
+      "expected": "[\"ad\",\"ae\",\"af\",\"bd\",\"be\",\"bf\",\"cd\",\"ce\",\"cf\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "digits = \"2\"",
+      "expected": "[\"a\",\"b\",\"c\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

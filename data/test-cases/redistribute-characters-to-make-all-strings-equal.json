@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1897.重新分配字符使所有字符串都相等",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"abc\",\"aabc\",\"bc\"]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"ab\",\"a\"]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

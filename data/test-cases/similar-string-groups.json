@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0839.相似字符串组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "strs = [\"tars\",\"rats\",\"arts\",\"star\"]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"omv\",\"ovm\"]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

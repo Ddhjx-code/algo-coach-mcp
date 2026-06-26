@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0869.重新排序得到 2 的幂",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

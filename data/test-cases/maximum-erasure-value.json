@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1695.删除子数组的最大得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,2,4,5,6]",
+      "expected": "17",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,2,1,2,5,2,1,2,5]",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

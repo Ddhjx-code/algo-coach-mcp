@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0006.Z 字形变换",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"PAYPALISHIRING\", numRows = 3",
+      "expected": "\"PAHNAPLSIIGYIR\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"PAYPALISHIRING\", numRows = 4",
+      "expected": "\"PINALSIGYAHRPI\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"A\", numRows = 1",
+      "expected": "\"A\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0475.供暖器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "houses = [1,2,3], heaters = [2]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "houses = [1,2,3,4], heaters = [1,4]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "houses = [1,5], heaters = [2]",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

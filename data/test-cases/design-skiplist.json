@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1206.设计跳表",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Skiplist\",\"add\",\"add\",\"add\",\"search\",\"add\",\"search\",\"erase\",\"erase\",\"search\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[1],[2],[3],[0],[4],[1],[0],[1],[1]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

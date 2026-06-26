@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0713.乘积小于 K 的子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [10,5,2,6], k = 100",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3], k = 0",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

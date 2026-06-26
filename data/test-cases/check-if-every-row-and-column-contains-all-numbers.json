@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2133.检查是否每一行每一列都包含全部整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matrix = [[1,2,3],[3,1,2],[2,3,1]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[1,1,1],[1,2,3],[1,2,3]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

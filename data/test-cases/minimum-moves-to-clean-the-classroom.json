@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3568.清理教室的最少移动",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "classroom = [\"S.\", \"XL\"], energy = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "classroom = [\"LS\", \"RL\"], energy = 4",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "classroom = [\"L.S\", \"RXL\"], energy = 3",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

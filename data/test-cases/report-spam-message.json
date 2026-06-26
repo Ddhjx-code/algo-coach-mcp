@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3295.举报垃圾信息",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "message = [\"hello\",\"world\",\"leetcode\"], bannedWords = [\"world\",\"hello\"]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "message = [\"hello\",\"programming\",\"fun\"], bannedWords = [\"world\",\"programming\",\"leetcode\"]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

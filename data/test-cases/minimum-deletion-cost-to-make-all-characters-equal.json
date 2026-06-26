@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3784.使所有字符相等的最小删除代价",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aabaac\", cost = [1,2,3,4,1,10]",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc\", cost = [10,5,8]",
+      "expected": "13",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"zzzzz\", cost = [67,67,67,67,67]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

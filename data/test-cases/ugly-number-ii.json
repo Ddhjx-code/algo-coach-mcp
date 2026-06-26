@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0264.丑数 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 10",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

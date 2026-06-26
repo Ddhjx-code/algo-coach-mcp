@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1129.颜色交替的最短路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, red_edges = [[0,1],[1,2]], blue_edges = []",
+      "expected": "[0,1,-1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, red_edges = [[0,1]], blue_edges = [[2,1]]",
+      "expected": "[0,1,-1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

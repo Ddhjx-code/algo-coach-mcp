@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0448.找到所有数组中消失的数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,3,2,7,8,2,3,1]",
+      "expected": "[5,6]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1]",
+      "expected": "[2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

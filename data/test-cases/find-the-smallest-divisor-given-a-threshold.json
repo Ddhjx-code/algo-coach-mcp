@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1283.使结果不超过阈值的最小除数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,5,9], threshold = 6",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3,5,7,11], threshold = 11",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [19], threshold = 5",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

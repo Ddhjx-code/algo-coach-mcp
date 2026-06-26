@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1437.是否所有 1 都至少相隔 k 个元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,0,0,0,1,0,0,1], k = 2",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,0,0,1,0,1], k = 2",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

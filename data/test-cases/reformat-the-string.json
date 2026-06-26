@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1417.重新格式化字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;a0b1c2&quot;",
+      "expected": "&quot;0a1b2c&quot;",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;leetcode&quot;",
+      "expected": "&quot;&quot;",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;1229857369&quot;",
+      "expected": "&quot;&quot;",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;covid2019&quot;",
+      "expected": "&quot;c2o0v1i9d&quot;",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;ab123&quot;",
+      "expected": "&quot;1a2b3&quot;",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

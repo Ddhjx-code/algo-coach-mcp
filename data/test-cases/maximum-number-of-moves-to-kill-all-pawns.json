@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3283.吃掉所有兵需要的最多移动次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "kx = 1, ky = 1, positions = [[0,0]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "kx = 0, ky = 2, positions = [[1,1],[2,2],[3,3]]",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "kx = 0, ky = 0, positions = [[1,2],[2,4]]",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

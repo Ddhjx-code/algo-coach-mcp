@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1659.最大化网格幸福感",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "m = 2, n = 3, introvertsCount = 1, extrovertsCount = 2",
+      "expected": "240",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "m = 3, n = 1, introvertsCount = 2, extrovertsCount = 1",
+      "expected": "260",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "m = 2, n = 2, introvertsCount = 4, extrovertsCount = 0",
+      "expected": "240",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

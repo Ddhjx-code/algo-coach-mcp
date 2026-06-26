@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3529.统计水平子串和垂直子串重叠格子的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[\"a\",\"a\",\"c\",\"c\"],[\"b\",\"b\",\"b\",\"c\"],[\"a\",\"a\",\"b\",\"a\"],[\"c\",\"a\",\"a\",\"c\"],[\"a\",\"a\",\"b\",\"a\"]], pattern = \"abaca\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[\"c\",\"a\",\"a\",\"a\"],[\"a\",\"a\",\"b\",\"a\"],[\"b\",\"b\",\"a\",\"a\"],[\"a\",\"a\",\"b\",\"a\"]], pattern = \"aba\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[\"a\"]], pattern = \"a\"",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

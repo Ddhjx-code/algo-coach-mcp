@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1812.判断国际象棋棋盘中一个格子的颜色",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "coordinates = \"a1\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "coordinates = \"h3\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "coordinates = \"c7\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

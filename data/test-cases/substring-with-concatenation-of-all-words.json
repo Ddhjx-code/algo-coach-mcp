@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0030.串联所有单词的子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"barfoothefoobarman\", words = [\"foo\",\"bar\"]",
+      "expected": "[0,9]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"wordgoodgoodgoodbestword\", words = [\"word\",\"good\",\"best\",\"word\"]",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"barfoofoobarthefoobarman\", words = [\"bar\",\"foo\",\"the\"]",
+      "expected": "[6,9,12]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

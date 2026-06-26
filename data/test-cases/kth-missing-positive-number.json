@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1539.第 k 个缺失的正整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [2,3,4,7,11], k = 5",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,2,3,4], k = 2",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0470.用 Rand7() 实现 Rand10()",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "1",
+      "expected": "[2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "2",
+      "expected": "[2,8]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "3",
+      "expected": "[3,8,10]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1945.字符串转化后的各位数字之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"iiii\", k = 1",
+      "expected": "36",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"leetcode\", k = 2",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"zbax\", k = 2",
+      "expected": "8",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

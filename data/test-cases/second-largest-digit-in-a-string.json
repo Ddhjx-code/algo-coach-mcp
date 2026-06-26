@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1796.字符串中第二大的数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"dfa12321afd\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc1111\"",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

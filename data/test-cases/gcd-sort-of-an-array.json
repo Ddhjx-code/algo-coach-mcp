@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1998.数组的最大公因数排序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [7,21,3]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,2,6,2]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,5,9,3,15]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

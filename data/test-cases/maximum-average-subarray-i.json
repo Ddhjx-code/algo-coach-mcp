@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0643.子数组最大平均数 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,12,-5,-6,50,3], k = 4",
+      "expected": "12.75",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5], k = 1",
+      "expected": "5.00000",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

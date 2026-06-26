@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3467.将数组按照奇偶性转化",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,3,2,1]",
+      "expected": "[0,0,1,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,5,1,4,2]",
+      "expected": "[0,0,1,1,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1864.构成交替字符串需要的最小交换次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"111000\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"010\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1110\"",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

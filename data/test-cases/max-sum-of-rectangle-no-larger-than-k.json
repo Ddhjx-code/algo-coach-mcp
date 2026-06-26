@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0363.矩形区域不超过 K 的最大数值和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matrix = [[1,0,1],[0,-2,3]], k = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[2,2,-1]], k = 3",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

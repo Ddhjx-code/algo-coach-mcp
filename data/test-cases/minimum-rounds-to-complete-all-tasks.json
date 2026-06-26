@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2244.完成所有任务需要的最少轮数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "tasks = [2,2,3,3,2,4,4,4,4,4]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "tasks = [2,3,3]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

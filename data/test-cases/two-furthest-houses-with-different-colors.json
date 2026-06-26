@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2078.两栋颜色不同且距离最远的房子",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "colors = [ 1 ,1,1, 6 ,1,1,1]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "colors = [ 1 ,8,3,8, 3 ]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "colors = [ 0 , 1 ]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

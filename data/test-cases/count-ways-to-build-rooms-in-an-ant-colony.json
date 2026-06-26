@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1916.统计为蚁群构筑房间的不同顺序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "prevRoom = [-1,0,1]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "prevRoom = [-1,0,0,1,2]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0883.三维形体投影面积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[[1,2],[3,4]]",
+      "expected": "17",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[2]]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "[[1,0],[0,2]]",
+      "expected": "8",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

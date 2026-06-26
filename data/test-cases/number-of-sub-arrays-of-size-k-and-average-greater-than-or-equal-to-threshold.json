@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1343.大小为 K 且平均值大于等于阈值的子数组数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [2,2,2,2,5,5,5,8], k = 3, threshold = 4",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [11,13,17,23,29,31,7,5,2,3], k = 3, threshold = 5",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

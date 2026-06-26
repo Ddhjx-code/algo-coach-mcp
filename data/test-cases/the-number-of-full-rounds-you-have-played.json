@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1904.你完成的完整对局数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "startTime = \"12:01\", finishTime = \"12:44\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "startTime = \"20:00\", finishTime = \"06:00\"",
+      "expected": "40",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "startTime = \"00:00\", finishTime = \"23:59\"",
+      "expected": "95",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

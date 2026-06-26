@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3331.修改后子树的大小",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "parent = [-1,0,0,1,1,1], s = \"abaabc\"",
+      "expected": "[6,3,1,1,1,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "parent = [-1,0,4,0,1], s = \"abbba\"",
+      "expected": "[5,2,1,1,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3377.使两个整数相等的数位操作",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 10, m = 12",
+      "expected": "85",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, m = 8",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 6, m = 2",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

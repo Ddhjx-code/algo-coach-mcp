@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3007.价值和小于等于 K 的最大数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 9, x = 1",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 7, x = 2",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1604.警告一小时内使用相同员工卡大于等于三次的人",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "keyName = [\"daniel\",\"daniel\",\"daniel\",\"luis\",\"luis\",\"luis\",\"luis\"], keyTime = [\"10:00\",\"10:40\",\"11:00\",\"09:00\",\"11:00\",\"13:00\",\"15:00\"]",
+      "expected": "[\"daniel\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "keyName = [\"alice\",\"alice\",\"alice\",\"bob\",\"bob\",\"bob\",\"bob\"], keyTime = [\"12:01\",\"12:00\",\"18:00\",\"21:00\",\"21:20\",\"21:30\",\"23:00\"]",
+      "expected": "[\"bob\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

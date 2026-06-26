@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1576.替换所有的问号",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"?zs\"",
+      "expected": "\"azs\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ubv?w\"",
+      "expected": "\"ubvaw\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

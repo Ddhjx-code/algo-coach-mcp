@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3621.位计数深度为 K 的整数数目 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, k = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 7, k = 2",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

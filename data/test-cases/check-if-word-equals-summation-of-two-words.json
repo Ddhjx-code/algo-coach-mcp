@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1880.检查某单词是否等于两单词之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "firstWord = \"acb\", secondWord = \"cba\", targetWord = \"cdb\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "firstWord = \"aaa\", secondWord = \"a\", targetWord = \"aab\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "firstWord = \"aaa\", secondWord = \"a\", targetWord = \"aaaa\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

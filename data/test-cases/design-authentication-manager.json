@@ -1,0 +1,12 @@
+{
+  "problemSlug": "1797.设计一个验证系统",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"AuthenticationManager\", \" renew \", \"generate\", \" countUnexpiredTokens \", \"generate\", \" renew \", \" renew \", \" countUnexpiredTokens \"] [[5], [\"aaa\", 1], [\"aaa\", 2], [6], [\"bbb\", 7], [\"aaa\", 8], [\"bbb\", 10], [15]]",
+      "expected": "[null, null, null, 1, null, null, null, 0]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

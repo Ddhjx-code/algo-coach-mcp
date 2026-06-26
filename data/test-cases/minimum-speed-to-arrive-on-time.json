@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1870.准时到达的列车最小时速",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "dist = [1,3,2], hour = 6",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "dist = [1,3,2], hour = 2.7",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "dist = [1,3,2], hour = 1.9",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

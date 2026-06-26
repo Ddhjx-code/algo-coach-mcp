@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3370.仅含置位位的最小整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10",
+      "expected": "15",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

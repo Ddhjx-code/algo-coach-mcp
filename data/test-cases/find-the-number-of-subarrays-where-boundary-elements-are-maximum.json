@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3113.边界元素是最大值的子数组数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,4,3,3,2]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,3,3]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

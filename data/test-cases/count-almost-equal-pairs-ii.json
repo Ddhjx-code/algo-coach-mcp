@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3267.统计近似相等数对 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1023,2310,2130,213]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,10,100]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

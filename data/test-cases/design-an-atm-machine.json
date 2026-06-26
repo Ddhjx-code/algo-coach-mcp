@@ -1,0 +1,12 @@
+{
+  "problemSlug": "2241.设计一个 ATM 机器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"ATM\", \"deposit\", \"withdraw\", \"deposit\", \"withdraw\", \"withdraw\"] [[], [[0,0,1,2,1]], [600], [[0,1,0,1,1]], [600], [550]]",
+      "expected": "[null, null, [0,0,1,0,1], null, [-1], [0,1,0,0,1]]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

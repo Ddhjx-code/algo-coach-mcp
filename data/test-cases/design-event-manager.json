@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3885.设计事件管理器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"EventManager\", \"pollHighest\", \"updatePriority\", \"pollHighest\", \"pollHighest\"] [[[[5, 7], [2, 7], [9, 4]]], [], [9, 7], [], []]",
+      "expected": "[null, 2, null, 5, 9]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[\"EventManager\", \"pollHighest\", \"pollHighest\", \"pollHighest\"] [[[[4, 1], [7, 2]]], [], [], []]",
+      "expected": "[null, 7, 4, -1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

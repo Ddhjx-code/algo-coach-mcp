@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3890.可由多种立方和构造的整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4104",
+      "expected": "[1729,4104]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 578",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

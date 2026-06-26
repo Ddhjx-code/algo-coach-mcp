@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1856.子数组最小乘积的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1, 2,3,2 ]",
+      "expected": "14",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2, 3,3 ,1,2]",
+      "expected": "18",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,1, 5,6,4 ,2]",
+      "expected": "60",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

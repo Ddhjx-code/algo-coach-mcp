@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1617.统计子树中城市之间最大距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, edges = [[1,2],[2,3],[2,4]]",
+      "expected": "[3,4,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, edges = [[1,2]]",
+      "expected": "[1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[1,2],[2,3]]",
+      "expected": "[2,1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3434.子数组操作后的最大频率",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,5,6], k = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,2,3,4,5,5,4,3,2,2], k = 10",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

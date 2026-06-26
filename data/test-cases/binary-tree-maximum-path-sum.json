@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0124.二叉树中的最大路径和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,2,3]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [-10,9,20,null,null,15,7]",
+      "expected": "42",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

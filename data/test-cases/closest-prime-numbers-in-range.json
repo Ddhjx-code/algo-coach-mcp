@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2523.范围内最接近的两个质数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "left = 10, right = 19",
+      "expected": "[11,13]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "left = 4, right = 6",
+      "expected": "[-1,-1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

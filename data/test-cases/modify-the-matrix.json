@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3033.修改矩阵",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matrix = [[1,2,-1],[4,-1,6],[7,8,9]]",
+      "expected": "[[1,2,9],[4,8,6],[7,8,9]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[3,-1],[5,2]]",
+      "expected": "[[3,2],[5,2]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1653.使字符串平衡的最少删除次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aababbab\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bbaaaaabb\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

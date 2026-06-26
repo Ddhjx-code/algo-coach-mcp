@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2096.从二叉树一个节点到另一个节点每一步的方向",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [5,1,2,3,null,6,4], startValue = 3, destValue = 6",
+      "expected": "\"UURL\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [2,1], startValue = 2, destValue = 1",
+      "expected": "\"L\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

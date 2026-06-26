@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3962.至多 K 次交换后最大子数组和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,-1,0,2], k = 1",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,3,2,4], k = 2",
+      "expected": "13",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-1,-2], k = 0",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

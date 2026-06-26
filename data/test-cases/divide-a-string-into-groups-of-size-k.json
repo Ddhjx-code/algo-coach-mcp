@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2138.将字符串拆分为若干长度为 k 的组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcdefghi\", k = 3, fill = 'x'",
+      "expected": "[\"abc\",\"def\",\"ghi\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcdefghij\", k = 3, fill = 'x'",
+      "expected": "[\"abc\",\"def\",\"ghi\",\"jxx\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

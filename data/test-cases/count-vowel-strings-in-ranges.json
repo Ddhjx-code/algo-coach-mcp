@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2559.统计范围内的元音字符串数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"aba\",\"bcb\",\"ece\",\"aa\",\"e\"], queries = [[0,2],[1,4],[1,1]]",
+      "expected": "[2,3,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"a\",\"e\",\"i\"], queries = [[0,2],[0,1],[2,2]]",
+      "expected": "[3,2,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

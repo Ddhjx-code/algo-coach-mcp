@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2367.等差三元组的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,1,4,6,7,10], diff = 3",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,5,6,7,8,9], diff = 2",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

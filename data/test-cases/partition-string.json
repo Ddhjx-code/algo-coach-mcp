@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3597.分割字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abbccccd\"",
+      "expected": "[\"a\",\"b\",\"bc\",\"c\",\"cc\",\"d\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aaaa\"",
+      "expected": "[\"a\",\"aa\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

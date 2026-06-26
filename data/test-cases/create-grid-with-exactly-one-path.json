@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3963.构造恰好一条路径的网格",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "m = 2, n = 3",
+      "expected": "[\"..#\",\"#..\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "m = 3, n = 3",
+      "expected": "[\"..#\",\"#..\",\"##.\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "m = 1, n = 4",
+      "expected": "[\"....\"]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3811.交替按位异或分割的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,1,4], target1 = 1, target2 = 5",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,0,0], target1 = 1, target2 = 0",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [7], target1 = 1, target2 = 7",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

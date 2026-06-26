@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1529.最少的后缀翻转次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "target = \"10111\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "target = \"101\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "target = \"00000\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

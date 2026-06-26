@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0241.为运算表达式设计优先级",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "expression = \"2-1-1\"",
+      "expected": "[0,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"2*3-4*5\"",
+      "expected": "[-34,-14,-10,-10,10]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

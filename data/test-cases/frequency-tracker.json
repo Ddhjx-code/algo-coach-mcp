@@ -1,0 +1,42 @@
+{
+  "problemSlug": "2671.频率跟踪器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"FrequencyTracker\",\"add\",\"add\",\"hasFrequency\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[3],[3],[2]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "[\"FrequencyTracker\",\"add\",\"deleteOne\",\"hasFrequency\"]",
+      "expected": null,
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[1],[1],[1]]",
+      "expected": null,
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "[\"FrequencyTracker\",\"hasFrequency\",\"add\",\"hasFrequency\"]",
+      "expected": null,
+      "description": "example 5",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[2],[3],[1]]",
+      "expected": null,
+      "description": "example 6",
+      "category": "basic"
+    }
+  ]
+}

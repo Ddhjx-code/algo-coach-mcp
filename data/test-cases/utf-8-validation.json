@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0393.UTF-8 编码验证",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "data = [197,130,1]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "data = [235,140,4]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

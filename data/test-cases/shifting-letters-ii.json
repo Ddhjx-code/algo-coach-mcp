@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2381.字母移位 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\", shifts = [[0,1,0],[1,2,1],[0,2,1]]",
+      "expected": "\"ace\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"dztz\", shifts = [[0,0,0],[1,1,1]]",
+      "expected": "\"catz\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

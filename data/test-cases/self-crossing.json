@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0335.路径交叉",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "distance = [2,1,1,2]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "distance = [1,2,3,4]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "distance = [1,1,1,1]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

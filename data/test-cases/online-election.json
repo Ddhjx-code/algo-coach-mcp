@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0911.在线选举",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"TopVotedCandidate\",\"q\",\"q\",\"q\",\"q\",\"q\",\"q\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[[0,1,1,0,0,1,0],[0,5,10,15,20,25,30]],[3],[12],[25],[15],[24],[8]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

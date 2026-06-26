@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3320.统计能获胜的出招序列数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"FFF\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"FWEFW\"",
+      "expected": "18",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

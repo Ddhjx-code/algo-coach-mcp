@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2043.简易银行系统",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Bank\",\"withdraw\",\"transfer\",\"deposit\",\"transfer\",\"withdraw\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[[10,100,20,50,30]],[3,10],[5,1,20],[5,20],[3,4,15],[10,50]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

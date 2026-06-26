@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0077.组合",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, k = 2",
+      "expected": "[ [2,4], [3,4], [2,3], [1,2], [1,3], [1,4], ]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, k = 1",
+      "expected": "[[1]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

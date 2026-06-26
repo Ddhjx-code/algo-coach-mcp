@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3623.统计梯形的数目 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[1,0],[2,0],[3,0],[2,2],[3,2]]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[0,0],[1,0],[0,1],[2,1]]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

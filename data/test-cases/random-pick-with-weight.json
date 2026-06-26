@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0528.按权重随机选择",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Solution\",\"pickIndex\"] [[[1]],[]]",
+      "expected": "[null,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[\"Solution\",\"pickIndex\",\"pickIndex\",\"pickIndex\",\"pickIndex\",\"pickIndex\"] [[[1,3]],[],[],[],[],[]]",
+      "expected": "[null,1,1,1,1,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0687.最长同值路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [5,4,5,1,1,5]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,4,5,4,4,5]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

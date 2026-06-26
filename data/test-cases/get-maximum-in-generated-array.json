@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1646.获取生成数组中的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 7",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

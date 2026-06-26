@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1409.查询带键的排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "queries = [3,1,2,1], m = 5",
+      "expected": "[2,1,2,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "queries = [4,1,2,2], m = 4",
+      "expected": "[3,1,2,0]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "queries = [7,5,5,8,3], m = 8",
+      "expected": "[6,5,0,7,5]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

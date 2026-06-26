@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3085.成为 K 特殊字符串需要删除的最少字符数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"aabcaba\", k = 0",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"dabdcbdcdcd\", k = 2",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"aaabaaa\", k = 2",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

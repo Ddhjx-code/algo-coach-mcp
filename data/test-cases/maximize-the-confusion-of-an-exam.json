@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2024.考试的最大困扰度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "answerKey = \"TTFF\", k = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "answerKey = \"TFFT\", k = 1",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "answerKey = \"TTFTTFTT\", k = 1",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

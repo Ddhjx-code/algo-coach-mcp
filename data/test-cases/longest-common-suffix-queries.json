@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3093.最长公共后缀查询",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "wordsContainer = [\"abcd\",\"bcd\",\"xbcd\"], wordsQuery = [\"cd\",\"bcd\",\"xyz\"]",
+      "expected": "[1,1,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "wordsContainer = [\"abcdefgh\",\"poiuygh\",\"ghghgh\"], wordsQuery = [\"gh\",\"acbfgh\",\"acbfegh\"]",
+      "expected": "[2,0,2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

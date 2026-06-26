@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2149.按符号重排数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,-2,-5,2,-4]",
+      "expected": "[3,-2,1,-5,2,-4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-1,1]",
+      "expected": "[1,-1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

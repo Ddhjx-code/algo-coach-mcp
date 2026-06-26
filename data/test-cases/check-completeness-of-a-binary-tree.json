@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0958.二叉树的完全性检验",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,2,3,4,5,6]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,2,3,4,5,null,7]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

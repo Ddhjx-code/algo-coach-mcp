@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1172.餐盘栈",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"DinnerPlates\",\"push\",\"push\",\"push\",\"push\",\"push\",\"popAtStack\",\"push\",\"push\",\"popAtStack\",\"popAtStack\",\"pop\",\"pop\",\"pop\",\"pop\",\"pop\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[2],[1],[2],[3],[4],[5],[0],[20],[21],[0],[2],[],[],[],[],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

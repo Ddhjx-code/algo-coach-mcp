@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3560.木材运输的最小成本",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 6, m = 5, k = 5",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, m = 4, k = 6",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

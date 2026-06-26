@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3207.与敌人战斗后的最大分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "enemyEnergies = [3,2,2], currentEnergy = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "enemyEnergies = [2], currentEnergy = 10",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

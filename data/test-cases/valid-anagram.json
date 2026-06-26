@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0242.有效的字母异位词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"anagram\", t = \"nagaram\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"rat\", t = \"car\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

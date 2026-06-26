@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3178.找出 K 秒后拿着球的孩子",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 5",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, k = 6",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, k = 2",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3680.生成赛程",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3",
+      "expected": "[]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5",
+      "expected": "[[0,1],[2,3],[0,4],[1,2],[3,4],[0,2],[1,3],[2,4],[0,3],[1,4],[2,0],[3,1],[4,0],[2,1],[4,3],[1,0],[3,2],[4,1],[3,0],[4,2]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

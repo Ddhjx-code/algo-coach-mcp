@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1156.单字符重复子串的最大长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "text = &quot;ababa&quot;",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot;aaabaaa&quot;",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot;aaabbaaa&quot;",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot;aaaaa&quot;",
+      "expected": "5",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot;abcdef&quot;",
+      "expected": "1",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

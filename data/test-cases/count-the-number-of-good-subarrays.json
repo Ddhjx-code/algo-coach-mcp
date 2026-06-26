@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2537.统计好子数组的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,1,1,1], k = 10",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,1,4,3,2,2,4], k = 2",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

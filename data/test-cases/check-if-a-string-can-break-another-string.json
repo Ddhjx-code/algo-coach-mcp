@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1433.检查一个字符串是否可以打破另一个字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = &quot;abc&quot;, s2 = &quot;xya&quot;",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = &quot;abe&quot;, s2 = &quot;acd&quot;",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = &quot;leetcodee&quot;, s2 = &quot;interview&quot;",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

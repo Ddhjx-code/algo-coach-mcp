@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2876.有向图访问计数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "edges = [1,2,0,0]",
+      "expected": "[3,3,3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "edges = [1,2,3,4,0]",
+      "expected": "[5,5,5,5,5]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3014.输入单词需要的最少按键次数 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"abcde\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"xycdefghij\"",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

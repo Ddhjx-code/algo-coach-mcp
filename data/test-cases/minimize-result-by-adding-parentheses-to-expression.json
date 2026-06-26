@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2232.向表达式添加括号后的最小结果",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "expression = \"247+38\"",
+      "expected": "\"2(47+38)\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"12+34\"",
+      "expected": "\"1(2+3)4\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"999+999\"",
+      "expected": "\"(999+999)\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

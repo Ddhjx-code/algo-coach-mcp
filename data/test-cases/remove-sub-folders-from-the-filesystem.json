@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1233.删除子文件夹",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "folder = [\"/a\",\"/a/b\",\"/c/d\",\"/c/d/e\",\"/c/f\"]",
+      "expected": "[\"/a\",\"/c/d\",\"/c/f\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "folder = [\"/a\",\"/a/b/c\",\"/a/b/d\"]",
+      "expected": "[\"/a\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "folder = [\"/a/b/c\",\"/a/b/ca\",\"/a/b/d\"]",
+      "expected": "[\"/a/b/c\",\"/a/b/ca\",\"/a/b/d\"]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

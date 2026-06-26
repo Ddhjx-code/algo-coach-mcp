@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0556.下一个更大元素 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 12",
+      "expected": "21",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 21",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

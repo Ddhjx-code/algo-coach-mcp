@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1400.构造 K 个回文字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"annabelle\", k = 2",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"leetcode\", k = 3",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"true\", k = 4",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

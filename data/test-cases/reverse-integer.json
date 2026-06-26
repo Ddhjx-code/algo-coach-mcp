@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0007.整数反转",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "x = 123",
+      "expected": "321",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "x = -123",
+      "expected": "-321",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "x = 120",
+      "expected": "21",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "x = 0",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1184.公交站间的距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "distance = [1,2,3,4], start = 0, destination = 1",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "distance = [1,2,3,4], start = 0, destination = 2",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "distance = [1,2,3,4], start = 0, destination = 3",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

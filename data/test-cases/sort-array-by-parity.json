@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0905.按奇偶排序数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,2,4]",
+      "expected": "[2,4,3,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0]",
+      "expected": "[0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

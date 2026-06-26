@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3750.最少翻转次数得到反转二进制字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 7",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

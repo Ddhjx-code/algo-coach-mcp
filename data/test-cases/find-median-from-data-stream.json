@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0295.数据流的中位数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"MedianFinder\",\"addNum\",\"addNum\",\"findMedian\",\"addNum\",\"findMedian\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[1],[2],[],[3],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

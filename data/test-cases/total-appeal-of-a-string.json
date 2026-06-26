@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2262.字符串的总引力",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abbca\"",
+      "expected": "28",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"code\"",
+      "expected": "20",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

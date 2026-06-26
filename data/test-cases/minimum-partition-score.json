@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3826.最小分割分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [5,1,2,1], k = 2",
+      "expected": "25",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4], k = 1",
+      "expected": "55",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,1], k = 3",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

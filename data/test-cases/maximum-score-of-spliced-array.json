@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2321.拼接数组的最大分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [60,60,60], nums2 = [10,90,10]",
+      "expected": "210",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [20,40,20,70,30], nums2 = [50,20,50,40,20]",
+      "expected": "220",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [7,11,13], nums2 = [1,1,1]",
+      "expected": "31",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3232.判断是否可以赢得数字游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,10]",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4,5,14]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,5,5,25]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

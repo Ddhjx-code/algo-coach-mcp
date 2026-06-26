@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1032.字符流",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"StreamChecker\",\"query\",\"query\",\"query\",\"query\",\"query\",\"query\",\"query\",\"query\",\"query\",\"query\",\"query\",\"query\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[[\"cd\",\"f\",\"kl\"]],[\"a\"],[\"b\"],[\"c\"],[\"d\"],[\"e\"],[\"f\"],[\"g\"],[\"h\"],[\"i\"],[\"j\"],[\"k\"],[\"l\"]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

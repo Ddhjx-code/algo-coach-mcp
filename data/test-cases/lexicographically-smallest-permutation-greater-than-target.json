@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3720.大于目标字符串的最小字典序排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\", target = \"bba\"",
+      "expected": "\"bca\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"leet\", target = \"code\"",
+      "expected": "\"eelt\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"baba\", target = \"bbaa\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

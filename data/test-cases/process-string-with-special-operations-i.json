@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3612.用特殊操作处理字符串 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"a#b%*\"",
+      "expected": "\"ba\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"z*#\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

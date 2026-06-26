@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1186.删除一次得到子数组最大和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [1,-2,0,3]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,-2,-2,3]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [-1,-1,-1,-1]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

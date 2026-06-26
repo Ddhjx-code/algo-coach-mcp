@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3665.统计镜子反射路径数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[0,1,0],[0,0,1],[1,0,0]]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[0,0],[0,0]]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[0,1,1],[1,1,0]]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0816.模糊坐标",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "&quot;(123)&quot;",
+      "expected": "[&quot;(1, 23)&quot;, &quot;(12, 3)&quot;, &quot;(1.2, 3)&quot;, &quot;(1, 2.3)&quot;]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "&quot;(00011)&quot;",
+      "expected": "[&quot;(0.001, 1)&quot;, &quot;(0, 0.011)&quot;]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "&quot;(0123)&quot;",
+      "expected": "[&quot;(0, 123)&quot;, &quot;(0, 12.3)&quot;, &quot;(0, 1.23)&quot;, &quot;(0.1, 23)&quot;, &quot;(0.1, 2.3)&quot;, &quot;(0.12, 3)&quot;]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "&quot;(100)&quot;",
+      "expected": "[(10, 0)]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

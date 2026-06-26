@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0062.不同路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "m = 3, n = 7",
+      "expected": "28",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "m = 3, n = 2",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "m = 7, n = 3",
+      "expected": "28",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "m = 3, n = 3",
+      "expected": "6",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

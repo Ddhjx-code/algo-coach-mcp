@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2148.元素计数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [11,7,2,15]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-3,3,3,90]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

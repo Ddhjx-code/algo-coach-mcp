@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2209.用地毯覆盖后的最少白色砖块",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "floor = \"10110101\", numCarpets = 2, carpetLen = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "floor = \"11111\", numCarpets = 2, carpetLen = 3",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

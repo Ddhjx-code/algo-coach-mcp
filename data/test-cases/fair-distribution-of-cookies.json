@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2305.公平分发饼干",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "cookies = [8,15,10,20,8], k = 2",
+      "expected": "31",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "cookies = [6,1,3,2,2,4,1,2], k = 3",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

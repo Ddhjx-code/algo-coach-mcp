@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2062.统计字符串中的元音子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"aeiouu\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"unicornarihan\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"cuaieuouac\"",
+      "expected": "7",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"bbaeixoubb\"",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

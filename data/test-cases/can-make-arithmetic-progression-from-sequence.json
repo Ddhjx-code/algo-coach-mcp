@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1502.判断能否形成等差数列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [3,5,1]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,2,4]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

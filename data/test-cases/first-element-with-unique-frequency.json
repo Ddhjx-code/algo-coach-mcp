@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3843.频率唯一的第一个元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [20,10,30,30]",
+      "expected": "30",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [20,20,10,30,30,30]",
+      "expected": "20",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,10,20,20]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

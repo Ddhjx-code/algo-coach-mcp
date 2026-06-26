@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0682.棒球比赛",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "ops = [\"5\",\"2\",\"C\",\"D\",\"+\"]",
+      "expected": "30",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "ops = [\"5\",\"-2\",\"4\",\"C\",\"D\",\"9\",\"+\",\"+\"]",
+      "expected": "27",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "ops = [\"1\"]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0831.隐藏个人信息",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"LeetCode@LeetCode.com\"",
+      "expected": "\"l*****e@leetcode.com\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"AB@qq.com\"",
+      "expected": "\"a*****b@qq.com\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1(234)567-890\"",
+      "expected": "\"***-***-7890\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3397.执行操作后不同元素的最大数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,2,3,3,4], k = 2",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,4,4,4], k = 1",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

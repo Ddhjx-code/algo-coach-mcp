@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2810.故障键盘",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"string\"",
+      "expected": "\"rtsng\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"poiinter\"",
+      "expected": "\"ponter\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0813.最大平均值和的分组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [9,1,2,3,9], k = 3",
+      "expected": "20.00000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4,5,6,7], k = 4",
+      "expected": "20.50000",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

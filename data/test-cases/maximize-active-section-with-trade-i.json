@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3499.操作后最大活跃区段数 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"01\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0100\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1000100\"",
+      "expected": "7",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"01010\"",
+      "expected": "4",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

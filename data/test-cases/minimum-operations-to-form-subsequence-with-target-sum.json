@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2835.使子序列的和等于目标的最少操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,8], target = 7",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,32,1,2], target = 12",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,32,1], target = 35",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

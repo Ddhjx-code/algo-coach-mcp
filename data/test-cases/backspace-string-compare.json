@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0844.比较含退格的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"ab#c\", t = \"ad#c\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ab##\", t = \"c#d#\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a#c\", t = \"b\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

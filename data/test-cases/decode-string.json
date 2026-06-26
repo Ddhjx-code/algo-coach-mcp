@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0394.字符串解码",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"3[a]2[bc]\"",
+      "expected": "\"aaabcbc\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"3[a2[c]]\"",
+      "expected": "\"accaccacc\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"2[abc]3[cd]ef\"",
+      "expected": "\"abcabccdcdcdef\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc3[cd]xyz\"",
+      "expected": "\"abccdcdcdxyz\"",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0712.两个字符串的最小ASCII删除和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"sea\", s2 = \"eat\"",
+      "expected": "231",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"delete\", s2 = \"leet\"",
+      "expected": "403",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3351.好子序列的元素之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,1]",
+      "expected": "14",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,4,5]",
+      "expected": "40",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

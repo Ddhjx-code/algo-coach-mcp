@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0824.山羊拉丁文",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sentence = \"I speak Goat Latin\"",
+      "expected": "\"Imaa peaksmaaa oatGmaaaa atinLmaaaaa\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sentence = \"The quick brown fox jumped over the lazy dog\"",
+      "expected": "\"heTmaa uickqmaaa rownbmaaaa oxfmaaaaa umpedjmaaaaaa overmaaaaaaa hetmaaaaaaaa azylmaaaaaaaaa ogdmaaaaaaaaaa\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

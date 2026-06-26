@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2508.添加边使所有节点度数都为偶数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5, edges = [[1,2],[2,3],[3,4],[4,2],[1,4],[2,5]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, edges = [[1,2],[3,4]]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, edges = [[1,2],[1,3],[1,4]]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

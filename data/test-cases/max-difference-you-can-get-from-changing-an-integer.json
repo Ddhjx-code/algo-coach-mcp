@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1432.改变一个整数能得到的最大差值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 555",
+      "expected": "888",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 9",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 123456",
+      "expected": "820000",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "num = 10000",
+      "expected": "80000",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "num = 9288",
+      "expected": "8700",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

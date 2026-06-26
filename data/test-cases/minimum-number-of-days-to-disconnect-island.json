@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1568.使陆地分离的最少天数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[0,1,1,0],[0,1,1,0],[0,0,0,0]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,1]]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

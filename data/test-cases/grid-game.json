@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2017.网格游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[2,5,4],[1,5,1]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[3,3,1],[8,5,2]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,3,1,15],[1,3,3,1]]",
+      "expected": "7",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

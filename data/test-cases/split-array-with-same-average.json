@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0805.数组的均值分割",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,5,6,7,8]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,1]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

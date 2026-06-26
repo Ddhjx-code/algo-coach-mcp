@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0791.自定义字符串排序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "order = \"cba\", s = \"abcd\"",
+      "expected": "\"cbad\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "order = \"bcafg\", s = \"abcd\"",
+      "expected": "\"bcad\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

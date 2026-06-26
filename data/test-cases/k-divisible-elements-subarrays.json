@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2261.含最多 K 个可整除元素的子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [ 2 ,3,3, 2 , 2 ], k = 2, p = 2",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4], k = 4, p = 1",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3959.判定好整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1000",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 19",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

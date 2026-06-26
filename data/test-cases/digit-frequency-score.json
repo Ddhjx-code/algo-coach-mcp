@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3945.计算数字频率得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 122",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 101",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

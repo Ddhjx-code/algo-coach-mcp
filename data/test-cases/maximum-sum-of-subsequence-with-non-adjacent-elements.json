@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3165.不包含相邻元素的子序列的最大和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,5,9], queries = [[1,-2],[0,-3]]",
+      "expected": "21",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,-1], queries = [[0,-5]]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

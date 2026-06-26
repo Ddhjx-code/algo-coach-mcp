@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0709.转换成小写字母",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"Hello\"",
+      "expected": "\"hello\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"here\"",
+      "expected": "\"here\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"LOVELY\"",
+      "expected": "\"lovely\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

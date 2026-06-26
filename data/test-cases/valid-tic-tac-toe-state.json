@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0794.有效的井字游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "board = [\"O \",\" \",\" \"]",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "board = [\"XOX\",\" X \",\" \"]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "board = [\"XOX\",\"O O\",\"XOX\"]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

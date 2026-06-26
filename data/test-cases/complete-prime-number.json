@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3765.完全质数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 23",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 39",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 7",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

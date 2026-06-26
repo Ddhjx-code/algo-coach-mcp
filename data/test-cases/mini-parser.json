@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0385.迷你语法分析器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"324\",",
+      "expected": "324",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"[123,[456,[789]]]\",",
+      "expected": "[123,[456,[789]]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

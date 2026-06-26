@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1209.删除字符串中的所有相邻重复项 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;abcd&quot;, k = 2",
+      "expected": "&quot;abcd&quot;",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;deeedbbcccbdaa&quot;, k = 3",
+      "expected": "&quot;aa&quot;",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;pbbcggttciiippooaais&quot;, k = 2",
+      "expected": "&quot;ps&quot;",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1090.受标签影响的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "values = [5,4,3,2,1], labels = [1,1,2,2,3], numWanted = 3, useLimit = 1",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "values = [5,4,3,2,1], labels = [1,3,3,3,2], numWanted = 3, useLimit = 2",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "values = [9,8,8,7,6], labels = [0,0,0,1,1], numWanted = 3, useLimit = 1",
+      "expected": "16",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

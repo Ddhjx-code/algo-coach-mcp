@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2976.转换字符串的最小成本 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "source = \"abcd\", target = \"acbe\", original = [\"a\",\"b\",\"c\",\"c\",\"e\",\"d\"], changed = [\"b\",\"c\",\"b\",\"e\",\"b\",\"e\"], cost = [2,5,5,1,2,20]",
+      "expected": "28",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "source = \"aaaa\", target = \"bbbb\", original = [\"a\",\"c\"], changed = [\"c\",\"b\"], cost = [1,2]",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "source = \"abcd\", target = \"abce\", original = [\"a\"], changed = [\"e\"], cost = [10000]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

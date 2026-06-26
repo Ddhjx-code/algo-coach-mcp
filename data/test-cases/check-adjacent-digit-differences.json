@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3931.检查相邻数字差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"132\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"129\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0461.汉明距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "x = 1, y = 4",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "x = 3, y = 1",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

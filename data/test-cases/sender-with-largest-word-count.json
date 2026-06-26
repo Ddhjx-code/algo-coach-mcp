@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2284.最多单词数的发件人",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "messages = [\"Hello userTwooo\",\"Hi userThree\",\"Wonderful day Alice\",\"Nice day userThree\"], senders = [\"Alice\",\"userTwo\",\"userThree\",\"Alice\"]",
+      "expected": "\"Alice\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "messages = [\"How is leetcode for everyone\",\"Leetcode is useful for practice\"], senders = [\"Bob\",\"Charlie\"]",
+      "expected": "\"Charlie\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

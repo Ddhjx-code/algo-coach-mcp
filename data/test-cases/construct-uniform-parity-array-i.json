@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3875.构造奇偶一致的数组 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [2,3]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [4,6]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

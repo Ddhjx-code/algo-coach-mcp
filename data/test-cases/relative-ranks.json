@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0506.相对名次",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "score = [5,4,3,2,1]",
+      "expected": "[\"Gold Medal\",\"Silver Medal\",\"Bronze Medal\",\"4\",\"5\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "score = [10,3,8,9,4]",
+      "expected": "[\"Gold Medal\",\"5\",\"Bronze Medal\",\"Silver Medal\",\"4\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

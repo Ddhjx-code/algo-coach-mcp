@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1096.花括号展开 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "expression = \"{a,b}{c,{d,e}}\"",
+      "expected": "[\"ac\",\"ad\",\"ae\",\"bc\",\"bd\",\"be\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"{{a,z},a{b,c},{ab,z}}\"",
+      "expected": "[\"a\",\"ab\",\"ac\",\"z\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

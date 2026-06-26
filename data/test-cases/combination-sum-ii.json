@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0040.组合总和 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "candidates = [10,1,2,7,6,1,5] , target = 8 ,",
+      "expected": "[ [1,1,6], [1,2,5], [1,7], [2,6] ]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "candidates = [2,5,2,1,2], target = 5,",
+      "expected": "[ [1,2,2], [5] ]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

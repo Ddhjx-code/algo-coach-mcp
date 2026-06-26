@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3663.出现频率最低的数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1553322",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 723344511",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1954.收集足够苹果的最小花园周长",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "neededApples = 1",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "neededApples = 13",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "neededApples = 1000000000",
+      "expected": "5040",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

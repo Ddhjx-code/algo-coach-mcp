@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3151.特殊数组 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,1,4]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,3,1,6]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

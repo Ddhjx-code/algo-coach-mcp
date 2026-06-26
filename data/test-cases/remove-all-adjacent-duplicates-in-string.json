@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1047.删除字符串中的所有相邻重复项",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "\"abbaca\"",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "\"azxxzy\"",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2124.检查是否所有 A 都在 B 之前",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aaabbb\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abab\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bbb\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

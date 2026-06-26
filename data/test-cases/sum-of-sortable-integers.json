@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3886.可排序整数求和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,2]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [7,6,5]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,8]",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

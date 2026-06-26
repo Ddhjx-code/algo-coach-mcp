@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2068.检查两个字符串是否几乎相等",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"aaaa\", word2 = \"bccb\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abcdeef\", word2 = \"abaaacc\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"cccddabba\", word2 = \"babababab\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

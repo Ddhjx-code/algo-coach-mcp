@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1705.吃苹果的最大数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "apples = [1,2,3,5,2], days = [3,2,1,4,2]",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "apples = [3,0,0,0,0,2], days = [3,0,0,0,0,2]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

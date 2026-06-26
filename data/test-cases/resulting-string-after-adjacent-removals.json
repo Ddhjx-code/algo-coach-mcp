@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3561.移除相邻字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\"",
+      "expected": "\"c\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"adcb\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"zadb\"",
+      "expected": "\"db\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

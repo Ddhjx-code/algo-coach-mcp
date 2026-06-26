@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3337.字符串转换后的长度 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcyy\", t = 2, nums = [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2]",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"azbk\", t = 1, nums = [2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2]",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

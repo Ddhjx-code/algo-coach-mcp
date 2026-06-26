@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1690.石子游戏 VII",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "stones = [5,3,1,4,2]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [7,90,5,1,100,10,10,2]",
+      "expected": "122",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

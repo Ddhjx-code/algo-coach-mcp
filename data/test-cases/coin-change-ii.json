@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0518.零钱兑换 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "amount = 5, coins = [1, 2, 5]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "amount = 3, coins = [2]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "amount = 10, coins = [10]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

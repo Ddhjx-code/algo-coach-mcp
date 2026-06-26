@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3222.求出硬币游戏的赢家",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "x = 2, y = 7",
+      "expected": "\"Alice\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "x = 4, y = 11",
+      "expected": "\"Bob\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

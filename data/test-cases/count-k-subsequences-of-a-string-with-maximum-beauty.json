@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2842.统计一个字符串的 k 子序列美丽值最大的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"bcca\", k = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abbcd\", k = 4",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

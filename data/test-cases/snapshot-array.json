@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1146.快照数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"SnapshotArray\",\"set\",\"snap\",\"set\",\"get\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[3],[0,5],[],[0,6],[0,0]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

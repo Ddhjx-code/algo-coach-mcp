@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2601.质数减法运算",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,9,6,10]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [6,8,11,12]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,8,3]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

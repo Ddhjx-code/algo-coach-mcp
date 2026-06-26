@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0216.组合总和 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 3, n = 7",
+      "expected": "[[1,2,4]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 3, n = 9",
+      "expected": "[[1,2,6], [1,3,5], [2,3,4]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "k = 4, n = 1",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

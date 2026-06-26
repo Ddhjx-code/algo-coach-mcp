@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0943.最短超级串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"alex\",\"loves\",\"leetcode\"]",
+      "expected": "\"alexlovesleetcode\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"catg\",\"ctaagt\",\"gcta\",\"ttca\",\"atgcatc\"]",
+      "expected": "\"gctaagttcatgcatc\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

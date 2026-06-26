@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1488.避免洪水泛滥",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "rains = [1,2,3,4]",
+      "expected": "[-1,-1,-1,-1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "rains = [1,2,0,0,2,1]",
+      "expected": "[-1,-1,2,1,-1,-1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "rains = [1,2,0,1,2]",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

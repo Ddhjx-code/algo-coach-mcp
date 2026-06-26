@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3193.统计逆序对的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, requirements = [[2,2],[0,0]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, requirements = [[2,2],[1,1],[0,0]]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, requirements = [[0,0],[1,0]]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

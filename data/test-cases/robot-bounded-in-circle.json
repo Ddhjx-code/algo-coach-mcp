@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1041.困于环中的机器人",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "instructions = \"GGLLGG\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "instructions = \"GG\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "instructions = \"GL\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

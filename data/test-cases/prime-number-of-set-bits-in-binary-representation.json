@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0762.二进制表示中质数个计算置位",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "left = 6, right = 10",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "left = 10, right = 15",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

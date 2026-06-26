@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2231.按奇偶性交换后的最大数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 1234",
+      "expected": "3412",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 65875",
+      "expected": "87655",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

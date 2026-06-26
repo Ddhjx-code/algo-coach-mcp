@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0920.播放列表的数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, goal = 3, k = 1",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, goal = 3, k = 0",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, goal = 3, k = 1",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

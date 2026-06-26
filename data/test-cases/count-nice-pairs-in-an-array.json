@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1814.统计一个数组中好对子的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [42,11,1,97]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [13,10,35,24,76]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

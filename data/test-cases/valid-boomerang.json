@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1037.有效的回旋镖",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[1,1],[2,3],[3,2]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,1],[2,2],[3,3]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

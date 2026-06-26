@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0560.和为 K 的子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,1], k = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3], k = 3",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

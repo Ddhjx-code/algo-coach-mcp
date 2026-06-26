@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3334.数组的最大因子得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,4,8,16]",
+      "expected": "64",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4,5]",
+      "expected": "60",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3]",
+      "expected": "9",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

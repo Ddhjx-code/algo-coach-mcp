@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0191.位1的个数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 11",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 128",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2147483645",
+      "expected": "30",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

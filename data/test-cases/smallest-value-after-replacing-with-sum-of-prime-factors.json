@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2507.使用质因数之和替换后可以取到的最小值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 15",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

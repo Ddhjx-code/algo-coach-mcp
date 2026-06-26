@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2269.找到一个数字的 K 美丽值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 240, k = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 430043, k = 2",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

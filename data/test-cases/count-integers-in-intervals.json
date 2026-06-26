@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2276.统计区间中的整数数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"CountIntervals\",\"add\",\"add\",\"count\",\"add\",\"count\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[2,3],[7,10],[],[5,8],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2317.操作后的最大异或和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,2,4,6]",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,9,2]",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

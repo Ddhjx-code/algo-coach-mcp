@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3234.统计 1 显著的字符串的数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"00011\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"101101\"",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

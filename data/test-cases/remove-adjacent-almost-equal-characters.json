@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2957.消除相邻近似相等字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"aaaaa\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"abddez\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"zyxyxyz\"",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

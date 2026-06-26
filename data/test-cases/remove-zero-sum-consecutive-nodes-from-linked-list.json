@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1171.从链表中删去总和值为零的连续节点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [1,2,-3,3,1]",
+      "expected": "[3,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [1,2,3,-3,4]",
+      "expected": "[1,2,4]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "head = [1,2,3,-3,-2]",
+      "expected": "[1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

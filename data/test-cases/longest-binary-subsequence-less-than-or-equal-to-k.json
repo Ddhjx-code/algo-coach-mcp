@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2311.小于等于 K 的最长二进制子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1001010\", k = 5",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"00101001\", k = 1",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

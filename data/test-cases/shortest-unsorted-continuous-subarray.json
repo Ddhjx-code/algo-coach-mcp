@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0581.最短无序连续子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,6,4,8,10,9,15]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

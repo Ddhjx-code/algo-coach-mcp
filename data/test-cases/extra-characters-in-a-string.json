@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2707.字符串中的额外字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leetscode\", dictionary = [\"leet\",\"code\",\"leetcode\"]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"sayhelloworld\", dictionary = [\"hello\",\"world\"]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3598.相邻字符串之间的最长公共前缀",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"jump\",\"run\",\"run\",\"jump\",\"run\"]",
+      "expected": "[3,0,0,3,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"dog\",\"racer\",\"car\"]",
+      "expected": "[0,0,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

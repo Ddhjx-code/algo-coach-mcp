@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3608.包含 K 个连通分量需要的最小时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, edges = [[0,1,3]], k = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[0,1,2],[1,2,4]], k = 3",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[0,2,5]], k = 2",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

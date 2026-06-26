@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1654.到家的最少跳跃次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "forbidden = [14,4,18,1,15], a = 3, b = 15, x = 9",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "forbidden = [8,3,16,6,12,20], a = 15, b = 13, x = 11",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "forbidden = [1,6,2,14,5,17,4], a = 16, b = 9, x = 7",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

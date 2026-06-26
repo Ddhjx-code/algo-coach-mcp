@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0789.逃脱阻碍者",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "ghosts = [[1,0],[0,3]], target = [0,1]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "ghosts = [[1,0]], target = [2,0]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "ghosts = [[2,0]], target = [1,0]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

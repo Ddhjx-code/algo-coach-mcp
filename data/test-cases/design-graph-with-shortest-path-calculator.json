@@ -1,0 +1,12 @@
+{
+  "problemSlug": "2642.设计可以求最短路径的图类",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Graph\", \"shortestPath\", \"shortestPath\", \"addEdge\", \"shortestPath\"] [[4, [[0, 2, 5], [0, 1, 2], [1, 2, 1], [3, 0, 3]]], [3, 2], [0, 3], [[1, 3, 4]], [0, 3]]",
+      "expected": "[null, 6, -1, null, 6]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

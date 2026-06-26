@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0598.区间加法 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "m = 3, n = 3，ops = [[2,2],[3,3]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "m = 3, n = 3, ops = [[2,2],[3,3],[3,3],[3,3],[2,2],[3,3],[3,3],[3,3],[2,2],[3,3],[3,3],[3,3]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "m = 3, n = 3, ops = []",
+      "expected": "9",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

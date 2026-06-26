@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3302.字典序最小的合法序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"vbcca\", word2 = \"abc\"",
+      "expected": "[0,1,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"bacdc\", word2 = \"abc\"",
+      "expected": "[1,2,4]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"aaaaaa\", word2 = \"aaabc\"",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abc\", word2 = \"ab\"",
+      "expected": "[0,1]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2116.判断一个括号字符串是否有效",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"))()))\", locked = \"010100\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"()()\", locked = \"0000\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \")\", locked = \"0\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"(((())(((())\", locked = \"111111010111\"",
+      "expected": "true",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

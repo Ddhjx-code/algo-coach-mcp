@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0151.反转字符串中的单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"the sky is blue\"",
+      "expected": "\"blue is sky the\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \" hello world \"",
+      "expected": "\"world hello\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a good example\"",
+      "expected": "\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

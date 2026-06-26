@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1540.K 次操作转变字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"input\", t = \"ouput\", k = 9",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc\", t = \"bcd\", k = 10",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aab\", t = \"bbb\", k = 27",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

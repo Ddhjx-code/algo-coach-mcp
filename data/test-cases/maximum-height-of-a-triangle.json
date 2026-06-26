@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3200.三角形的最大高度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "red = 2, blue = 4",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "red = 2, blue = 1",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "red = 1, blue = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "red = 10, blue = 1",
+      "expected": "2",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

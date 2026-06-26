@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3096.得到更多分数的最少关卡数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "possible = [1,0,1,0]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "possible = [1,1,1,1,1]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "possible = [0,0]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

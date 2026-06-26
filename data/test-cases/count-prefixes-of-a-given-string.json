@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2255.统计是给定字符串前缀的字符串数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"a\",\"b\",\"c\",\"ab\",\"bc\",\"abc\"], s = \"abc\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"a\",\"a\"], s = \"aa\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

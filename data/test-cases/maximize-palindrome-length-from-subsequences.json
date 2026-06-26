@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1771.由子序列构造的最长回文串的长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"cacb\", word2 = \"cbba\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"ab\", word2 = \"ab\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"aa\", word2 = \"bb\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

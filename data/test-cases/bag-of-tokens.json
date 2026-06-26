@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0948.令牌放置",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "tokens = [100], power = 50",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "tokens = [200,100], power = 150",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "tokens = [100,200,300,400], power = 200",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

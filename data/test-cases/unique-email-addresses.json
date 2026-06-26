@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0929.独特的电子邮件地址",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "emails = [\"test.email+alex@leetcode.com\",\"test.e.mail+bob.cathy@leetcode.com\",\"testemail+david@lee.tcode.com\"]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "emails = [\"a@leetcode.com\",\"b@leetcode.com\",\"c@leetcode.com\"]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

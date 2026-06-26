@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0673.最长递增子序列的个数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[1,3,5,4,7]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[2,2,2,2,2]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

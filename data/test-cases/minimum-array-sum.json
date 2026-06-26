@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3366.最小数组和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,8,3,19,3], k = 3, op1 = 1, op2 = 1",
+      "expected": "23",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,4,3], k = 3, op1 = 2, op2 = 1",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

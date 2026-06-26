@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1948.删除系统中的重复文件夹",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "paths = [[\"a\"],[\"c\"],[\"d\"],[\"a\",\"b\"],[\"c\",\"b\"],[\"d\",\"a\"]]",
+      "expected": "[[\"d\"],[\"d\",\"a\"]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "paths = [[\"a\"],[\"c\"],[\"a\",\"b\"],[\"c\",\"b\"],[\"a\",\"b\",\"x\"],[\"a\",\"b\",\"x\",\"y\"],[\"w\"],[\"w\",\"y\"]]",
+      "expected": "[[\"c\"],[\"c\",\"b\"],[\"a\"],[\"a\",\"b\"]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "paths = [[\"a\",\"b\"],[\"c\",\"d\"],[\"c\"],[\"a\"]]",
+      "expected": "[[\"c\"],[\"c\",\"d\"],[\"a\"],[\"a\",\"b\"]]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "paths = [[\"a\"],[\"a\",\"x\"],[\"a\",\"x\",\"y\"],[\"a\",\"z\"],[\"b\"],[\"b\",\"x\"],[\"b\",\"x\",\"y\"],[\"b\",\"z\"]]",
+      "expected": "[]",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "paths = [[\"a\"],[\"a\",\"x\"],[\"a\",\"x\",\"y\"],[\"a\",\"z\"],[\"b\"],[\"b\",\"x\"],[\"b\",\"x\",\"y\"],[\"b\",\"z\"],[\"b\",\"w\"]]",
+      "expected": "[[\"b\"],[\"b\",\"w\"],[\"b\",\"z\"],[\"a\"],[\"a\",\"z\"]]",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

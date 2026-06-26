@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0015.三数之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [-1,0,1,2,-1,-4]",
+      "expected": "[[-1,-1,2],[-1,0,1]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1,1]",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,0,0]",
+      "expected": "[[0,0,0]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

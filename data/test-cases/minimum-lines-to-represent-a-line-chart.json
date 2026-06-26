@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2280.表示一个折线图的最少线段数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "stockPrices = [[1,7],[2,6],[3,5],[4,4],[5,4],[6,3],[7,2],[8,1]]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "stockPrices = [[3,4],[1,2],[7,8],[2,3]]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

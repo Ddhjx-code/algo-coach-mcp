@@ -1,16 +1,16 @@
 {
-  "problemSlug": "0005.Longest Palindromic Substring",
+  "problemSlug": "0005.最长回文子串",
   "functionName": "solution",
   "cases": [
     {
-      "input": "\"babad\"",
-      "expected": null,
+      "input": "s = \"babad\"",
+      "expected": "\"bab\"",
       "description": "example 1",
       "category": "basic"
     },
     {
-      "input": "\"cbbd\"",
-      "expected": null,
+      "input": "s = \"cbbd\"",
+      "expected": "\"bb\"",
       "description": "example 2",
       "category": "basic"
     }

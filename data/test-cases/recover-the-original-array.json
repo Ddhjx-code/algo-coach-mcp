@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2122.还原原数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,10,6,4,8,12]",
+      "expected": "[3,7,11]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,3,3]",
+      "expected": "[2,2]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,435]",
+      "expected": "[220]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

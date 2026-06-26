@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3261.统计满足 K 约束的子字符串数量 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"0001111\", k = 2, queries = [[0,6]]",
+      "expected": "[26]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"010101\", k = 1, queries = [[0,5],[1,4],[2,3]]",
+      "expected": "[15,9,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

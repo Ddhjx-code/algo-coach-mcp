@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0205.同构字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"egg\", t = \"add\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"f11\", t = \"b23\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"paper\", t = \"title\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

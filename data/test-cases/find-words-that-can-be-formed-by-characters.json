@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1160.拼写单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"cat\",\"bt\",\"hat\",\"tree\"], chars = \"atach\"",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"hello\",\"world\",\"leetcode\"], chars = \"welldonehoneyr\"",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3952.下标覆盖处的最大总和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [9,2,6,1], s = \"0101\"",
+      "expected": "15",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,1,4], s = \"001\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [9,3,5], s = \"011\"",
+      "expected": "14",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0654.最大二叉树",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,2,1,6,0,5]",
+      "expected": "[6,3,5,null,2,0,null,null,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,2,1]",
+      "expected": "[3,null,2,null,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0904.水果成篮",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "fruits = [ 1,2,1 ]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "fruits = [0, 1,2,2 ]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "fruits = [1, 2,3,2,2 ]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "fruits = [3,3,3, 1,2,1,1,2 ,3,3,4]",
+      "expected": "5",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

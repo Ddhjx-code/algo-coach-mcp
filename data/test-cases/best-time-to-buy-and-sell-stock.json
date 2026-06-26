@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0121.买卖股票的最佳时机",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[7,1,5,3,6,4]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "prices = [7,6,4,3,1]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

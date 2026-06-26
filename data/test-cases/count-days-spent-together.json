@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2409.统计共同度过的日子数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arriveAlice = \"08-15\", leaveAlice = \"08-18\", arriveBob = \"08-16\", leaveBob = \"08-19\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arriveAlice = \"10-01\", leaveAlice = \"10-31\", arriveBob = \"11-01\", leaveBob = \"12-31\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

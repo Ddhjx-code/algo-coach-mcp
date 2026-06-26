@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3316.从原字符串里进行删除操作的最多次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "source = \"abbaa\", pattern = \"aba\", targetIndices = [0,1,2]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "source = \"bcda\", pattern = \"d\", targetIndices = [0,3]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "source = \"dda\", pattern = \"dda\", targetIndices = [0,1,2]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "source = \"yeyeykyded\" , pattern = \"yeyyd\" , targetIndices = [0,2,3,4]",
+      "expected": "2",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

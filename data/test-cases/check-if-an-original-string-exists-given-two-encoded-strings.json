@@ -1,0 +1,36 @@
+{
+  "problemSlug": "2060.同源字符串检测",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"internationalization\", s2 = \"i18n\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"l123e\", s2 = \"44\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"a5b\", s2 = \"c5b\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"112s\", s2 = \"g841\"",
+      "expected": "true",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"ab\", s2 = \"a2\"",
+      "expected": "false",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

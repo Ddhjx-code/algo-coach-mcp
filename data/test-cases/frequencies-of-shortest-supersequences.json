@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3435.最短公共超序列的字母出现频率",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"ab\",\"ba\"]",
+      "expected": "[[1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"aa\",\"ac\"]",
+      "expected": "[[2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"aa\",\"bb\",\"cc\"]",
+      "expected": "[[2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

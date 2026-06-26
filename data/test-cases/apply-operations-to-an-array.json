@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2460.对数组执行操作",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,2,1,1,0]",
+      "expected": "[1,4,2,0,0,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1]",
+      "expected": "[1,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

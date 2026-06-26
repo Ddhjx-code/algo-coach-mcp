@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0900.RLE 迭代器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"RLEIterator\",\"next\",\"next\",\"next\",\"next\"] [[[3,8,0,9,2,5]],[2],[1],[1],[2]]",
+      "expected": "[null,8,8,5,-1]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

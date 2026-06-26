@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0290.单词规律",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "pattern = \"abba\" , s = \"dog cat cat dog\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "pattern = \"abba\" , s = \"dog cat cat fish\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "pattern = \"aaaa\" , s = \"dog cat cat dog\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

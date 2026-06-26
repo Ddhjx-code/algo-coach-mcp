@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1297.子串的最大出现次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;aababcaab&quot;, maxLetters = 2, minSize = 3, maxSize = 4",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;aaaa&quot;, maxLetters = 1, minSize = 3, maxSize = 3",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;aabcabcab&quot;, maxLetters = 2, minSize = 2, maxSize = 3",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;abcde&quot;, maxLetters = 2, minSize = 3, maxSize = 3",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

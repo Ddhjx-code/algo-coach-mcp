@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0380.O(1) 时间插入、删除和获取随机元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"RandomizedSet\",\"insert\",\"remove\",\"insert\",\"getRandom\",\"remove\",\"insert\",\"getRandom\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[1],[2],[2],[],[1],[2],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

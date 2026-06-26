@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0049.字母异位词分组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "strs = [\"eat\", \"tea\", \"tan\", \"ate\", \"nat\", \"bat\"]",
+      "expected": "[[\"bat\"],[\"nat\",\"tan\"],[\"ate\",\"eat\",\"tea\"]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"\"]",
+      "expected": "[[\"\"]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"a\"]",
+      "expected": "[[\"a\"]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

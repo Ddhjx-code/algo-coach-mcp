@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2216.美化数组的最少删除数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,2,3,5]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,2,2,3,3]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

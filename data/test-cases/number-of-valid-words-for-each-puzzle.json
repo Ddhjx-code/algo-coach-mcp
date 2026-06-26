@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1178.猜字谜",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"aaaa\",\"asas\",\"able\",\"ability\",\"actt\",\"actor\",\"access\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[\"aboveyz\",\"abrodyz\",\"abslute\",\"absoryz\",\"actresz\",\"gaswxyz\"]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "[\"apple\",\"pleas\",\"please\"]",
+      "expected": null,
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "[\"aelwxyz\",\"aelpxyz\",\"aelpsxy\",\"saelpxy\",\"xaelpsy\"]",
+      "expected": null,
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

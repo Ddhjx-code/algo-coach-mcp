@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3675.转换字符串的最小操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"yz\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

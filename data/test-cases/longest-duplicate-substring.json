@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1044.最长重复子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"banana\"",
+      "expected": "\"ana\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

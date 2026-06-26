@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2478.完美分割的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"23542185131\", k = 3, minLength = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"23542185131\", k = 3, minLength = 3",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"3312958\", k = 3, minLength = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

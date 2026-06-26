@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1422.分割字符串的最大得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;011101&quot;",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;00111&quot;",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;1111&quot;",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

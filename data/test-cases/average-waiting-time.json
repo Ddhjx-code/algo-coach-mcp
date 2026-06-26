@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1701.平均等待时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "customers = [[1,2],[2,5],[4,3]]",
+      "expected": "5.00000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "customers = [[5,2],[5,4],[10,3],[20,1]]",
+      "expected": "3.25000",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

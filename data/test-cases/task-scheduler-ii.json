@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2365.任务调度器 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "tasks = [1,2,1,2,3,1], space = 3",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "tasks = [5,8,8,5], space = 2",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

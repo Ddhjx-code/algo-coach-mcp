@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1962.移除石子使总数最小",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "piles = [5,4,9], k = 2",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "piles = [4,3,6,7], k = 3",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

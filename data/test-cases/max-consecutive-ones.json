@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0485.最大连续 1 的个数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,0,1,1,1]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,0,1,1,0,1]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

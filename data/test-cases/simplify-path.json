@@ -1,0 +1,36 @@
+{
+  "problemSlug": "0071.简化路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "path = \"/home/\"",
+      "expected": "\"/home\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "path = \"/home//foo/\"",
+      "expected": "\"/home/foo\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "path = \"/home/user/Documents/../Pictures\"",
+      "expected": "\"/home/user/Pictures\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "path = \"/../\"",
+      "expected": "\"/\"",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "path = \"/.../a/../b/c/../d/./\"",
+      "expected": "\"/.../b/d\"",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

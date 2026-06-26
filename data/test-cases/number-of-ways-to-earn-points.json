@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2585.获得分数的方法数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "target = 6, types = [[6,1],[3,2],[2,3]]",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "target = 5, types = [[50,1],[50,2],[50,5]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "target = 18, types = [[6,1],[3,2],[2,3]]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

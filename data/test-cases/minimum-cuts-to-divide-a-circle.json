@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2481.分割圆的最少切割次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

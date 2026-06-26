@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2550.猴子碰撞的方法数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4",
+      "expected": "14",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1406.石子游戏 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "values = [1,2,3,7]",
+      "expected": "\"Bob\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "values = [1,2,3,-9]",
+      "expected": "\"Alice\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "values = [1,2,3,6]",
+      "expected": "\"Tie\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

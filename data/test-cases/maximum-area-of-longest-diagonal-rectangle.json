@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3000.对角线最长的矩形的面积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "dimensions = [[9,3],[8,6]]",
+      "expected": "48",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "dimensions = [[3,4],[4,3]]",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

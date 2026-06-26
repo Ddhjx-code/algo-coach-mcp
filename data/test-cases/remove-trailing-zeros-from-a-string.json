@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2710.移除字符串中的尾随零",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"51230100\"",
+      "expected": "\"512301\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"123\"",
+      "expected": "\"123\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1621.大小为 K 的不重叠线段的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, k = 2",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, k = 1",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 30, k = 7",
+      "expected": "796297179",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, k = 3",
+      "expected": "7",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, k = 2",
+      "expected": "1",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1792.最大平均通过率",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "classes = [[1,2],[3,5],[2,2]], extraStudents = 2",
+      "expected": "0.78333",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "classes = [[2,4],[3,9],[4,5],[2,10]], extraStudents = 4",
+      "expected": "0.53485",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

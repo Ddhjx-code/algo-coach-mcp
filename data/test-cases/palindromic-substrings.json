@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0647.回文子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aaa\"",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

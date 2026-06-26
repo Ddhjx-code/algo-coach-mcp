@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1169.查询无效交易",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "transactions = [\"alice,20,800,mtv\",\"alice,50,100,beijing\"]",
+      "expected": "[\"alice,20,800,mtv\",\"alice,50,100,beijing\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "transactions = [\"alice,20,800,mtv\",\"alice,50,1200,mtv\"]",
+      "expected": "[\"alice,50,1200,mtv\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "transactions = [\"alice,20,800,mtv\",\"bob,50,1200,mtv\"]",
+      "expected": "[\"bob,50,1200,mtv\"]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

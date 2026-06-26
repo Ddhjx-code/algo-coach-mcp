@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1413.逐步求和得到正数的最小值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [-3,2,-3,4,2]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,-2,-3]",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

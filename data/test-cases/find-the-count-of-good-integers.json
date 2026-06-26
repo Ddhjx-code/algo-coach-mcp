@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3272.统计好整数的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 5",
+      "expected": "27",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, k = 4",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, k = 6",
+      "expected": "2468",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

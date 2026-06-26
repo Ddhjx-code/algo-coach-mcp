@@ -1,7 +1,18 @@
-import type { ProblemEntry, Topic } from "../types.js";
+import type { ProblemEntry, Language, Topic } from "../types.js";
 import type { CheckpointEntry } from "./types.js";
 import { TOPIC_NAMES } from "./types.js";
 import { mapTagsToTopic, extractAlgorithms } from "./tag-mapper.js";
+
+const LANG_SLUG_MAP: Record<string, Language> = {
+  cpp: "cpp",
+  java: "java",
+  python3: "python",
+  python: "python",
+  golang: "go",
+  go: "go",
+  javascript: "javascript",
+  typescript: "typescript",
+};
 
 export function htmlToText(html: string): string {
   return html
@@ -54,6 +65,51 @@ export function buildSlug(frontendId: number, title: string): string {
   return `${padded}.${title}`;
 }
 
+export function buildSolutions(
+  snippets: Array<{ lang: string; langSlug: string; code: string }> | null
+): Partial<Record<Language, string>> {
+  if (!snippets) return {};
+  const solutions: Partial<Record<Language, string>> = {};
+  for (const s of snippets) {
+    const lang = LANG_SLUG_MAP[s.langSlug];
+    if (lang && !solutions[lang]) {
+      solutions[lang] = s.code;
+    }
+  }
+  return solutions;
+}
+
+export interface ParsedExample {
+  input: string;
+  output: string;
+  explanation?: string;
+}
+
+export function parseExamplesFromHtml(html: string | null): ParsedExample[] {
+  if (!html) return [];
+  const examples: ParsedExample[] = [];
+
+  const stripped = html.replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ");
+  const blocks = stripped.split(/(?=(?:示例|Example)\s*\d)/i);
+
+  for (const block of blocks) {
+    if (!/(?:示例|Example)\s*\d/i.test(block)) continue;
+
+    const inputMatch = block.match(/(?:输入|Input)\s*[:：]\s*(.*?)(?=\s*(?:输出|Output))/is);
+    const outputMatch = block.match(/(?:输出|Output)\s*[:：]\s*(.*?)(?=\s*(?:解释|Explanation|示例|Example|提示|Constraints|进阶|Follow|注意|Note|\s*$))/is);
+
+    if (inputMatch && outputMatch) {
+      const input = inputMatch[1].replace(/\s+/g, " ").trim();
+      const output = outputMatch[1].replace(/\s+/g, " ").trim();
+      if (input && output) {
+        examples.push({ input, output });
+      }
+    }
+  }
+
+  return examples;
+}
+
 export function transformEntry(entry: CheckpointEntry): ProblemEntry {
   const title = entry.cnTitle ?? entry.comTitle ?? entry.titleSlug;
   return {
@@ -65,7 +121,7 @@ export function transformEntry(entry: CheckpointEntry): ProblemEntry {
     difficulty: entry.difficulty,
     algorithms: extractAlgorithms(entry.tags),
     description: buildDescription(entry.cnContent, entry.comContent),
-    solutions: {},
+    solutions: buildSolutions(entry.codeSnippets),
     keyPoints: entry.hints,
   };
 }

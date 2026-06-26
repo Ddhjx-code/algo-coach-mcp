@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1311.获取你好友已观看的视频",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "watchedVideos = [[&quot;A&quot;,&quot;B&quot;],[&quot;C&quot;],[&quot;B&quot;,&quot;C&quot;],[&quot;D&quot;]], friends = [[1,2],[0,3],[0,3],[1,2]], id = 0, level = 1",
+      "expected": "[&quot;B&quot;,&quot;C&quot;]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "watchedVideos = [[&quot;A&quot;,&quot;B&quot;],[&quot;C&quot;],[&quot;B&quot;,&quot;C&quot;],[&quot;D&quot;]], friends = [[1,2],[0,3],[0,3],[1,2]], id = 0, level = 2",
+      "expected": "[&quot;D&quot;]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

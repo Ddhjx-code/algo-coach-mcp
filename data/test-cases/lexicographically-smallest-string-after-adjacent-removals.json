@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3563.移除相邻字符后字典序最小的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\"",
+      "expected": "\"a\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bcda\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"zdce\"",
+      "expected": "\"zdce\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

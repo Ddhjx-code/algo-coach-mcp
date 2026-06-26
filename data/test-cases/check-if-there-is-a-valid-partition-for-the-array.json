@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2369.检查数组是否存在有效划分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,4,4,5,6]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,1,2]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

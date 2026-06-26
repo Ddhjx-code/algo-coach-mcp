@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0141.环形链表",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [3,2,0,-4], pos = 1",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [1,2], pos = 0",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "head = [1], pos = -1",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1372.二叉树中的最长交错路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,null,1,1,1,null,null,1,1,null,1,null,null,null,1,null,1]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,1,1,null,1,null,null,1,1,null,1]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

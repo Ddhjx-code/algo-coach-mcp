@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2186.制造字母异位词的最小步骤数 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \" lee t co de \", t = \"co a t s \"",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"night\", t = \"thing\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

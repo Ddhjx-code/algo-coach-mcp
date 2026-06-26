@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0697.数组的度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,2,3,1]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,2,3,1,4,2]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

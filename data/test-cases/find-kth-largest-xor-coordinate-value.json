@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1738.找出第 K 大的异或坐标值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matrix = [[5,2],[1,6]], k = 1",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[5,2],[1,6]], k = 2",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[5,2],[1,6]], k = 3",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[5,2],[1,6]], k = 4",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3658.奇数和与偶数和的最大公约数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

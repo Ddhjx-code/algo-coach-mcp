@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3030.找出网格的区域平均强度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "image = [[5,6,7,10],[8,9,10,10],[11,12,13,10]], threshold = 3",
+      "expected": "[[9,9,9,9],[9,9,9,9],[9,9,9,9]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "image = [[10,20,30],[15,25,35],[20,30,40],[25,35,45]], threshold = 12",
+      "expected": "[[25,25,25],[27,27,27],[27,27,27],[30,30,30]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "image = [[5,6,7],[8,9,10],[11,12,13]], threshold = 1",
+      "expected": "[[5,6,7],[8,9,10],[11,12,13]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

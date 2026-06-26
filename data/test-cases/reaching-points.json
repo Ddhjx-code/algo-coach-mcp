@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0780.到达终点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sx = 1, sy = 1, tx = 3, ty = 5",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sx = 1, sy = 1, tx = 2, ty = 2",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "sx = 1, sy = 1, tx = 1, ty = 1",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

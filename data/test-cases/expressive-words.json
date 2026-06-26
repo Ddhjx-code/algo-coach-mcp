@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0809.情感丰富的文字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "\"heeellooo\"",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[\"hello\", \"hi\", \"helo\"]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "\"zzzzzyyyyy\"",
+      "expected": null,
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "[\"zzyy\",\"zy\",\"zyy\"]",
+      "expected": null,
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0395.至少有 K 个重复字符的最长子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aaabb\", k = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ababbc\", k = 2",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

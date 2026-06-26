@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0542.01 矩阵",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[0,0,0],[0,1,0],[0,0,0]]",
+      "expected": "[[0,0,0],[0,1,0],[0,0,0]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[0,0,0],[0,1,0],[1,1,1]]",
+      "expected": "[[0,0,0],[0,1,0],[1,2,1]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2806.取整购买后的账户余额",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "purchaseAmount = 9",
+      "expected": "90",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "purchaseAmount = 15",
+      "expected": "80",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

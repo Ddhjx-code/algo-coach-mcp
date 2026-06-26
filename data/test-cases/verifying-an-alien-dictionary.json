@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0953.验证外星语词典",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"hello\",\"leetcode\"], order = \"hlabcdefgijkmnopqrstuvwxyz\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"word\",\"world\",\"row\"], order = \"worldabcefghijkmnpqstuvxyz\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"apple\",\"app\"], order = \"abcdefghijklmnopqrstuvwxyz\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

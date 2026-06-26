@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0565.数组嵌套",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "A = [5,4,0,3,1,6,2]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

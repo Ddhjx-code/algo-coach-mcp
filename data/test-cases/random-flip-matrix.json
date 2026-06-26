@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0519.随机翻转矩阵",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Solution\",\"flip\",\"flip\",\"flip\",\"reset\",\"flip\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[3,1],[],[],[],[],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

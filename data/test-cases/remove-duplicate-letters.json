@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0316.去除重复字母",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"bcabc\"",
+      "expected": "\"abc\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"cbacdcbc\"",
+      "expected": "\"acdb\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

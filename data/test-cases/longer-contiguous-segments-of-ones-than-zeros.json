@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1869.哪种连续子字符串更长",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1101\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"111000\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"110100010\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

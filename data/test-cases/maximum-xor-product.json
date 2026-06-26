@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2939.最大异或乘积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = 12, b = 5, n = 4",
+      "expected": "98",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = 6, b = 7 , n = 5",
+      "expected": "930",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "a = 1, b = 6, n = 3",
+      "expected": "12",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

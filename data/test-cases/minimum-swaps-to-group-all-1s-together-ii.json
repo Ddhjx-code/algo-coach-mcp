@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2134.最少交换次数来组合所有的 1 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,1,0,1,1,0,0]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1,1,1,0,0,1,1,0]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,0,0,1]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

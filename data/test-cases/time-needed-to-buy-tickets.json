@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2073.买票需要的时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "tickets = [2,3,2], k = 2",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "tickets = [5,1,1,1], k = 0",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

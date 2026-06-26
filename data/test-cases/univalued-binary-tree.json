@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0965.单值二叉树",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[1,1,1,1,1,null,1]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[2,2,2,5,2]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

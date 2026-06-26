@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0354.俄罗斯套娃信封问题",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "envelopes = [[5,4],[6,4],[6,7],[2,3]]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "envelopes = [[1,1],[1,1],[1,1]]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

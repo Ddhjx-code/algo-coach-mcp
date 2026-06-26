@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0777.在 LR 字符串中交换相邻字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "start = \"RXXLRXRXL\", result = \"XRLXXRRLX\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "start = \"X\", result = \"L\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

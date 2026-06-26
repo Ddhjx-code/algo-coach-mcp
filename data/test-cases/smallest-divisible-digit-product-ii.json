@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3348.最小可整除数位乘积 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"1234\", t = 256",
+      "expected": "\"1488\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"12355\", t = 50",
+      "expected": "\"12355\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"11111\", t = 26",
+      "expected": "\"-1\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

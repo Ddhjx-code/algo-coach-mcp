@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0976.三角形的最大周长",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,1,2]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,1,10]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1610.可见点的最大数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[2,1],[2,2],[3,3]], angle = 90, location = [1,1]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[2,1],[2,2],[3,4],[1,1]], angle = 90, location = [1,1]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,0],[2,1]], angle = 13, location = [1,1]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

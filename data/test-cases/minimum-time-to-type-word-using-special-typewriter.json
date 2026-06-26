@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1974.使用特殊打字机键入单词的最少时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"abc\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"bza\"",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"zjpc\"",
+      "expected": "34",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

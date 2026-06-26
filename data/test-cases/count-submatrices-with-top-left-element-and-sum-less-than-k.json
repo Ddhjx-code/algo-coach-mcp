@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3070.元素和小于等于 k 的子矩阵的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[7,6,3],[6,6,1]], k = 18",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[7,2,9],[1,5,0],[2,6,6]], k = 20",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0507.完美数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 28",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 7",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

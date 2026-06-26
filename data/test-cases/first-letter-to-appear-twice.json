@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2351.第一个出现两次的字母",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abccbaacz\"",
+      "expected": "\"c\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcdd\"",
+      "expected": "\"d\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

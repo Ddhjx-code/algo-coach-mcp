@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3131.找出与数组相加的整数 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [2,6,4], nums2 = [9,7,5]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [10], nums2 = [5]",
+      "expected": "-5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [1,1,1,1], nums2 = [1,1,1,1]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "problemSlug": "0013.罗马数字转整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"III\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"IV\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"IX\"",
+      "expected": "9",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"LVIII\"",
+      "expected": "58",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"MCMXCIV\"",
+      "expected": "1994",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

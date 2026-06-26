@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2105.给植物浇水 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "plants = [2,2,3,3], capacityA = 5, capacityB = 5",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "plants = [2,2,3,3], capacityA = 3, capacityB = 4",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "plants = [5], capacityA = 10, capacityB = 8",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

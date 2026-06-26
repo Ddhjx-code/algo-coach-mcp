@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2180.统计各位数字之和为偶数的整数个数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 4",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 30",
+      "expected": "14",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

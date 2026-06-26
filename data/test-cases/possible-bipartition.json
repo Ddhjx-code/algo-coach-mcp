@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0886.可能的二分法",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, dislikes = [[1,2],[1,3],[2,4]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, dislikes = [[1,2],[1,3],[2,3]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, dislikes = [[1,2],[2,3],[3,4],[4,5],[1,5]]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

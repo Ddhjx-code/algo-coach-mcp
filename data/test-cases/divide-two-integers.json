@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0029.两数相除",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "dividend = 10, divisor = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "dividend = 7, divisor = -3",
+      "expected": "-2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

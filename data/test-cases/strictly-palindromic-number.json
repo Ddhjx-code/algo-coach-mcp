@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2396.严格回文的数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 9",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

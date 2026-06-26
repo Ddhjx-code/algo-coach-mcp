@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2434.使用机器人打印字典序最小的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"zza\"",
+      "expected": "\"azz\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bac\"",
+      "expected": "\"abc\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bdda\"",
+      "expected": "\"addb\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

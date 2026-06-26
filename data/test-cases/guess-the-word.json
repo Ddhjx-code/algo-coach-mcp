@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0843.猜猜这个单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "secret = \"acckzz\", words = [\"acckzz\",\"ccbazz\",\"eiowzz\",\"abcczz\"], allowedGuesses = 10",
+      "expected": "You guessed the secret word correctly.",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "secret = \"hamada\", words = [\"hamada\",\"khaled\"], allowedGuesses = 10",
+      "expected": "You guessed the secret word correctly.",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

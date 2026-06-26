@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1397.找到所有好字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, s1 = \"aa\", s2 = \"da\", evil = \"b\"",
+      "expected": "51",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 8, s1 = \"leetcode\", s2 = \"leetgoes\", evil = \"leet\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, s1 = \"gx\", s2 = \"gz\", evil = \"x\"",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

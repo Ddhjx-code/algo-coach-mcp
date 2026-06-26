@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0432.全 O(1) 的数据结构",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"AllOne\",\"inc\",\"inc\",\"getMaxKey\",\"getMinKey\",\"inc\",\"getMaxKey\",\"getMinKey\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[\"hello\"],[\"hello\"],[],[],[\"leet\"],[],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

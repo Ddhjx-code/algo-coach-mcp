@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3853.合并靠近字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abca\", k = 3",
+      "expected": "\"abc\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aabca\", k = 2",
+      "expected": "\"abca\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"yybyzybz\", k = 2",
+      "expected": "\"ybzybz\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1335.工作计划的最低难度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "jobDifficulty = [6,5,4,3,2,1], d = 2",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "jobDifficulty = [9,9,9], d = 4",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "jobDifficulty = [1,1,1], d = 3",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "jobDifficulty = [7,1,7,1,7,1], d = 3",
+      "expected": "15",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "jobDifficulty = [11,111,22,222,33,333,44,444], d = 6",
+      "expected": "843",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

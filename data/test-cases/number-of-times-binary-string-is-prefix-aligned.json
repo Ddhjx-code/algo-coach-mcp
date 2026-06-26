@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1375.二进制字符串前缀一致的次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "flips = [3,2,4,1,5]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "flips = [4,1,2,3]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

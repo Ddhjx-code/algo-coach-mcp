@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1290.二进制链表转整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [1,0,1]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [0]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

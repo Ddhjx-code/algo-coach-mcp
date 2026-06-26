@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2791.树中可以形成回文的路径数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "parent = [-1,0,0,1,1,2], s = \"acaabc\"",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "parent = [-1,0,0,0,0], s = \"aaaaa\"",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

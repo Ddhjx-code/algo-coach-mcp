@@ -1,0 +1,12 @@
+{
+  "problemSlug": "3408.设计任务管理器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"TaskManager\", \"add\", \"edit\", \"execTop\", \"rmv\", \"add\", \"execTop\"] [[[[1, 101, 10], [2, 102, 20], [3, 103, 15]]], [4, 104, 5], [102, 8], [], [101], [5, 105, 15], []]",
+      "expected": "[null, null, null, 3, null, null, 5]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

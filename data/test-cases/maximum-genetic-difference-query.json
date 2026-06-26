@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1938.查询最大基因差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "parents = [-1,0,1,1], queries = [[0,2],[3,2],[2,5]]",
+      "expected": "[2,3,7]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "parents = [3,7,-1,2,0,7,0,2], queries = [[4,6],[1,15],[0,5]]",
+      "expected": "[6,14,7]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

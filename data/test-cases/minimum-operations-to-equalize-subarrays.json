@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3762.使数组元素相等的最小操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,4,7], k = 3, queries = [[0,1],[0,2]]",
+      "expected": "[1,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,4], k = 2, queries = [[0,2],[0,0],[1,2]]",
+      "expected": "[-1,0,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

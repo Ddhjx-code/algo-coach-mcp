@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0970.强整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "x = 2, y = 3, bound = 10",
+      "expected": "[2,3,4,5,7,9,10]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "x = 3, y = 5, bound = 15",
+      "expected": "[2,4,6,8,10,14]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

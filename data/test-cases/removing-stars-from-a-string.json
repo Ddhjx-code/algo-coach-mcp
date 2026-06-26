@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2390.从字符串中移除星号",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leet**cod*e\"",
+      "expected": "\"lecoe\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"erase*****\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

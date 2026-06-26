@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2546.执行逐位运算使字符串相等",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1010\", target = \"0110\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"11\", target = \"00\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

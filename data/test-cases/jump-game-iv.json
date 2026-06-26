@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1345.跳跃游戏 IV",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [100,-23,-23,404,100,23,23,23,3,404]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [7]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [7,6,9,6,9,6,9,7]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

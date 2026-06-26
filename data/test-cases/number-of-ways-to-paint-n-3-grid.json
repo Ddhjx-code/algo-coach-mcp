@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1411.给 N x 3 网格图涂色的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "54",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "246",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 7",
+      "expected": "106494",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5000",
+      "expected": "30228214",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

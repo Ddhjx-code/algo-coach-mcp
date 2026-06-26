@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0434.字符串中的单词数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "\"Hello, my name is John\"",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "\"Hello\"",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

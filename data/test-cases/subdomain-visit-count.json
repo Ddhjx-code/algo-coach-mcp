@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0811.子域名访问计数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "cpdomains = [\"9001 discuss.leetcode.com\"]",
+      "expected": "[\"9001 leetcode.com\",\"9001 discuss.leetcode.com\",\"9001 com\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "cpdomains = [\"900 google.mail.com\", \"50 yahoo.com\", \"1 intel.mail.com\", \"5 wiki.org\"]",
+      "expected": "[\"901 mail.com\",\"50 yahoo.com\",\"900 google.mail.com\",\"5 wiki.org\",\"5 org\",\"1 intel.mail.com\",\"951 com\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

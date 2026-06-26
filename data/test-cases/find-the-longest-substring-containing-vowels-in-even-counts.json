@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1371.每个元音包含偶数次的最长子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;eleetminicoworoep&quot;",
+      "expected": "13",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;leetcodeisgreat&quot;",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;bcbcbc&quot;",
+      "expected": "6",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

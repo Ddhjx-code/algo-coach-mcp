@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3077.K 个不相交子数组的最大能量值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,-1,2], k = 3",
+      "expected": "22",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [12,-2,-2,-2,-2], k = 5",
+      "expected": "64",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-1,-2,-3], k = 1",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

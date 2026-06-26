@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0415.字符串相加",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num1 = \"11\", num2 = \"123\"",
+      "expected": "\"134\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num1 = \"456\", num2 = \"77\"",
+      "expected": "\"533\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num1 = \"0\", num2 = \"0\"",
+      "expected": "\"0\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

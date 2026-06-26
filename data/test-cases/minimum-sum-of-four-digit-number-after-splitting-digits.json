@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2160.拆分数位后四位数字的最小和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 2932",
+      "expected": "52",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 4009",
+      "expected": "13",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

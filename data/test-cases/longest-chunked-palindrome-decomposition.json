@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1147.段式回文",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "text = \"ghiabcdefhelloadamhelloabcdefghi\"",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "text = \"merchant\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "text = \"antaprezatepzapreanta\"",
+      "expected": "11",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0072.编辑距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"horse\", word2 = \"ros\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"intention\", word2 = \"execution\"",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

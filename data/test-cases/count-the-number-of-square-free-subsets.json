@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2572.无平方子集计数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,4,4,5]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

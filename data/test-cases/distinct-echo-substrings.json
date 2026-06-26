@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1316.不同的循环子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "text = &quot;abcabcabc&quot;",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot;leetcodeleetcode&quot;",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

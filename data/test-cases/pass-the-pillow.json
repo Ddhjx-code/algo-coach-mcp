@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2582.递枕头",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, time = 5",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, time = 2",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

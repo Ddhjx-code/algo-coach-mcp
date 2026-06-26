@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3024.三角形类型",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,3,3]",
+      "expected": "\"equilateral\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,4,5]",
+      "expected": "\"scalene\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

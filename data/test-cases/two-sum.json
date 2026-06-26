@@ -3,39 +3,21 @@
   "functionName": "solution",
   "cases": [
     {
-      "input": "[2,7,11,15]",
-      "expected": null,
+      "input": "nums = [2,7,11,15], target = 9",
+      "expected": "[0,1]",
       "description": "example 1",
       "category": "basic"
     },
     {
-      "input": "9",
-      "expected": null,
+      "input": "nums = [3,2,4], target = 6",
+      "expected": "[1,2]",
       "description": "example 2",
       "category": "basic"
     },
     {
-      "input": "[3,2,4]",
-      "expected": null,
+      "input": "nums = [3,3], target = 6",
+      "expected": "[0,1]",
       "description": "example 3",
-      "category": "basic"
-    },
-    {
-      "input": "6",
-      "expected": null,
-      "description": "example 4",
-      "category": "basic"
-    },
-    {
-      "input": "[3,3]",
-      "expected": null,
-      "description": "example 5",
-      "category": "basic"
-    },
-    {
-      "input": "6",
-      "expected": null,
-      "description": "example 6",
       "category": "basic"
     }
   ]

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3537.填充特殊网格",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "N = 0",
+      "expected": "[[0]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "N = 1",
+      "expected": "[[3,0],[2,1]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "N = 2",
+      "expected": "[[15,12,3,0],[14,13,2,1],[11,8,7,4],[10,9,6,5]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

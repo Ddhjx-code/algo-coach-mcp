@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1452.收藏清单",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "favoriteCompanies = [[&quot;leetcode&quot;,&quot;google&quot;,&quot;facebook&quot;],[&quot;google&quot;,&quot;microsoft&quot;],[&quot;google&quot;,&quot;facebook&quot;],[&quot;google&quot;],[&quot;amazon&quot;]]",
+      "expected": "[0,1,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "favoriteCompanies = [[&quot;leetcode&quot;,&quot;google&quot;,&quot;facebook&quot;],[&quot;leetcode&quot;,&quot;amazon&quot;],[&quot;facebook&quot;,&quot;google&quot;]]",
+      "expected": "[0,1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "favoriteCompanies = [[&quot;leetcode&quot;],[&quot;google&quot;],[&quot;facebook&quot;],[&quot;amazon&quot;]]",
+      "expected": "[0,1,2,3]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

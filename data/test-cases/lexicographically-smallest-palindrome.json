@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2697.字典序最小回文串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"egcfe\"",
+      "expected": "\"efcfe\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\"",
+      "expected": "\"abba\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"seven\"",
+      "expected": "\"neven\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

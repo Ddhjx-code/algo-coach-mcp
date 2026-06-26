@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3582.为视频标题生成标签",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "caption = \"Leetcode daily streak achieved\"",
+      "expected": "\"#leetcodeDailyStreakAchieved\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "caption = \"can I Go There\"",
+      "expected": "\"#canIGoThere\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "caption = \"hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\"",
+      "expected": "\"#hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

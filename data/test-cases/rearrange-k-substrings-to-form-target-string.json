@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3365.重排子字符串以形成目标字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcd\", t = \"cdab\", k = 2",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aabbcc\", t = \"bbaacc\", k = 3",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aabbcc\", t = \"bbaacc\", k = 2",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

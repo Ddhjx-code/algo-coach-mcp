@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3418.机器人可以获得的最大金币数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "coins = [[0,1,-1],[1,-2,3],[2,-3,4]]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "coins = [[10,10,10],[10,10,10]]",
+      "expected": "40",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

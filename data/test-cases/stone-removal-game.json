@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3360.移除石头游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 12",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

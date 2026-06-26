@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0263.丑数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 6",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 14",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

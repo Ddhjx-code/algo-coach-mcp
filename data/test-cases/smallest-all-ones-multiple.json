@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3790.最小全 1 倍数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 7",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "k = 2",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

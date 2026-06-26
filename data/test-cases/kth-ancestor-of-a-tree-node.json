@@ -1,0 +1,12 @@
+{
+  "problemSlug": "1483.树节点的第 K 个祖先",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"TreeAncestor\",\"getKthAncestor\",\"getKthAncestor\",\"getKthAncestor\"] [[7,[-1,0,0,1,1,2,2]],[3,1],[5,2],[6,3]]",
+      "expected": "[null,1,0,-1]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3953.互质元素的最大得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,4,6], maxVal = 5",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3], maxVal = 4",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2], maxVal = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3152.特殊数组 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,4,1,2,6], queries = [[0,4]]",
+      "expected": "[false]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,3,1,6], queries = [[0,2],[2,3]]",
+      "expected": "[false,true]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

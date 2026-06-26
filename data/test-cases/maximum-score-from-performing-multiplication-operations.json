@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1770.执行乘法运算的最大分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3], multipliers = [3,2,1]",
+      "expected": "14",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-5,-3,-3,-2,7,1], multipliers = [-10,-5,3,4,6]",
+      "expected": "102",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

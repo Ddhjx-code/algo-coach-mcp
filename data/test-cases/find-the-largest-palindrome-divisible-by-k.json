@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3260.找出最大的 N 位 K 回文数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 5",
+      "expected": "\"595\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, k = 4",
+      "expected": "\"8\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, k = 6",
+      "expected": "\"89898\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3734.大于目标字符串的最小字典序回文排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"baba\", target = \"abba\"",
+      "expected": "\"baab\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"baba\", target = \"bbaa\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc\", target = \"abb\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aac\", target = \"abb\"",
+      "expected": "\"aca\"",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

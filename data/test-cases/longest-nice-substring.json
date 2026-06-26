@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1763.最长的美好子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"YazaAay\"",
+      "expected": "\"aAa\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"Bb\"",
+      "expected": "\"Bb\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"c\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"dDzeE\"",
+      "expected": "\"dD\"",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

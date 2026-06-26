@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3083.字符串及其反转中是否存在同一子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leetcode\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcba\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

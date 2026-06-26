@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2602.使数组元素全部相等的最少操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,6,8], queries = [1,5]",
+      "expected": "[14,10]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,9,6,3], queries = [10]",
+      "expected": "[20]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

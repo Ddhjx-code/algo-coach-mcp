@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2554.从一个范围内选择最多整数 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "banned = [1,6,5], n = 5, maxSum = 6",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "banned = [1,2,3,4,5,6,7], n = 8, maxSum = 1",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "banned = [11], n = 7, maxSum = 50",
+      "expected": "7",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

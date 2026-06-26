@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0745.前缀和后缀搜索",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"WordFilter\",\"f\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[[\"apple\"]],[\"a\",\"e\"]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3300.替换为数位和以后的最小元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [10,12,13,14]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [999,19,199]",
+      "expected": "10",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

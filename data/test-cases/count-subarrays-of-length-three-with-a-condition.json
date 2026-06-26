@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3392.统计符合条件长度为 3 的子数组数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,1,4,1]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,1]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0967.连续差相同的数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 7",
+      "expected": "[181,292,707,818,929]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, k = 1",
+      "expected": "[10,12,21,23,32,34,43,45,54,56,65,67,76,78,87,89,98]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, k = 0",
+      "expected": "[11,22,33,44,55,66,77,88,99]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, k = 2",
+      "expected": "[13,20,24,31,35,42,46,53,57,64,68,75,79,86,97]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

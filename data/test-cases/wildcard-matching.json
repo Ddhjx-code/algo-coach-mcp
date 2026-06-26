@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0044.通配符匹配",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aa\", p = \"a\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aa\", p = \"*\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"cb\", p = \"?a\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

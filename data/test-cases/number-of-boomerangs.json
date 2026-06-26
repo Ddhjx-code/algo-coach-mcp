@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0447.回旋镖的数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[0,0],[1,0],[2,0]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,1],[2,2],[3,3]]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,1]]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

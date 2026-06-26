@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0517.超级洗衣机",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "machines = [1,0,5]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "machines = [0,3,0]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "machines = [0,2,0]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

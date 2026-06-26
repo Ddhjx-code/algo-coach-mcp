@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0514.自由之路",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "ring = \"godding\", key = \"gd\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "ring = \"godding\", key = \"godding\"",
+      "expected": "13",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

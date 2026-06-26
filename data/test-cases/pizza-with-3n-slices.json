@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1388.3n 块披萨",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "slices = [1,2,3,4,5,6]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "slices = [8,9,8,6,1,1]",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

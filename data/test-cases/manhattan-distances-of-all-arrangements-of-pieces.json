@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3426.所有安放棋子方案的曼哈顿距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "m = 2, n = 2, k = 2",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "m = 1, n = 4, k = 3",
+      "expected": "20",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

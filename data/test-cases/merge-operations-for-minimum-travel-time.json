@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3538.合并得到最小旅行时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "l = 10, n = 4, k = 1, position = [0,3,8,10], time = [5,8,3,6]",
+      "expected": "62",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "l = 5, n = 5, k = 1, position = [0,1,2,3,5], time = [8,3,9,3,3]",
+      "expected": "34",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

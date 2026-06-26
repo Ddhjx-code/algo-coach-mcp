@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2267.检查是否有合法括号字符串路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[\"(\",\"(\",\"(\"],[\")\",\"(\",\")\"],[\"(\",\"(\",\")\"],[\"(\",\"(\",\")\"]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[\")\",\")\"],[\"(\",\"(\"]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

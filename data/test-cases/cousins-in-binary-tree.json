@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0993.二叉树的堂兄弟节点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,2,3,4], x = 4, y = 3",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,2,3,null,4,null,5], x = 5, y = 4",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,2,3,null,4], x = 2, y = 3",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

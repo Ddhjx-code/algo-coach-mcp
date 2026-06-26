@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1237.找出给定方程的正整数解",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "function_id = 1, z = 5",
+      "expected": "[[1,4],[2,3],[3,2],[4,1]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "function_id = 2, z = 5",
+      "expected": "[[1,5],[5,1]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

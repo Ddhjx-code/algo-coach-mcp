@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2513.最小化两个数组中的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "divisor1 = 2, divisor2 = 7, uniqueCnt1 = 1, uniqueCnt2 = 3",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "divisor1 = 3, divisor2 = 5, uniqueCnt1 = 2, uniqueCnt2 = 1",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "divisor1 = 2, divisor2 = 4, uniqueCnt1 = 8, uniqueCnt2 = 2",
+      "expected": "15",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

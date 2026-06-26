@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0688.骑士在棋盘上的概率",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 2, row = 0, column = 0",
+      "expected": "0.0625",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, k = 0, row = 0, column = 0",
+      "expected": "1.00000",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

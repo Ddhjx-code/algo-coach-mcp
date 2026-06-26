@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1137.第 N 个泰波那契数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 25",
+      "expected": "1389537",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

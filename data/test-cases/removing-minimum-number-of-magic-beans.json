@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2171.拿出最少数目的魔法豆",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "beans = [4,1,6,5]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "beans = [2,10,3,2]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

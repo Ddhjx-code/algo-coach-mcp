@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0980.不同路径 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[[1,0,0,0],[0,0,0,0],[0,0,2,-1]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[1,0,0,0],[0,0,0,0],[0,0,0,2]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "[[0,1],[2,0]]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

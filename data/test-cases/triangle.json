@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0120.三角形最小路径和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "triangle = [[2],[3,4],[6,5,7],[4,1,8,3]]",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "triangle = [[-10]]",
+      "expected": "-10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

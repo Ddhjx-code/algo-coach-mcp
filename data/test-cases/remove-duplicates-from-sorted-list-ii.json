@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0082.删除排序链表中的重复元素 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [1,2,3,3,4,4,5]",
+      "expected": "[1,2,5]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [1,1,1,2,3]",
+      "expected": "[2,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

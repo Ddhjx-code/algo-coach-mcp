@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0960.删列造序 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "strs = [\"babca\",\"bbazb\"]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"edcba\"]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"ghi\",\"def\",\"abc\"]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

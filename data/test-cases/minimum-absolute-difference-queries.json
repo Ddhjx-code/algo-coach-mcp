@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1906.查询差绝对值的最小值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,3,4,8], queries = [[0,1],[1,2],[2,3],[0,3]]",
+      "expected": "[2,1,4,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,5,2,2,7,10], queries = [[2,3],[0,2],[0,5],[3,5]]",
+      "expected": "[-1,1,1,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

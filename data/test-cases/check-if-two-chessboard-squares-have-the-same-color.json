@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3274.检查棋盘方格颜色是否相同",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "coordinate1 = \"a1\", coordinate2 = \"c3\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "coordinate1 = \"a1\", coordinate2 = \"h3\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

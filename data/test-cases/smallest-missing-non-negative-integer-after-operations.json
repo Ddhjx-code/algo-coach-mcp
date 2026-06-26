@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2598.执行操作后的最大 MEX",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,-10,7,13,6,8], value = 5",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,-10,7,13,6,8], value = 7",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

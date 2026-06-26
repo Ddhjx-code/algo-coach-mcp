@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1903.字符串中的最大奇数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"52\"",
+      "expected": "\"5\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"4206\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"35427\"",
+      "expected": "\"35427\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

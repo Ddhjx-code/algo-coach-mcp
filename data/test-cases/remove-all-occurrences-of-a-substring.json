@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1910.删除一个字符串中所有出现的给定子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"daabcbaabcbc\", part = \"abc\"",
+      "expected": "\"dab\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"axxxxyyyyb\", part = \"xy\"",
+      "expected": "\"ab\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

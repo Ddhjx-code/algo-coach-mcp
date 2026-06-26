@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3217.从链表中移除在数组中存在的节点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3], head = [1,2,3,4,5]",
+      "expected": "[4,5]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1], head = [1,2,1,2,1,2]",
+      "expected": "[2,2,2]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5], head = [1,2,3,4]",
+      "expected": "[1,2,3,4]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

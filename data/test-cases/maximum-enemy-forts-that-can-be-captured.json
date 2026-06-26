@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2511.最多可以摧毁的敌人城堡数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "forts = [1,0,0,-1,0,0,0,0,1]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "forts = [0,0,1,-1]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

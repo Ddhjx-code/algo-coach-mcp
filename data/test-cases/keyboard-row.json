@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0500.键盘行",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"Hello\",\"Alaska\",\"Dad\",\"Peace\"]",
+      "expected": "[\"Alaska\",\"Dad\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"omk\"]",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"adsdf\",\"sfd\"]",
+      "expected": "[\"adsdf\",\"sfd\"]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

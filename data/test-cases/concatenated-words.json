@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0472.连接词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"cat\",\"cats\",\"catsdogcats\",\"dog\",\"dogcatsdog\",\"hippopotamuses\",\"rat\",\"ratcatdogcat\"]",
+      "expected": "[\"catsdogcats\",\"dogcatsdog\",\"ratcatdogcat\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"cat\",\"dog\",\"catdog\"]",
+      "expected": "[\"catdog\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

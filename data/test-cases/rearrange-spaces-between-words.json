@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1592.重新排列单词间的空格",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "text = &quot; this is a sentence &quot;",
+      "expected": "&quot;this is a sentence&quot;",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot; practice makes perfect&quot;",
+      "expected": "&quot;practice makes perfect &quot;",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot;hello world&quot;",
+      "expected": "&quot;hello world&quot;",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot; walks udp package into bar a&quot;",
+      "expected": "&quot;walks udp package into bar a &quot;",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "text = &quot;a&quot;",
+      "expected": "&quot;a&quot;",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1366.通过投票对团队排名",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "votes = [\"ABC\",\"ACB\",\"ABC\",\"ACB\",\"ACB\"]",
+      "expected": "\"ACB\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "votes = [\"WXYZ\",\"XYZW\"]",
+      "expected": "\"XWYZ\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "votes = [\"ZMNAGUEDSJYLBOPHRQICWFXTVK\"]",
+      "expected": "\"ZMNAGUEDSJYLBOPHRQICWFXTVK\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

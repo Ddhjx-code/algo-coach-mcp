@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0764.最大加号标志",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5, mines = [[4, 2]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, mines = [[0, 0]]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

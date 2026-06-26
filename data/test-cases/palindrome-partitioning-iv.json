@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1745.分割回文串 IV",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcbdd\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bcbddxy\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0989.数组形式的整数加法",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = [1,2,0,0], k = 34",
+      "expected": "[1,2,3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = [2,7,4], k = 181",
+      "expected": "[4,5,5]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = [2,1,5], k = 806",
+      "expected": "[1,0,2,1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

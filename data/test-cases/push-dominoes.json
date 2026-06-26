@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0838.推多米诺",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "dominoes = \"RR.L\"",
+      "expected": "\"RR.L\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "dominoes = \".L.R...LR..L..\"",
+      "expected": "\"LL.RR.LLRRLL..\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

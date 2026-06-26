@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1648.销售价值减少的颜色球",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "inventory = [2,5], orders = 4",
+      "expected": "14",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "inventory = [3,5], orders = 6",
+      "expected": "19",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "inventory = [2,8,4,10,6], orders = 20",
+      "expected": "110",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "inventory = [1000000000], orders = 1000000000",
+      "expected": "21",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

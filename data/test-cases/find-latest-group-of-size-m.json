@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1562.查找大小为 M 的最新分组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [3,5,1,2,4], m = 1",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [3,1,5,4,2], m = 2",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1], m = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [2,1], m = 2",
+      "expected": "2",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

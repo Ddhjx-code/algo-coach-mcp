@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1855.下标对中的最大距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [55,30,5,4,2], nums2 = [100,20,10,10,5]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [2,2,2], nums2 = [10,10,1]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [30,29,19,5], nums2 = [25,25,25,25,25]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

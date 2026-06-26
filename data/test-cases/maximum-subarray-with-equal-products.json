@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3411.最长乘积等价子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,1,2,1,1,1]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3,4,5,6]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,1,4,5,1]",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

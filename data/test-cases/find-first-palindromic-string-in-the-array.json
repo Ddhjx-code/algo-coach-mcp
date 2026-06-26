@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2108.找出数组中的第一个回文字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"abc\",\"car\",\"ada\",\"racecar\",\"cool\"]",
+      "expected": "\"ada\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"notapalindrome\",\"racecar\"]",
+      "expected": "\"racecar\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"def\",\"ghi\"]",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

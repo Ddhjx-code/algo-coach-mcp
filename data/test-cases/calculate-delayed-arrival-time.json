@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2651.计算列车到站时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arrivalTime = 15, delayedTime = 5",
+      "expected": "20",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arrivalTime = 13, delayedTime = 11",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

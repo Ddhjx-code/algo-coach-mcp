@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0857.雇佣 K 名工人的最低成本",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "quality = [10,20,5], wage = [70,50,30], k = 2",
+      "expected": "105.00000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "quality = [3,1,10,10,1], wage = [4,8,2,2,7], k = 3",
+      "expected": "30.66667",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

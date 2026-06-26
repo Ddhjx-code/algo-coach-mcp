@@ -1,0 +1,12 @@
+{
+  "problemSlug": "2080.区间内查询数字的频率",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"RangeFreqQuery\", \"query\", \"query\"] [[[12, 33, 4, 56, 22, 2, 34, 33, 22, 12, 34, 56]], [1, 2, 4], [0, 11, 33]]",
+      "expected": "[null, 1, 2]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0166.分数到小数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "numerator = 1, denominator = 2",
+      "expected": "\"0.5\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "numerator = 2, denominator = 1",
+      "expected": "\"2\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "numerator = 4, denominator = 333",
+      "expected": "\"0.(012)\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

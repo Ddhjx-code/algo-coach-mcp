@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3163.压缩字符串 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"abcde\"",
+      "expected": "\"1a1b1c1d1e\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"aaaaaaaaaaaaaabb\"",
+      "expected": "\"9a5a2b\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

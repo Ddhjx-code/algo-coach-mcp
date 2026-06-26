@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0202.快乐数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 19",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

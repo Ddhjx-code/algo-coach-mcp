@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1405.最长快乐字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = 1, b = 1, c = 7",
+      "expected": "&quot;ccaccbcc&quot;",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = 2, b = 2, c = 1",
+      "expected": "&quot;aabbc&quot;",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "a = 7, b = 1, c = 0",
+      "expected": "&quot;aabaa&quot;",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

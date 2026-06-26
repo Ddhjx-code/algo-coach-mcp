@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2120.执行所有后缀指令",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, startPos = [0,1], s = \"RRDDLU\"",
+      "expected": "[1,5,4,3,1,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, startPos = [1,1], s = \"LURD\"",
+      "expected": "[4,1,0,0]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, startPos = [0,0], s = \"LRUD\"",
+      "expected": "[0,0,0,0]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

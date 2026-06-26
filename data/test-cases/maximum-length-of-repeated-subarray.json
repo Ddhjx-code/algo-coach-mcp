@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0718.最长重复子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [1,2,3,2,1], nums2 = [3,2,1,4,7]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [0,0,0,0,0], nums2 = [0,0,0,0,0]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

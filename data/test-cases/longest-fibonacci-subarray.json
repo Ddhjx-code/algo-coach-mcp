@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3708.最长斐波那契子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,1,1,2,3,5,1]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,2,7,9,16]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1000000000,1000000000,1000000000]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

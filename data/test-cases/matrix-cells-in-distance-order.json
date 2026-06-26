@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1030.距离顺序排列矩阵单元格",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "rows = 1, cols = 2, rCenter = 0, cCenter = 0",
+      "expected": "[[0,0],[0,1]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "rows = 2, cols = 2, rCenter = 0, cCenter = 1",
+      "expected": "[[0,1],[0,0],[1,1],[1,0]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "rows = 2, cols = 3, rCenter = 1, cCenter = 2",
+      "expected": "[[1,2],[0,2],[1,1],[0,1],[1,0],[0,0]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

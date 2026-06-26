@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2197.替换数组中的非互质数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [6,4,3,2,7,6,2]",
+      "expected": "[12,7,6]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2,1,1,3,3,3]",
+      "expected": "[2,1,1,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

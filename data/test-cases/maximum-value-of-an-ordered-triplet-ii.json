@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2874.有序三元组中的最大值 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [12,6,1,2,7]",
+      "expected": "77",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,10,3,4,19]",
+      "expected": "133",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

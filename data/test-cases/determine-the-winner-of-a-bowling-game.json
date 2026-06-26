@@ -1,0 +1,30 @@
+{
+  "problemSlug": "2660.保龄球游戏的获胜者",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "player1 = [5,10,3,2], player2 = [6,5,7,3]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "player1 = [3,5,7,6], player2 = [8,10,10,2]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "player1 = [2,3], player2 = [4,1]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "player1 = [1,1,1,10,10,10,10], player2 = [10,10,10,10,1,1,1]",
+      "expected": "2",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

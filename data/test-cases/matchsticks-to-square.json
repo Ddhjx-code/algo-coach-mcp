@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0473.火柴拼正方形",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matchsticks = [1,1,2,2,2]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matchsticks = [3,3,3,3,4]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

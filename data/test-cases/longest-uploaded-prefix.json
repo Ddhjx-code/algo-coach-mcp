@@ -1,0 +1,12 @@
+{
+  "problemSlug": "2424.最长上传前缀",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"LUPrefix\", \"upload\", \"longest\", \"upload\", \"longest\", \"upload\", \"longest\"] [[4], [3], [], [1], [], [2], []]",
+      "expected": "[null, null, 0, null, 1, null, 3]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

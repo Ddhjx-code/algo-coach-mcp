@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3821.二进制中恰好K个1的第N小整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, k = 2",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, k = 1",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

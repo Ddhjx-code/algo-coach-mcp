@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0775.全局倒置与局部倒置",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,0,2]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,0]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

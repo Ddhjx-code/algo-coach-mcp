@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0933.最近的请求次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"RecentCounter\", \"ping\", \"ping\", \"ping\", \"ping\"] [[], [1], [100], [3001], [3002]]",
+      "expected": "[null, 1, 2, 3, 3]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

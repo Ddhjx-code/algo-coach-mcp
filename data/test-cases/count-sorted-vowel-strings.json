@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1641.统计字典序元音字符串的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "15",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 33",
+      "expected": "66045",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

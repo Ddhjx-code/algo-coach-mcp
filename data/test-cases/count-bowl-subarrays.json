@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3676.碗子数组的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,5,3,1,4]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,1,2,3,4]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1000000000,999999999,999999998]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0858.镜面反射",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "p = 2, q = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

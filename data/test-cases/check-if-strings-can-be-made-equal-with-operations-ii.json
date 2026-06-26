@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2840.判断通过操作能否让字符串相等 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"abcdba\", s2 = \"cabdab\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"abe\", s2 = \"bea\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

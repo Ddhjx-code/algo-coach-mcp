@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2496.数组中字符串的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "strs = [\"alic3\",\"bob\",\"3\",\"4\",\"00000\"]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"1\",\"01\",\"001\",\"0001\"]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3579.字符串转换需要的最小操作数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"abcdf\", word2 = \"dacbe\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abceded\", word2 = \"baecfef\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abcdef\", word2 = \"fedabc\"",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

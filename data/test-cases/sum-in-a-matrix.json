@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2679.矩阵中的和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [[7,2,1],[6,4,2],[6,5,3],[3,2,1]]",
+      "expected": "15",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [[1]]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

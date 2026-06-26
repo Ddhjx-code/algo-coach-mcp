@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2410.运动员和训练师的最大匹配数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "players = [4,7,9], trainers = [8,2,5,8]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "players = [1,1,1], trainers = [10]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

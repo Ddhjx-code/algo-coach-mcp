@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1139.最大的以 1 为边界的正方形",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,1,1],[1,0,1],[1,1,1]]",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,1,0,0]]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

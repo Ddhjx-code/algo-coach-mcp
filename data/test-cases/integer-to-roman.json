@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0012.整数转罗马数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 3749",
+      "expected": "\"MMMDCCXLIX\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 58",
+      "expected": "\"LVIII\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 1994",
+      "expected": "\"MCMXCIV\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

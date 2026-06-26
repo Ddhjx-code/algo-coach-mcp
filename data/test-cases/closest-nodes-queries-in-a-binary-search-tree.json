@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2476.二叉搜索树最近节点查询",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [6,2,13,1,4,9,15,null,null,null,null,null,null,14], queries = [2,5,16]",
+      "expected": "[[2,2],[4,6],[15,-1]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [4,null,9], queries = [3]",
+      "expected": "[[-1,4]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

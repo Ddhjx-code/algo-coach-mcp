@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2486.追加字符以获得子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"coaching\", t = \"coding\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcde\", t = \"a\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"z\", t = \"abcde\"",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

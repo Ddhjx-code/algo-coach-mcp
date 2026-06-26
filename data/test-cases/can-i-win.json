@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0464.我能赢吗",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "maxChoosableInteger = 10, desiredTotal = 11",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "maxChoosableInteger = 10, desiredTotal = 0",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "maxChoosableInteger = 10, desiredTotal = 1",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

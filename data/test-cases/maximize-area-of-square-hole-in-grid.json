@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2943.最大化网格图中正方形空洞的面积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, m = 1, hBars = [2,3], vBars = [2]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, m = 1, hBars = [2], vBars = [2]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, m = 3, hBars = [2,3], vBars = [2,4]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0609.在系统中查找重复文件",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "paths = [\"root/a 1.txt(abcd) 2.txt(efgh)\",\"root/c 3.txt(abcd)\",\"root/c/d 4.txt(efgh)\",\"root 4.txt(efgh)\"]",
+      "expected": "[[\"root/a/2.txt\",\"root/c/d/4.txt\",\"root/4.txt\"],[\"root/a/1.txt\",\"root/c/3.txt\"]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "paths = [\"root/a 1.txt(abcd) 2.txt(efgh)\",\"root/c 3.txt(abcd)\",\"root/c/d 4.txt(efgh)\"]",
+      "expected": "[[\"root/a/2.txt\",\"root/c/d/4.txt\"],[\"root/a/1.txt\",\"root/c/3.txt\"]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

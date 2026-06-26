@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1752.检查数组是否经排序和轮转得到",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,4,5,1,2]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,1,3,4]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

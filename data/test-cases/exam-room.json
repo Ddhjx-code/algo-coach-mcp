@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0855.考场就座",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"ExamRoom\", \"seat\", \"seat\", \"seat\", \"seat\", \"leave\", \"seat\"] [[10], [], [], [], [], [4], []]",
+      "expected": "[null, 0, 9, 4, 2, null, 5]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

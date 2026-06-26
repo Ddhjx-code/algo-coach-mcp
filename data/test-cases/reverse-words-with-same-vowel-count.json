@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3775.反转元音数相同的单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"cat and mice\"",
+      "expected": "\"cat dna mice\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"book is nice\"",
+      "expected": "\"book is ecin\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"banana healthy\"",
+      "expected": "\"banana healthy\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

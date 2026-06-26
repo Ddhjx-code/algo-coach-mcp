@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0847.访问所有节点的最短路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "graph = [[1,2,3],[0],[0],[0]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "graph = [[1],[0,2,4],[1,3,4],[2],[1,2]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

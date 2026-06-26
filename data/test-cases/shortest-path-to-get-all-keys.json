@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0864.获取所有钥匙的最短路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [\"@.a..\",\"###.#\",\"b.A.B\"]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [\"@..aA\",\"..B#.\",\"....b\"]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [\"@Aa\"]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

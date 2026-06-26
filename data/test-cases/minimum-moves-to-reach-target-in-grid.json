@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3609.到达目标点的最小移动次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sx = 1, sy = 2, tx = 5, ty = 4",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sx = 0, sy = 1, tx = 2, ty = 3",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "sx = 1, sy = 1, tx = 2, ty = 2",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

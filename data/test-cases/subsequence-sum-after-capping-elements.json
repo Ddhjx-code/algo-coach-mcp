@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3685.含上限元素的子序列和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,3,2,4], k = 5",
+      "expected": "[false,false,true,true]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4,5], k = 3",
+      "expected": "[true,true,true,true,true]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

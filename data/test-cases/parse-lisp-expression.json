@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0736.Lisp 语法解析",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "expression = \"(let x 2 (mult x (let x 3 y 4 (add x y))))\"",
+      "expected": "14",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"(let x 3 x 2 x)\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "expression = \"(let x 1 y 2 x (add x y) (add x y))\"",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

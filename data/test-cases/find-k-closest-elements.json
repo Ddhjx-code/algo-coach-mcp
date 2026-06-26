@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0658.找到 K 个最接近的元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [1,2,3,4,5], k = 4, x = 3",
+      "expected": "[1,2,3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,1,2,3,4,5], k = 4, x = -1",
+      "expected": "[1,1,2,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

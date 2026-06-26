@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3170.删除星号以后字典序最小的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aaba*\"",
+      "expected": "\"aab\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc\"",
+      "expected": "\"abc\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

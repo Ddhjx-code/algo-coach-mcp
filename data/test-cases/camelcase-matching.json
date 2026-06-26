@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1023.驼峰式匹配",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "queries = [\"FooBar\",\"FooBarTest\",\"FootBall\",\"FrameBuffer\",\"ForceFeedBack\"], pattern = \"FB\"",
+      "expected": "[true,false,true,true,false]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "queries = [\"FooBar\",\"FooBarTest\",\"FootBall\",\"FrameBuffer\",\"ForceFeedBack\"], pattern = \"FoBa\"",
+      "expected": "[true,false,true,false,false]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "queries = [\"FooBar\",\"FooBarTest\",\"FootBall\",\"FrameBuffer\",\"ForceFeedBack\"], pattern = \"FoBaT\"",
+      "expected": "[false,true,false,false,false]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

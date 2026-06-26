@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1036.逃离大迷宫",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "blocked = [[0,1],[1,0]], source = [0,0], target = [0,2]",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "blocked = [], source = [0,0], target = [999999,999999]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

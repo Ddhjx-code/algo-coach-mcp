@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3683.完成一个任务的最早时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "tasks = [[1,6],[2,3]]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "tasks = [[100,100],[100,100],[100,100]]",
+      "expected": "200",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

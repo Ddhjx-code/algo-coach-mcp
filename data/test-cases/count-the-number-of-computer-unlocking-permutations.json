@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3577.统计计算机解锁顺序排列数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "complexity = [1,2,3]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "complexity = [3,3,3,4,4,4]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

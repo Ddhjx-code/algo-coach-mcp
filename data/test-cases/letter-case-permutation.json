@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0784.字母大小写全排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"a1b2\"",
+      "expected": "[\"a1b2\", \"a1B2\", \"A1b2\", \"A1B2\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"3z4\"",
+      "expected": "[\"3z4\",\"3Z4\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0884.两句话中的不常见单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"this apple is sweet\", s2 = \"this apple is sour\"",
+      "expected": "[\"sweet\",\"sour\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"apple apple\", s2 = \"banana\"",
+      "expected": "[\"banana\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

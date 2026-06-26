@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0564.寻找最近的回文数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = \"123\"",
+      "expected": "\"121\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = \"1\"",
+      "expected": "\"0\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

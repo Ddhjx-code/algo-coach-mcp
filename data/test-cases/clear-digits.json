@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3174.清除数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abc\"",
+      "expected": "\"abc\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"cb34\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

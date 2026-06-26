@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0859.亲密字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"ab\", goal = \"ba\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ab\", goal = \"ab\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aa\", goal = \"aa\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

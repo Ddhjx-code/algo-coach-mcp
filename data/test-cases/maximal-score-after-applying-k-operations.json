@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2530.执行 K 次操作后的最大分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [10,10,10,10,10], k = 5",
+      "expected": "50",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,10,3,3,3], k = 3",
+      "expected": "17",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

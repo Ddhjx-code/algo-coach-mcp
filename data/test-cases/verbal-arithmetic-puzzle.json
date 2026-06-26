@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1307.口算难题",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [&quot;SEND&quot;,&quot;MORE&quot;], result = &quot;MONEY&quot;",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [&quot;SIX&quot;,&quot;SEVEN&quot;,&quot;SEVEN&quot;], result = &quot;TWENTY&quot;",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [&quot;THIS&quot;,&quot;IS&quot;,&quot;TOO&quot;], result = &quot;FUNNY&quot;",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "words = [&quot;LEET&quot;,&quot;CODE&quot;], result = &quot;POINT&quot;",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3940.限制有序数组中的元素出现次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,1,2,2,3], k = 2",
+      "expected": "[1,1,2,2,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3], k = 1",
+      "expected": "[1,2,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

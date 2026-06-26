@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0344.反转字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = [\"h\",\"e\",\"l\",\"l\",\"o\"]",
+      "expected": "[\"o\",\"l\",\"l\",\"e\",\"h\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = [\"H\",\"a\",\"n\",\"n\",\"a\",\"h\"]",
+      "expected": "[\"h\",\"a\",\"n\",\"n\",\"a\",\"H\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

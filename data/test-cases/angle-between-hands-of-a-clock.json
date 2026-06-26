@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1344.时钟指针的夹角",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "hour = 12, minutes = 30",
+      "expected": "165",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "hour = 3, minutes = 15",
+      "expected": "7.5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "hour = 4, minutes = 50",
+      "expected": "155",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "hour = 12, minutes = 0",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

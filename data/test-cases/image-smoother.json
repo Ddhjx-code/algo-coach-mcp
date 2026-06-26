@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0661.图片平滑器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "img = [[1,1,1],[1,0,1],[1,1,1]]",
+      "expected": "[[0, 0, 0],[0, 0, 0], [0, 0, 0]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "img = [[100,200,100],[200,50,200],[100,200,100]]",
+      "expected": "[[137,141,137],[141,138,141],[137,141,137]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1960.两个回文子字符串长度的最大乘积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"ababbb\"",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"zaaaxbbby\"",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

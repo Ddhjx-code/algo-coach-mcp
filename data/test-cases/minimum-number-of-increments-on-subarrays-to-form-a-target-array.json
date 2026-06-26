@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1526.形成目标数组的子数组最少增加次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "target = [1,2,3,2,1]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "target = [3,1,1,2]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "target = [3,1,5,4,2]",
+      "expected": "7",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "target = [1,1,1,1]",
+      "expected": "1",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

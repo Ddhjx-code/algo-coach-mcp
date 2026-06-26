@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0133.克隆图",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "adjList = [[2,4],[1,3],[2,4],[1,3]]",
+      "expected": "[[2,4],[1,3],[2,4],[1,3]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "adjList = [[]]",
+      "expected": "[[]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "adjList = []",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

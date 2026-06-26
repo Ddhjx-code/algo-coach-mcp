@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2535.数组元素和与数字和的绝对差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,15,6,3]",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

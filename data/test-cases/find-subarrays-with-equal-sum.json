@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2395.和相等的子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,2,4]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4,5]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,0,0]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

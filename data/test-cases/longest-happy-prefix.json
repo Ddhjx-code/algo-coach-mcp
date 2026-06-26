@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1392.最长快乐前缀",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"level\"",
+      "expected": "\"l\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ababab\"",
+      "expected": "\"abab\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

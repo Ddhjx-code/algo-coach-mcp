@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3722.反转后字典序最小的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"dcab\"",
+      "expected": "\"acdb\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abba\"",
+      "expected": "\"aabb\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"zxy\"",
+      "expected": "\"xzy\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3698.分割数组得到最小绝对差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,3,2]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,4,3]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,1,2]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

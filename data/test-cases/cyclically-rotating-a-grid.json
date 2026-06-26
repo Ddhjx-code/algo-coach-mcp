@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1914.循环轮转矩阵",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[40,10],[30,20]], k = 1",
+      "expected": "[[10,20],[40,30]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]], k = 2",
+      "expected": "[[3,4,8,12],[2,11,10,16],[1,7,6,15],[5,9,13,14]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "problemSlug": "1603.设计停车系统",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"ParkingSystem\", \"addCar\", \"addCar\", \"addCar\", \"addCar\"] [[1, 1, 0], [1], [2], [3], [1]]",
+      "expected": "[null, true, true, false, false]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

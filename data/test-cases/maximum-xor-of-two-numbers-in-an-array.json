@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0421.数组中两个数的最大异或值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,10,5,25,2,8]",
+      "expected": "28",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [14,70,53,83,49,91,36,80,92,51,66,70]",
+      "expected": "127",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

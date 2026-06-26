@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3407.子字符串匹配模式",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leetcode\", p = \"ee*e\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"car\", p = \"c*v\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"luck\", p = \"u*\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

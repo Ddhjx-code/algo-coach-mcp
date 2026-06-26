@@ -1,0 +1,36 @@
+{
+  "problemSlug": "2056.棋盘上有效移动组合的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "pieces = [\"rook\"], positions = [[1,1]]",
+      "expected": "15",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "pieces = [\"queen\"], positions = [[1,1]]",
+      "expected": "22",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "pieces = [\"bishop\"], positions = [[4,3]]",
+      "expected": "12",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "pieces = [\"rook\",\"rook\"], positions = [[1,1],[8,8]]",
+      "expected": "223",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "pieces = [\"queen\",\"bishop\"], positions = [[5,7],[3,4]]",
+      "expected": "281",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

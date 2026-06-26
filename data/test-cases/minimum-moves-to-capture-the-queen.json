@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3001.捕获黑皇后需要的最少移动次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = 1, b = 1, c = 8, d = 8, e = 2, f = 3",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = 5, b = 3, c = 3, d = 4, e = 5, f = 2",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

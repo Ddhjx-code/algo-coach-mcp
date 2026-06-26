@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1800.最大升序子数组和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [10,20,30,5,10,50]",
+      "expected": "65",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,20,30,40,50]",
+      "expected": "150",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [12,17,15,13,10,11,12]",
+      "expected": "33",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

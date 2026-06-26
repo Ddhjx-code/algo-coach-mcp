@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0551.学生出勤记录 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"PPALLP\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"PPALLL\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1208.尽可能使字符串相等",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcd\", t = \"bcdf\", maxCost = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\", t = \"cdef\", maxCost = 3",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\", t = \"acde\", maxCost = 0",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

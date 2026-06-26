@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0495.提莫攻击",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "timeSeries = [1,4], duration = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "timeSeries = [1,2], duration = 2",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

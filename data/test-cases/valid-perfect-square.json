@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0367.有效的完全平方数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 16",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 14",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

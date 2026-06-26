@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2064.分配给商店的最多商品的最小值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 6, quantities = [11,6]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 7, quantities = [15,10,10]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, quantities = [100000]",
+      "expected": "100000",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

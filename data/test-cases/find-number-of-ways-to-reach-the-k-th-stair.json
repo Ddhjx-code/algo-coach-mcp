@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3154.到达第 K 级台阶的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 0",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 1",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

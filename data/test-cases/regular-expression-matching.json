@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0010.正则表达式匹配",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aa\", p = \"a\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aa\", p = \"a*\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ab\", p = \".*\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

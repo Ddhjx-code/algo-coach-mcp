@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3723.数位平方和的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 2, sum = 3",
+      "expected": "\"30\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 2, sum = 17",
+      "expected": "\"98\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 1, sum = 10",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

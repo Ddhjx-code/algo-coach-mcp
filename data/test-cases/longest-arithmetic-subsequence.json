@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1027.最长等差数列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,6,9,12]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [9,4,7,2,10]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [20,1,15,3,10,5,8]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

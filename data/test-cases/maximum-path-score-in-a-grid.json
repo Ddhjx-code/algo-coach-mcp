@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3742.网格中得分最大的路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[0, 1],[2, 0]], k = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[0, 1],[1, 2]], k = 1",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

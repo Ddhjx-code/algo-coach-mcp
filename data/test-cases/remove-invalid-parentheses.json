@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0301.删除无效的括号",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"()())()\"",
+      "expected": "[\"(())()\",\"()()()\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"(a)())()\"",
+      "expected": "[\"(a())()\",\"(a)()()\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \")(\"",
+      "expected": "[\"\"]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

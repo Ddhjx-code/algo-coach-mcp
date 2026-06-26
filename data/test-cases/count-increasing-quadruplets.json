@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2552.统计上升四元组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,3,2,4,5]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

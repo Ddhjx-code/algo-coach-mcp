@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1776.车队 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "cars = [[1,2],[2,1],[4,3],[7,2]]",
+      "expected": "[1.00000,-1.00000,3.00000,-1.00000]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "cars = [[3,4],[5,4],[6,3],[9,1]]",
+      "expected": "[2.00000,1.00000,1.50000,-1.00000]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

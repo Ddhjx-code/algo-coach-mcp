@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3455.最短匹配子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abaacbaecebce\", p = \"ba*c*ce\"",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"baccbaadbc\", p = \"cc*baa*adb\"",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a\", p = \"**\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"madlogic\", p = \"*adlogi*\"",
+      "expected": "6",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

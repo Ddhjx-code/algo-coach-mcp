@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2900.最长相邻不相等子序列 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"e\",\"a\",\"b\"], groups = [0,0,1]",
+      "expected": "[\"e\",\"b\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"a\",\"b\",\"c\",\"d\"], groups = [1,0,1,1]",
+      "expected": "[\"a\",\"b\",\"c\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2166.设计位集",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Bitset\",\"fix\",\"fix\",\"flip\",\"all\",\"unfix\",\"flip\",\"one\",\"unfix\",\"count\",\"toString\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[5],[3],[1],[],[],[0],[],[],[0],[],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

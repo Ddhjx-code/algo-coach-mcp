@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3303.第一个几乎相等子字符串的下标",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcdefg\", pattern = \"bcdffg\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ababbababa\", pattern = \"bacaba\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\", pattern = \"dba\"",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"dde\", pattern = \"d\"",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

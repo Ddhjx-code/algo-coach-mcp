@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0880.索引处的解码字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leet2code3\", k = 10",
+      "expected": "\"o\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ha22\", k = 5",
+      "expected": "\"h\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a2345678999999999999999\", k = 1",
+      "expected": "\"a\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

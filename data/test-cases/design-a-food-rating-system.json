@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2353.设计食物评分系统",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"FoodRatings\",\"highestRated\",\"highestRated\",\"changeRating\",\"highestRated\",\"changeRating\",\"highestRated\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[[\"kimchi\",\"miso\",\"sushi\",\"moussaka\",\"ramen\",\"bulgogi\"],[\"korean\",\"japanese\",\"japanese\",\"greek\",\"japanese\",\"korean\"],[9,12,8,15,14,7]],[\"korean\"],[\"japanese\"],[\"sushi\",16],[\"japanese\"],[\"ramen\",16],[\"japanese\"]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

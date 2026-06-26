@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2663.字典序最小的美丽字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcz\", k = 26",
+      "expected": "\"abda\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"dc\", k = 4",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

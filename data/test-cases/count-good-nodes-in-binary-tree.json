@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1448.统计二叉树中好节点的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [3,1,4,3,null,1,5]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [3,3,null,4,2]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

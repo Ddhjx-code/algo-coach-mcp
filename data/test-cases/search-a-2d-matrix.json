@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0074.搜索二维矩阵",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

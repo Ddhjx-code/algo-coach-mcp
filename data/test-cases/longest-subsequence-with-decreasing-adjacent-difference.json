@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3409.最长相邻绝对差递减子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [16,6,3]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [6,5,3,4,2,1]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,20,10,19,10,20]",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

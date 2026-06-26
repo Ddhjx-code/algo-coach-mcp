@@ -1,0 +1,12 @@
+{
+  "problemSlug": "1845.座位预约管理系统",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"SeatManager\", \"reserve\", \"reserve\", \"unreserve\", \"reserve\", \"reserve\", \"reserve\", \"reserve\", \"unreserve\"] [[5], [], [], [2], [], [], [], [], [5]]",
+      "expected": "[null, 1, 2, null, 2, 3, 4, 5, null]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

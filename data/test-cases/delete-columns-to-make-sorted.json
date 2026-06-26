@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0944.删列造序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "strs = [\"cba\",\"daf\",\"ghi\"]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"a\",\"b\"]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"zyx\",\"wvu\",\"tsr\"]",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2468.根据限制分割消息",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "message = \"this is really a very awesome message\", limit = 9",
+      "expected": "[\"thi&lt;1/14&gt;\",\"s i&lt;2/14&gt;\",\"s r&lt;3/14&gt;\",\"eal&lt;4/14&gt;\",\"ly &lt;5/14&gt;\",\"a v&lt;6/14&gt;\",\"ery&lt;7/14&gt;\",\" aw&lt;8/14&gt;\",\"eso&lt;9/14&gt;\",\"me&lt;10/14&gt;\",\" m&lt;11/14&gt;\",\"es&lt;12/14&gt;\",\"sa&lt;13/14&gt;\",\"ge&lt;14/14&gt;\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "message = \"short message\", limit = 15",
+      "expected": "[\"short mess&lt;1/2&gt;\",\"age&lt;2/2&gt;\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

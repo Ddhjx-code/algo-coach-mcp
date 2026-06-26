@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3398.字符相同的最短子字符串 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"000001\", numOps = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0000\", numOps = 2",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0101\", numOps = 0",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

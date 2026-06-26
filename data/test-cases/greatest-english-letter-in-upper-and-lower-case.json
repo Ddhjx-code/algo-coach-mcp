@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2309.兼具大小写的最好英文字母",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"l Ee TcOd E \"",
+      "expected": "\"E\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a rR AzFif\"",
+      "expected": "\"R\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"AbCdEfGhIjK\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

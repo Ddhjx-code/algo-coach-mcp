@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1520.最多的不重叠子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"adefaddaccc\"",
+      "expected": "[\"e\",\"f\",\"ccc\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abbaccd\"",
+      "expected": "[\"d\",\"bb\",\"cc\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

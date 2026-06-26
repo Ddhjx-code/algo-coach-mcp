@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2656.K 个元素的最大和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,5], k = 3",
+      "expected": "18",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,5,5], k = 2",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

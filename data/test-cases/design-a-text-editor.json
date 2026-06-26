@@ -1,0 +1,12 @@
+{
+  "problemSlug": "2296.设计一个文本编辑器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"TextEditor\", \"addText\", \"deleteText\", \"addText\", \"cursorRight\", \"cursorLeft\", \"deleteText\", \"cursorLeft\", \"cursorRight\"] [[], [\"leetcode\"], [4], [\"practice\"], [3], [8], [10], [2], [6]]",
+      "expected": "[null, null, 4, null, \"etpractice\", \"leet\", 4, \"\", \"practi\"]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

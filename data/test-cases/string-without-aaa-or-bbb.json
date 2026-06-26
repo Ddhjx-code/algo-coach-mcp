@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0984.不含 AAA 或 BBB 的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = 1, b = 2",
+      "expected": "\"abb\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = 4, b = 1",
+      "expected": "\"aabaa\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

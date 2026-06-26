@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2135.统计追加字母可以获得的单词数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "startWords = [\"ant\",\"act\",\"tack\"], targetWords = [\"tack\",\"act\",\"acti\"]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "startWords = [\"ab\",\"a\"], targetWords = [\"abc\",\"abcd\"]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

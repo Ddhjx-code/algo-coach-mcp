@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3690.拆分合并数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [3,1,2], nums2 = [1,2,3]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [1,1,2,3,4,5] , nums2 = [5,4,3,2,1,1]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0284.窥视迭代器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"PeekingIterator\", \"next\", \"peek\", \"next\", \"next\", \"hasNext\"] [[[1, 2, 3]], [], [], [], [], []]",
+      "expected": "[null, 1, 2, 2, 3, false]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

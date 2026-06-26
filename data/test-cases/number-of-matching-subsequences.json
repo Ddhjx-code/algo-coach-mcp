@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0792.匹配子序列的单词数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcde\", words = [\"a\",\"bb\",\"acd\",\"ace\"]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"dsahjpjauf\", words = [\"ahjpjau\",\"ja\",\"ahbwzgqnuk\",\"tnmlanowax\"]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

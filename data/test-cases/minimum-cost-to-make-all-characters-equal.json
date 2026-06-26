@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2712.使所有字符相等的最小成本",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"0011\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"010101\"",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

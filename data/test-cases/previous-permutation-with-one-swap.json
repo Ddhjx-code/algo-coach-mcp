@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1053.交换一次的先前排列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [3,2,1]",
+      "expected": "[3,1,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,1,5]",
+      "expected": "[1,1,5]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,9,4,6,7]",
+      "expected": "[1,7,4,6,9]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

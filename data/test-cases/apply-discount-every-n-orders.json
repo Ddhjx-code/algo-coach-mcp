@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1357.每隔 n 个顾客打折",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Cashier\",\"getBill\",\"getBill\",\"getBill\",\"getBill\",\"getBill\",\"getBill\",\"getBill\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[3,50,[1,2,3,4,5,6,7],[100,200,300,400,300,200,100]],[[1,2],[1,2]],[[3,7],[10,10]],[[1,2,3,4,5,6,7],[1,1,1,1,1,1,1]],[[4],[10]],[[7,3],[10,10]],[[7,5,3,1,6,4,2],[10,10,10,9,9,9,7]],[[2,3,5],[5,3,2]]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

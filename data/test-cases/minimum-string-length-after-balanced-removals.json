@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3746.等量移除后的字符串最小长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aabbab\"",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aaaa\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aaabb\"",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

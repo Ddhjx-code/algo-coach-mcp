@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2454.下一个更大元素 IV",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,4,0,9,6]",
+      "expected": "[9,6,6,-1,-1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,3]",
+      "expected": "[-1,-1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

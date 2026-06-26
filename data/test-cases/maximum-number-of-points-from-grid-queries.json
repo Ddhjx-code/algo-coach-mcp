@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2503.矩阵查询可获得的最大分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,2,3],[2,5,7],[3,5,1]], queries = [5,6,2]",
+      "expected": "[5,8,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[5,2,1],[1,1,2]], queries = [3]",
+      "expected": "[0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

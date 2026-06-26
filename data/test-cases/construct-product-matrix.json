@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2906.构造乘积矩阵",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,2],[3,4]]",
+      "expected": "[[24,12],[8,6]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[12345],[2],[1]]",
+      "expected": "[[2],[0],[0]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

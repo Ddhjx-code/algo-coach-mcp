@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0115.不同的子序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"rabbbit\", t = \"rabbit\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"babgbag\", t = \"bag\"",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

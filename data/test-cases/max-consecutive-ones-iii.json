@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1004.最大连续1的个数 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,1,0,0,0,1,1,1,1,0], K = 2",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1], K = 3",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2462.雇佣 K 位工人的总代价",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "costs = [17,12,10,2,7,2,11,20,8], k = 3, candidates = 4",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "costs = [1,2,4,1], k = 3, candidates = 3",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1190.反转每对括号间的子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"(abcd)\"",
+      "expected": "\"dcba\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"(u(love)i)\"",
+      "expected": "\"iloveu\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"(ed(et(oc))el)\"",
+      "expected": "\"leetcode\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

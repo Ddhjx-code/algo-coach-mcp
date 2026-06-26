@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2719.统计整数数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num1 = \"1\", num2 = \"12\", min_sum = 1, max_sum = 8",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num1 = \"1\", num2 = \"5\", min_sum = 1, max_sum = 5",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

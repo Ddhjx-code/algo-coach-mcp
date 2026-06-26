@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1467.两个盒子中球的颜色数相同的概率",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "balls = [1,1]",
+      "expected": "1.00000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "balls = [2,1,1]",
+      "expected": "0.66667",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "balls = [1,2,1,2]",
+      "expected": "0.60000",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

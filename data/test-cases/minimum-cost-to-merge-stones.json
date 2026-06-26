@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1000.合并石头的最低成本",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "stones = [3,2,4,1], K = 2",
+      "expected": "20",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [3,2,4,1], K = 3",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [3,5,1,2,6], K = 3",
+      "expected": "25",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

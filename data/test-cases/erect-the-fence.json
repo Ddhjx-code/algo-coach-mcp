@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0587.安装栅栏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[1,1],[2,2],[2,0],[2,4],[3,3],[4,2]]",
+      "expected": "[[1,1],[2,0],[3,3],[2,4],[4,2]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,2],[2,2],[4,2]]",
+      "expected": "[[4,2],[2,2],[1,2]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

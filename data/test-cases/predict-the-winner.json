@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0486.预测赢家",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,5,2]",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,5,233,7]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

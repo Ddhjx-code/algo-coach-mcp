@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3003.执行操作后的最大分割数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"accca\", k = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aabaab\", k = 3",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"xxyz\", k = 1",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

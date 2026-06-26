@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0022.括号生成",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3",
+      "expected": "[\"((()))\",\"(()())\",\"(())()\",\"()(())\",\"()()()\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "[\"()\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

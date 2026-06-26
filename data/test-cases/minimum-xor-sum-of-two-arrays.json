@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1879.两个数组最小的异或值之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [1,2], nums2 = [2,3]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [1,0,3], nums2 = [5,3,4]",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

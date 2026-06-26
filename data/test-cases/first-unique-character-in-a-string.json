@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0387.字符串中的第一个唯一字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leetcode\"",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"loveleetcode\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aabb\"",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

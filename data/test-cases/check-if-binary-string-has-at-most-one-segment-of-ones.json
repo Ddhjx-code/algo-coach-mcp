@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1784.检查二进制字符串字段",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1001\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"110\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

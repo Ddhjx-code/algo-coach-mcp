@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3211.生成不含相邻零的二进制字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3",
+      "expected": "[\"010\",\"011\",\"101\",\"110\",\"111\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "[\"0\",\"1\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

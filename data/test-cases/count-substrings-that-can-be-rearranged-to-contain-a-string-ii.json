@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3298.统计重新排列后包含另一个字符串的子字符串数目 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"bcca\", word2 = \"abc\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abcabc\", word2 = \"abc\"",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abcabc\", word2 = \"aaabc\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

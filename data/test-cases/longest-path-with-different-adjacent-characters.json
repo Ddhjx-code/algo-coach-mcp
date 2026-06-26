@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2246.相邻字符不同的最长路径",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "parent = [-1,0,0,1,1,2], s = \"abacbe\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "parent = [-1,0,0,0], s = \"aabc\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

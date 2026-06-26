@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1478.安排邮筒",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "houses = [1,4,8,10,20], k = 3",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "houses = [2,3,5,12,18], k = 2",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "houses = [7,4,6,1], k = 1",
+      "expected": "8",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "houses = [3,6,14,10], k = 4",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

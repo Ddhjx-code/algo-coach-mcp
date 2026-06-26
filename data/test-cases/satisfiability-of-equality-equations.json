@@ -1,0 +1,36 @@
+{
+  "problemSlug": "0990.等式方程的可满足性",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[&quot;a==b&quot;,&quot;b!=a&quot;]",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[&quot;b==a&quot;,&quot;a==b&quot;]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "[&quot;a==b&quot;,&quot;b==c&quot;,&quot;a==c&quot;]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "[&quot;a==b&quot;,&quot;b!=c&quot;,&quot;c==a&quot;]",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "[&quot;c==c&quot;,&quot;b==d&quot;,&quot;x!=z&quot;]",
+      "expected": "true",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

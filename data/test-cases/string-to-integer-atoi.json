@@ -1,0 +1,36 @@
+{
+  "problemSlug": "0008.字符串转换整数 (atoi)",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"42\"",
+      "expected": "42",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \" -042\"",
+      "expected": "-42",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \" 1337c0d3 \"",
+      "expected": "1337",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0-1\"",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"words and 987\"",
+      "expected": "0",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

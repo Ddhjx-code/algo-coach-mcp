@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1981.最小化目标值与所选元素的差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[1,2,3],[4,5,6],[7,8,9]], target = 13",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[1],[2],[3]], target = 100",
+      "expected": "94",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[1,2,9,8,7]], target = 6",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

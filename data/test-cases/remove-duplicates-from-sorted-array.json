@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0026.删除有序数组中的重复项",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,2]",
+      "expected": "2, nums = [1,2,_]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,0,1,1,1,2,2,3,3,4]",
+      "expected": "5, nums = [0,1,2,3,4,_,_,_,_,_]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

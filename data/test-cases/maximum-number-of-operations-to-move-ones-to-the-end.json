@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3228.将 1 移动到末尾的最大操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1001101\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"00111\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

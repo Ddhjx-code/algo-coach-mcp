@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0131.分割回文串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aab\"",
+      "expected": "[[\"a\",\"a\",\"b\"],[\"aa\",\"b\"]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a\"",
+      "expected": "[[\"a\"]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

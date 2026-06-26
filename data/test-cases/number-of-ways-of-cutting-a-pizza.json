@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1444.切披萨的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "pizza = [&quot;A..&quot;,&quot;AAA&quot;,&quot;...&quot;], k = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "pizza = [&quot;A..&quot;,&quot;AA.&quot;,&quot;...&quot;], k = 3",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "pizza = [&quot;A..&quot;,&quot;A..&quot;,&quot;...&quot;], k = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

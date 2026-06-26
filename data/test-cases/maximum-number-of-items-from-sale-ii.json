@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3947.购买最多物品数目 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "items = [[1,6],[2,4],[3,5]], budget = 19",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "items = [[2,8],[1,10],[6,6],[4,12],[5,20],[5,17]], budget = 35",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

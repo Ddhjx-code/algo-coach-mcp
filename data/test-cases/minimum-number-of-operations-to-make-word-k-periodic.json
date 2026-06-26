@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3137.K 周期字符串需要的最少操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"leetcodeleet\", k = 4",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"leetcoleet\", k = 2",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

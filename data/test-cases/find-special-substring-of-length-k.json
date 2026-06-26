@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3456.找出长度为 K 的特殊子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aaabaaa\", k = 3",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc\", k = 2",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2940.找到 Alice 和 Bob 可以相遇的建筑",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "heights = [6,4,8,5,2,7], queries = [[0,1],[0,3],[2,4],[3,4],[2,2]]",
+      "expected": "[2,5,-1,5,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "heights = [5,3,8,2,6,1,4,6], queries = [[0,7],[3,5],[5,2],[3,0],[1,6]]",
+      "expected": "[7,6,-1,4,6]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

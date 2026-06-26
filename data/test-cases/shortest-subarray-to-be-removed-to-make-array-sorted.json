@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1574.删除最短的子数组使剩余数组有序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [1,2,3,10,4,2,3,5]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [5,4,3,2,1]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,2,3]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1]",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

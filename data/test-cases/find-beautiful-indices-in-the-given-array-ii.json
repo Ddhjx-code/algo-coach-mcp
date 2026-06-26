@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3008.找出数组中的美丽下标 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"isawsquirrelnearmysquirrelhouseohmy\", a = \"my\", b = \"squirrel\", k = 15",
+      "expected": "[16,33]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\", a = \"a\", b = \"a\", k = 4",
+      "expected": "[0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

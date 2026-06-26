@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0110.平衡二叉树",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [3,9,20,null,null,15,7]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,2,2,3,3,null,null,4,4]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = []",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

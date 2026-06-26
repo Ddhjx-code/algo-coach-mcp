@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1464.数组中两元素的最大乘积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,4,5,2]",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,5,4,5]",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,7]",
+      "expected": "12",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

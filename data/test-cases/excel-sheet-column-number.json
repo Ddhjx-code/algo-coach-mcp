@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0171.Excel 表列序号",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "columnTitle = \"A\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "columnTitle = \"AB\"",
+      "expected": "28",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "columnTitle = \"ZY\"",
+      "expected": "701",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

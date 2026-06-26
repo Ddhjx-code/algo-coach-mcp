@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2347.最好的扑克手牌",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "ranks = [13,2,3,1,9], suits = [\"a\",\"a\",\"a\",\"a\",\"a\"]",
+      "expected": "\"Flush\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "ranks = [4,4,2,4,4], suits = [\"d\",\"a\",\"a\",\"b\",\"c\"]",
+      "expected": "\"Three of a Kind\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "ranks = [10,10,2,12,9], suits = [\"a\",\"b\",\"c\",\"a\",\"d\"]",
+      "expected": "\"Pair\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

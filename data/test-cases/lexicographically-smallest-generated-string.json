@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3474.字典序最小的生成字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "str1 = \"TFTF\", str2 = \"ab\"",
+      "expected": "\"ababa\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "str1 = \"TFTF\", str2 = \"abc\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "str1 = \"F\", str2 = \"d\"",
+      "expected": "\"a\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

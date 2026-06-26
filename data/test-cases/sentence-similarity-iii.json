@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1813.句子相似性 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sentence1 = \"My name is Haley\", sentence2 = \"My Haley\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sentence1 = \"of\", sentence2 = \"A lot of words\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "sentence1 = \"Eating right now\", sentence2 = \"Eating\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

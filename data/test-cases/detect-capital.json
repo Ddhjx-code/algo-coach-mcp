@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0520.检测大写字母",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"USA\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"FlaG\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

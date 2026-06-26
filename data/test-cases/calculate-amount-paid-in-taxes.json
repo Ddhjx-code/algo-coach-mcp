@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2303.计算应缴税款总额",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "brackets = [[3,50],[7,10],[12,25]], income = 10",
+      "expected": "2.65000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "brackets = [[1,0],[4,25],[5,50]], income = 2",
+      "expected": "0.25000",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "brackets = [[2,50]], income = 0",
+      "expected": "0.00000",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3355.零数组变换 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,0,1], queries = [[0,2]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,3,2,1], queries = [[1,3],[0,2]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

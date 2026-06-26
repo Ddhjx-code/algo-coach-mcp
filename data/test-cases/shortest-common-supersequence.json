@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1092.最短公共超序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "str1 = \"abac\", str2 = \"cab\"",
+      "expected": "\"cabac\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "str1 = \"aaaaaaaa\", str2 = \"aaaaaaaa\"",
+      "expected": "\"aaaaaaaa\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

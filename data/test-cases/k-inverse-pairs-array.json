@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0629.K 个逆序对数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 0",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, k = 1",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

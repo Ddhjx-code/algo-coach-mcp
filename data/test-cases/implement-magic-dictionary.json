@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0676.实现一个魔法字典",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"MagicDictionary\", \"buildDict\", \"search\", \"search\", \"search\", \"search\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[], [[\"hello\",\"leetcode\"]], [\"hello\"], [\"hhllo\"], [\"hell\"], [\"leetcoded\"]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2614.对角线上的质数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [[1,2,3],[5,6,7],[9,10,11]]",
+      "expected": "11",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [[1,2,3],[5,17,7],[9,11,10]]",
+      "expected": "17",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

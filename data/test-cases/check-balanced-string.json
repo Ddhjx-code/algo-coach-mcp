@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3340.检查平衡字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"1234\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"24123\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

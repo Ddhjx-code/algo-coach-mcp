@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1170.比较字符串最小字母出现频次",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "queries = [\"cbd\"], words = [\"zaaaz\"]",
+      "expected": "[1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "queries = [\"bbb\",\"cc\"], words = [\"a\",\"aa\",\"aaa\",\"aaaa\"]",
+      "expected": "[1,2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

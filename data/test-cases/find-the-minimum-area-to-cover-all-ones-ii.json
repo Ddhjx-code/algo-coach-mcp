@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3197.包含所有 1 的最小矩形面积 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,0,1],[1,1,1]]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,0,1,0],[0,1,0,1]]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

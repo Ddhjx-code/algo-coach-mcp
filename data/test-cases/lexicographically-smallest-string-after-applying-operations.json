@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1625.执行操作后字典序最小的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"5525\", a = 9, b = 2",
+      "expected": "\"2050\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"74\", a = 5, b = 1",
+      "expected": "\"24\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0011\", a = 4, b = 2",
+      "expected": "\"0011\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3666.使二进制字符串全为 1 的最少操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"110\", k = 1",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0101\", k = 3",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"101\", k = 2",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

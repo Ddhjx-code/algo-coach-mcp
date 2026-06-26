@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3713.最长的平衡子串 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abbac\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"zzabccy\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aba\"",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

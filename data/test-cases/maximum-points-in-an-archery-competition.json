@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2212.射箭比赛中的最大得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "numArrows = 9, aliceArrows = [1,1,0,1,0,0,2,1,0,1,2,0]",
+      "expected": "[0,0,0,0,1,1,0,0,1,2,3,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "numArrows = 3, aliceArrows = [0,0,1,0,0,0,0,0,0,0,0,2]",
+      "expected": "[0,0,0,0,0,0,0,0,1,1,1,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

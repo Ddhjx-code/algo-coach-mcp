@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0463.岛屿的周长",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]]",
+      "expected": "16",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,0]]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

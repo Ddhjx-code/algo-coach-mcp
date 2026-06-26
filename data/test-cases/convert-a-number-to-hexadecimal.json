@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0405.数字转换为十六进制数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 26",
+      "expected": "\"1a\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = -1",
+      "expected": "\"ffffffff\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

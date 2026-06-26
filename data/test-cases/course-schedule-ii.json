@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0210.课程表 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "numCourses = 2, prerequisites = [[1,0]]",
+      "expected": "[0,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "numCourses = 4, prerequisites = [[1,0],[2,0],[3,1],[3,2]]",
+      "expected": "[0,2,1,3]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "numCourses = 1, prerequisites = []",
+      "expected": "[0]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

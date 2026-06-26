@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3684.至多 K 个不同元素的最大和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [84,93,100,77,90], k = 3",
+      "expected": "[100,93,90]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [84,93,100,77,93], k = 3",
+      "expected": "[100,93,84]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,1,2,2,2], k = 6",
+      "expected": "[2,1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

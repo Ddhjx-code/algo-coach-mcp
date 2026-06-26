@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0168.Excel 表列名称",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "columnNumber = 1",
+      "expected": "\"A\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "columnNumber = 28",
+      "expected": "\"AB\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "columnNumber = 701",
+      "expected": "\"ZY\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "columnNumber = 2147483647",
+      "expected": "\"FXSHRXW\"",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

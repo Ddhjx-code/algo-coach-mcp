@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2850.将石头分散到网格图的最少移动次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,1,0],[1,1,1],[1,2,1]]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,3,0],[1,0,0],[1,0,3]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

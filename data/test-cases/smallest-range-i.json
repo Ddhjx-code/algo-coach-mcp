@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0908.最小差值 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1], k = 0",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,10], k = 2",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,3,6], k = 3",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

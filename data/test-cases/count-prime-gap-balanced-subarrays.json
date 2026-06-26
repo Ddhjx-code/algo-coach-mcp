@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3589.计数质数间隔平衡子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3], k = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3,5,7], k = 3",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

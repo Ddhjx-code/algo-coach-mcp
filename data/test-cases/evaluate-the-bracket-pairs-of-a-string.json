@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1807.替换字符串中的括号内容",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"(name)is(age)yearsold\", knowledge = [[\"name\",\"bob\"],[\"age\",\"two\"]]",
+      "expected": "\"bobistwoyearsold\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"hi(name)\", knowledge = [[\"a\",\"b\"]]",
+      "expected": "\"hi?\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"(a)(a)(a)aaa\", knowledge = [[\"a\",\"yes\"]]",
+      "expected": "\"yesyesyesaaa\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

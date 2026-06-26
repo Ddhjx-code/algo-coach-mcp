@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3160.所有球里面不同颜色的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "limit = 4, queries = [[1,4],[2,5],[1,3],[3,4]]",
+      "expected": "[1,2,2,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "limit = 4, queries = [[0,1],[1,2],[2,2],[3,4],[4,5]]",
+      "expected": "[1,2,2,3,4]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

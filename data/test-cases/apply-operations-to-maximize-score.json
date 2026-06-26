@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2818.操作使得分最大",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [8,3,9,3,8], k = 2",
+      "expected": "81",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [19,12,14,6,10,18], k = 3",
+      "expected": "4788",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

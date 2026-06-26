@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0866.回文质数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 6",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 8",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 13",
+      "expected": "101",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

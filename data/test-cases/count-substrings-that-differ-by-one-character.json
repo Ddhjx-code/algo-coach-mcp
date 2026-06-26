@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1638.统计只差一个字符的子串数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aba\", t = \"baba\"",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ab\", t = \"bb\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a\", t = \"a\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abe\", t = \"bbc\"",
+      "expected": "10",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2555.两个线段获得的最多奖品",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "prizePositions = [1,1,2,2,3,3,5], k = 2",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "prizePositions = [1,2,3,4], k = 0",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

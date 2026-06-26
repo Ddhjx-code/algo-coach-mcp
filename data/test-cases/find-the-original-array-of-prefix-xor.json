@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2433.找出前缀异或的原始数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "pref = [5,2,0,3,1]",
+      "expected": "[5,7,2,3,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "pref = [13]",
+      "expected": "[13]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

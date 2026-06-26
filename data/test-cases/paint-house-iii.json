@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1473.粉刷房子 III",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "houses = [0,0,0,0,0], cost = [[1,10],[10,1],[10,1],[1,10],[5,1]], m = 5, n = 2, target = 3",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "houses = [0,2,1,2,0], cost = [[1,10],[10,1],[10,1],[1,10],[5,1]], m = 5, n = 2, target = 3",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "houses = [0,0,0,0,0], cost = [[1,10],[10,1],[1,10],[10,1],[1,10]], m = 5, n = 2, target = 5",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "houses = [3,1,2,3], cost = [[1,1,1],[1,1,1],[1,1,1],[1,1,1]], m = 4, n = 3, target = 3",
+      "expected": "-1",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

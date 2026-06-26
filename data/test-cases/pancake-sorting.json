@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0969.煎饼排序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[3,2,4,1]",
+      "expected": "[4,2,4,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[1,2,3]",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

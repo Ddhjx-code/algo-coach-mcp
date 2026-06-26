@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3043.最长公共前缀的长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr1 = [1,10,100], arr2 = [1000]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr1 = [1,2,3], arr2 = [4,4,4]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

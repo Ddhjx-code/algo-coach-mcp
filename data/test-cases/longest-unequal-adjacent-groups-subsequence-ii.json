@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2901.最长相邻不相等子序列 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"bab\",\"dab\",\"cab\"], groups = [1,2,2]",
+      "expected": "[\"bab\",\"cab\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"a\",\"b\",\"c\",\"d\"], groups = [1,2,3,4]",
+      "expected": "[\"a\",\"b\",\"c\",\"d\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

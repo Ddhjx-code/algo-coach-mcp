@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1006.笨阶乘",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "4",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "10",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

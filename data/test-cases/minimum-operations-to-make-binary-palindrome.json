@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3766.将数字变成二进制回文数的最少操作",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,4]",
+      "expected": "[0,1,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [6,7,12]",
+      "expected": "[1,0,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

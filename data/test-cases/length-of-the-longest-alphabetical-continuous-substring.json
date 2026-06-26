@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2414.最长的字母序连续子字符串的长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abacaba\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcde\"",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

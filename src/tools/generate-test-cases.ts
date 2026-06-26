@@ -9,5 +9,5 @@ export function generateTestCasesTool(
   if (!problem) {
     return { error: `Problem not found: ${params.slug}` };
   }
-  return genTests(params.slug, problem.topic);
+  return genTests(problem);
 }

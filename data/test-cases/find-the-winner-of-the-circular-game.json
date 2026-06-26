@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1823.找出游戏的获胜者",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5, k = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 6, k = 5",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

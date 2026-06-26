@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3168.候诊室中的最少椅子数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"EEEEEEE\"",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ELELEEL\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ELEELEELLL\"",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

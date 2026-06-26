@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1462.课程表 IV",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "numCourses = 2, prerequisites = [[1,0]], queries = [[0,1],[1,0]]",
+      "expected": "[false,true]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "numCourses = 2, prerequisites = [], queries = [[1,0],[0,1]]",
+      "expected": "[false,false]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "numCourses = 3, prerequisites = [[1,2],[1,0],[2,0]], queries = [[1,0],[1,2]]",
+      "expected": "[true,true]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

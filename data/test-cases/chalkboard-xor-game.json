@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0810.黑板异或游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,2]",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

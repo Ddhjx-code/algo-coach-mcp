@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0313.超级丑数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 12, primes = [2,7,13,19]",
+      "expected": "32",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, primes = [2,3,5]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

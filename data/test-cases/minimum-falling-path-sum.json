@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0931.下降路径最小和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matrix = [[2,1,3],[6,5,4],[7,8,9]]",
+      "expected": "13",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [[-19,57],[-40,-5]]",
+      "expected": "-59",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

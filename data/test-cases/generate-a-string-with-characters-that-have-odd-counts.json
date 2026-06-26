@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1374.生成每种字符都是奇数个的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4",
+      "expected": "&quot;pppz&quot;",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "&quot;xy&quot;",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 7",
+      "expected": "&quot;holasss&quot;",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

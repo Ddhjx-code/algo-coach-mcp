@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2520.统计能整除数字的位数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 7",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 121",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 1248",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

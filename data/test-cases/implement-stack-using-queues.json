@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0225.用队列实现栈",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"MyStack\",\"push\",\"push\",\"top\",\"pop\",\"empty\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[1],[2],[],[],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2528.最大化城市的最小电量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "stations = [1,2,4,5,0], r = 1, k = 2",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "stations = [4,4,4,4], r = 0, k = 3",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

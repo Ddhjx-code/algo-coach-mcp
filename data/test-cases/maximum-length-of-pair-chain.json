@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0646.最长数对链",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "pairs = [[1,2], [2,3], [3,4]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "pairs = [[1,2],[7,8],[4,5]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

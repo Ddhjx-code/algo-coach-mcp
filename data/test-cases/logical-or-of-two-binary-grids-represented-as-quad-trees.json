@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0558.四叉树交集",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "quadTree1 = [[0,1],[1,1],[1,1],[1,0],[1,0]] , quadTree2 = [[0,1],[1,1],[0,1],[1,1],[1,0],null,null,null,null,[1,0],[1,0],[1,1],[1,1]]",
+      "expected": "[[0,0],[1,1],[1,1],[1,1],[1,0]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "quadTree1 = [[1,0]] , quadTree2 = [[1,0]]",
+      "expected": "[[1,0]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

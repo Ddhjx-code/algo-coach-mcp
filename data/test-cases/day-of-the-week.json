@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1185.一周中的第几天",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "day = 31, month = 8, year = 2019",
+      "expected": "\"Saturday\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "day = 18, month = 7, year = 1999",
+      "expected": "\"Sunday\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "day = 15, month = 8, year = 1993",
+      "expected": "\"Sunday\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

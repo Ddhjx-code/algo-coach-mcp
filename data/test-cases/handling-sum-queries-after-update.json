@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2569.更新数组后处理求和查询",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [1,0,1], nums2 = [0,0,0], queries = [[1,1,1],[2,1,0],[3,0,0]]",
+      "expected": "[3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [1], nums2 = [5], queries = [[2,0,0],[3,0,0]]",
+      "expected": "[5]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

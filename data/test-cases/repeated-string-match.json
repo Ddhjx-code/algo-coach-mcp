@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0686.重复叠加字符串匹配",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = &quot;abcd&quot;, b = &quot;cdabcdab&quot;",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = &quot;a&quot;, b = &quot;aa&quot;",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "a = &quot;a&quot;, b = &quot;a&quot;",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "a = &quot;abc&quot;, b = &quot;wxyz&quot;",
+      "expected": "-1",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

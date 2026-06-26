@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1455.检查单词是否为句中其他单词的前缀",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sentence = \"i love eating burger\", searchWord = \"burg\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sentence = \"this problem is an easy problem\", searchWord = \"pro\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "sentence = \"i am tired\", searchWord = \"you\"",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

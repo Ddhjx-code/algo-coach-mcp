@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0137.只出现一次的数字 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,2,3,2]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1,0,1,0,1,99]",
+      "expected": "99",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

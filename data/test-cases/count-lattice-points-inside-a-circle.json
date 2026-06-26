@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2249.统计圆内格点数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "circles = [[2,2,1]]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "circles = [[2,2,2],[3,4,1]]",
+      "expected": "16",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2531.使字符串中不同字符的数目相等",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"ac\", word2 = \"b\"",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abcc\", word2 = \"aab\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abcde\", word2 = \"fghij\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

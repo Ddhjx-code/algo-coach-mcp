@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0850.矩形面积 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "rectangles = [[0,0,2,2],[1,0,2,3],[1,0,3,1]]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "rectangles = [[0,0,1000000000,1000000000]]",
+      "expected": "49",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

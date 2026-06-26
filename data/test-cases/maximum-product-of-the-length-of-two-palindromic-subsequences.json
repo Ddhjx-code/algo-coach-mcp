@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2002.两个回文子序列长度的最大乘积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leetcodecom\"",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bb\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"accbcaxxcxx\"",
+      "expected": "25",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

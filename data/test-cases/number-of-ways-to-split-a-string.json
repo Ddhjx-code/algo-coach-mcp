@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1573.分割字符串的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;10101&quot;",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;1001&quot;",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;0000&quot;",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;100100010100110&quot;",
+      "expected": "12",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

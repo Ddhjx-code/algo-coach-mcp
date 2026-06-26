@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1003.检查替换后的词是否有效",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aabcbc\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcabcababcc\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abccba\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

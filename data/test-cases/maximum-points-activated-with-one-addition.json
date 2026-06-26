@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3873.添加一个点后可激活的最大点数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[1,1],[1,2],[2,2]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[2,2],[1,1],[3,3]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[2,3],[2,2],[1,1],[4,5]]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

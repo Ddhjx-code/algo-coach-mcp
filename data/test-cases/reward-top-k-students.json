@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2512.奖励最顶尖的 K 名学生",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "positive_feedback = [\"smart\",\"brilliant\",\"studious\"], negative_feedback = [\"not\"], report = [\"this student is studious\",\"the student is smart\"], student_id = [1,2], k = 2",
+      "expected": "[1,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "positive_feedback = [\"smart\",\"brilliant\",\"studious\"], negative_feedback = [\"not\"], report = [\"this student is not studious\",\"the student is smart\"], student_id = [1,2], k = 2",
+      "expected": "[2,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

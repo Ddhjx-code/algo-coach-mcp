@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3485.删除元素后 K 个字符串的最长公共前缀",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"jump\",\"run\",\"run\",\"jump\",\"run\"], k = 2",
+      "expected": "[3,4,4,3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"dog\",\"racer\",\"car\"], k = 2",
+      "expected": "[0,0,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

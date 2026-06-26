@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0988.从叶结点开始的最小字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [0,1,2,3,4,3,4]",
+      "expected": "\"dba\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [25,1,3,1,3,0,2]",
+      "expected": "\"adz\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [2,2,1,null,1,0,null,0]",
+      "expected": "\"abc\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

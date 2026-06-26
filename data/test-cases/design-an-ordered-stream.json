@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1656.设计有序流",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"OrderedStream\",\"insert\",\"insert\",\"insert\",\"insert\",\"insert\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[5],[3,\"ccccc\"],[1,\"aaaaa\"],[2,\"bbbbb\"],[5,\"eeeee\"],[4,\"ddddd\"]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

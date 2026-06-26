@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0896.单调数列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,2,3]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [6,5,4,4]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,3,2]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

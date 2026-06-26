@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0902.最大为 N 的数字组合",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "digits = [\"1\",\"3\",\"5\",\"7\"], n = 100",
+      "expected": "20",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "digits = [\"1\",\"4\",\"9\"], n = 1000000000",
+      "expected": "29523",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "digits = [\"7\"], n = 8",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0761.特殊的二进制字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "S = \"11011000\"",
+      "expected": "\"11100100\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"10\"",
+      "expected": "\"10\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

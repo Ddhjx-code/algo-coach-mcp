@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3447.将元素分配给有约束条件的组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "groups = [8,4,3,2,4], elements = [4,2]",
+      "expected": "[0,0,-1,1,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "groups = [2,3,5,7], elements = [5,3,3]",
+      "expected": "[-1,1,0,-1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "groups = [10,21,30,41], elements = [2,1]",
+      "expected": "[0,1,0,1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

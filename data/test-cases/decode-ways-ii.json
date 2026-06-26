@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0639.解码方法 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"*\"",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1*\"",
+      "expected": "18",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"2*\"",
+      "expected": "15",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

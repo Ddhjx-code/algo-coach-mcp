@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0803.打砖块",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,0,0,0],[1,1,1,0]], hits = [[1,0]]",
+      "expected": "[2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,0,0,0],[1,1,0,0]], hits = [[1,1],[1,0]]",
+      "expected": "[0,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

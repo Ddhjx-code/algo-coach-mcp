@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0796.旋转字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcde\", goal = \"cdeab\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcde\", goal = \"abced\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3404.统计特殊子序列的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,3,6,1]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,4,3,4,3,4,3,4]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

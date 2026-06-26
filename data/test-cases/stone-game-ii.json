@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1140.石子游戏 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "piles = [2,7,9,4,4]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "piles = [1,2,3,4,5,100]",
+      "expected": "104",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

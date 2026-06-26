@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2857.统计距离为 k 的点对",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "coordinates = [[1,2],[4,2],[1,3],[5,2]], k = 5",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "coordinates = [[1,3],[1,3],[1,3],[1,3],[1,3]], k = 0",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

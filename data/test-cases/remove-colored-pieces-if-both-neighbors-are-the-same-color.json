@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2038.如果相邻两个颜色均相同则删除当前颜色",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "colors = \"AAABABB\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "colors = \"AA\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "colors = \"ABBBBBBBAAA\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

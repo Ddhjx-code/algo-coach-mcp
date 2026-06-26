@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0829.连续整数求和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 9",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 15",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1969.数组元素的最小非零乘积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "p = 1",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "p = 2",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "p = 3",
+      "expected": "1512",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2930.重新排列后包含指定子字符串的字符串数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10",
+      "expected": "83943898",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

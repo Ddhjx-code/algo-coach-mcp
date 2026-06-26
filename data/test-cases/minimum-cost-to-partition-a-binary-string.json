@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3864.划分二进制字符串的最小费用",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1010\", encCost = 2, flatCost = 1",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1010\", encCost = 3, flatCost = 10",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"00\", encCost = 1, flatCost = 2",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

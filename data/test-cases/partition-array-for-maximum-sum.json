@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1043.分隔数组以得到最大和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [1,15,7,9,2,5,10], k = 3",
+      "expected": "84",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,4,1,5,7,3,6,1,9,9,3], k = 4",
+      "expected": "83",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1], k = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

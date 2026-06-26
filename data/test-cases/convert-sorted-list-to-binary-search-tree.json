@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0109.有序链表转换二叉搜索树",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [-10,-3,0,5,9]",
+      "expected": "[0,-3,9,-10,null,5]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = []",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

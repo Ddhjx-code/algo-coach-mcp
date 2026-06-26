@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3796.找到带限制序列的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 10, restrictions = [[3,1],[8,1]], diff = [2,2,3,1,4,5,1,1,2]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 8, restrictions = [[3,2]], diff = [3,5,2,4,2,3,1]",
+      "expected": "12",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

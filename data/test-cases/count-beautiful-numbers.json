@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3490.统计美丽整数的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "l = 10, r = 20",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "l = 1, r = 15",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

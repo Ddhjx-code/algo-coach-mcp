@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2033.获取单值网格的最小操作数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[2,4],[6,8]], x = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,5],[2,3]], x = 1",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,2],[3,4]], x = 2",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

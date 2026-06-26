@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1222.可以攻击国王的皇后",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "queens = [[0,1],[1,0],[4,0],[0,4],[3,3],[2,4]], king = [0,0]",
+      "expected": "[[0,1],[1,0],[3,3]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "queens = [[0,0],[1,1],[2,2],[3,4],[3,5],[4,4],[4,5]], king = [3,3]",
+      "expected": "[[2,2],[3,4],[4,4]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3707.相等子字符串分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"adcb\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bace\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

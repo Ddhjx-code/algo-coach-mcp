@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1360.日期之间隔几天",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "date1 = &quot;2019-06-29&quot;, date2 = &quot;2019-06-30&quot;",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "date1 = &quot;2020-01-15&quot;, date2 = &quot;2019-12-31&quot;",
+      "expected": "15",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

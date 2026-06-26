@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2380.二进制字符串重新安排顺序需要的时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"0110101\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"11100\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

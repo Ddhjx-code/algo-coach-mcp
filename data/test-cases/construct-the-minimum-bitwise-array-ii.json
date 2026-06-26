@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3315.构造最小位运算数组 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,5,7]",
+      "expected": "[-1,1,4,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [11,13,31]",
+      "expected": "[9,12,15]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

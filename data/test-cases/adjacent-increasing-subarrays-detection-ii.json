@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3350.检测相邻递增子数组 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,5,7,8,9,2,3,4,3,1]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3,4,4,4,4,5,6,7]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

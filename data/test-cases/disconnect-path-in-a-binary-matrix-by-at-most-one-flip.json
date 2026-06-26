@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2556.二进制矩阵中翻转最多一次使路径不连通",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,1,1],[1,0,0],[1,1,1]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,1,1],[1,0,1],[1,1,1]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

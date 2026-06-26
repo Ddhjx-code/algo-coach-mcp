@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3566.等积子集的划分方案",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,6,8,4], target = 24",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,5,3,7], target = 15",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

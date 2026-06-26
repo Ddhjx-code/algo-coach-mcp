@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1556.千位分隔数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 987",
+      "expected": "&quot;987&quot;",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1234",
+      "expected": "&quot;1.234&quot;",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 123456789",
+      "expected": "&quot;123.456.789&quot;",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 0",
+      "expected": "&quot;0&quot;",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3648.覆盖网格的最少传感器数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5, m = 5, k = 1",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, m = 2, k = 2",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

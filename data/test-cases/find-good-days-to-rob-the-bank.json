@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2100.适合野炊的日子",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "security = [5,3,3,3,5,6,2], time = 2",
+      "expected": "[2,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "security = [1,1,1,1,1], time = 0",
+      "expected": "[0,1,2,3,4]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "security = [1,2,3,4,5,6], time = 2",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

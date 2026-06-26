@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1017.负二进制转换",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2",
+      "expected": "\"110\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "\"111\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4",
+      "expected": "\"100\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3433.统计用户被提及情况",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "numberOfUsers = 2, events = [[\"MESSAGE\",\"10\",\"id1 id0\"],[\"OFFLINE\",\"11\",\"0\"],[\"MESSAGE\",\"71\",\"HERE\"]]",
+      "expected": "[2,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "numberOfUsers = 2, events = [[\"MESSAGE\",\"10\",\"id1 id0\"],[\"OFFLINE\",\"11\",\"0\"],[\"MESSAGE\",\"12\",\"ALL\"]]",
+      "expected": "[2,2]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "numberOfUsers = 2, events = [[\"OFFLINE\",\"10\",\"0\"],[\"MESSAGE\",\"12\",\"HERE\"]]",
+      "expected": "[0,1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

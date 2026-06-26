@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3971.最大总价值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "value = [6,5,4], decay = [2,1,1], m = 4",
+      "expected": "19",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "value = [7,2,2], decay = [3,2,1], m = 2",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "value = [4,3], decay = [5,4], m = 5",
+      "expected": "7",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

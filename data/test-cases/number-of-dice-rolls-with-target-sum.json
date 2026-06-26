@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1155.掷骰子等于目标和的方法数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1, k = 6, target = 3",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, k = 6, target = 7",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 30, k = 30, target = 500",
+      "expected": "222616187",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

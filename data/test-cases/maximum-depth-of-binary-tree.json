@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0104.二叉树的最大深度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [3,9,20,null,null,15,7]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,null,2]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

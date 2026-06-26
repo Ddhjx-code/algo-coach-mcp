@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0830.较大分组的位置",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abbxxxxzzy\"",
+      "expected": "[[3,6]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc\"",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcdddeeeeaabbbcd\"",
+      "expected": "[[3,5],[6,9],[12,14]]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aba\"",
+      "expected": "[]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

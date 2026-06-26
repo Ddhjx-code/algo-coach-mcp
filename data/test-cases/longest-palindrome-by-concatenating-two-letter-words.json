@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2131.连接两字母单词得到的最长回文串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"lc\",\"cl\",\"gg\"]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"ab\",\"ty\",\"yt\",\"lc\",\"cl\",\"ab\"]",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"cc\",\"ll\",\"xx\"]",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

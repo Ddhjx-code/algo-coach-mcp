@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2567.修改两个元素的最小分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,4,3]",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,4,7,8,5]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

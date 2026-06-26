@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1078.Bigram 分词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "text = \"alice is a good girl she is a good student\", first = \"a\", second = \"good\"",
+      "expected": "[\"girl\",\"student\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "text = \"we will we will rock you\", first = \"we\", second = \"will\"",
+      "expected": "[\"we\",\"rock\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

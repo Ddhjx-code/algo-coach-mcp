@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1961.检查字符串是否为数组前缀",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"iloveleetcode\", words = [\"i\",\"love\",\"leetcode\",\"apples\"]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"iloveleetcode\", words = [\"apples\",\"i\",\"love\",\"leetcode\"]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

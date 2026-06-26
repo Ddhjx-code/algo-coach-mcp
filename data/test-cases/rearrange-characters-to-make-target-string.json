@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2287.重排字符形成目标字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"ilovecodingonleetcode\", target = \"code\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcba\", target = \"abc\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abbaccaddaeea\", target = \"aaaaa\"",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

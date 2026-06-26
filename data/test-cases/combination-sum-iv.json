@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0377.组合总和 Ⅳ",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3], target = 4",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [9], target = 3",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

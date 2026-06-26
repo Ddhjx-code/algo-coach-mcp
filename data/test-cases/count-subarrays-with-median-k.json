@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2488.统计中位数为 K 的子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,2,1,4,5], k = 4",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3,1], k = 3",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

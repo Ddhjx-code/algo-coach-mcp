@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0312.戳气球",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,5,8]",
+      "expected": "167",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,5]",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

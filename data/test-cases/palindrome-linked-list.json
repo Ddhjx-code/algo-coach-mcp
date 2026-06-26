@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0234.回文链表",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [1,2,2,1]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [1,2]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

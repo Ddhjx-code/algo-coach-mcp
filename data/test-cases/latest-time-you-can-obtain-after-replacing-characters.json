@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3114.替换字符可以得到的最晚时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"1?:?4\"",
+      "expected": "\"11:54\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0?:5?\"",
+      "expected": "\"09:59\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3099.哈沙德数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "x = 18",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "x = 23",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

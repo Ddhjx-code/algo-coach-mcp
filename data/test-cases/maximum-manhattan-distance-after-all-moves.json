@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3968.移动后的最大曼哈顿距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "moves = \"L_D_\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "moves = \"U_R\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0692.前K个高频单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"i\", \"love\", \"leetcode\", \"i\", \"love\", \"coding\"], k = 2",
+      "expected": "[\"i\", \"love\"] 解析: \"i\" 和 \"love\" 为出现次数最多的两个单词，均为2次。",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[\"the\", \"day\", \"is\", \"sunny\", \"the\", \"the\", \"the\", \"sunny\", \"is\", \"is\"], k = 4",
+      "expected": "[\"the\", \"is\", \"sunny\", \"day\"] 解析: \"the\", \"is\", \"sunny\" 和 \"day\" 是出现次数最多的四个单词， 出现次数依次为 4, 3, 2 和 1 次。",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

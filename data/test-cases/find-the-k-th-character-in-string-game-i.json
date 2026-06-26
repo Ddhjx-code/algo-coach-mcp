@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3304.找出第 K 个字符 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 5",
+      "expected": "\"b\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 10",
+      "expected": "\"c\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

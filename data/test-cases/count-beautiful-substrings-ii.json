@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2949.统计美丽子字符串 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"baeyh\", k = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abba\", k = 1",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"bcdf\", k = 1",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

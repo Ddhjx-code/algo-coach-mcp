@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1718.构建字典序最大的可行序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3",
+      "expected": "[3,1,2,3,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5",
+      "expected": "[5,3,1,4,3,5,2,4,2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

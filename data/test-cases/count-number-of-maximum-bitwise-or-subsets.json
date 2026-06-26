@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2044.统计按位或能得到最大值的子集数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2,2]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,2,1,5]",
+      "expected": "6",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

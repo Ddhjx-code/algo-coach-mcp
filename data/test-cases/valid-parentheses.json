@@ -1,0 +1,36 @@
+{
+  "problemSlug": "0020.有效的括号",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"()\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"()[]{}\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"(]\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"([])\"",
+      "expected": "true",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"([)]\"",
+      "expected": "false",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

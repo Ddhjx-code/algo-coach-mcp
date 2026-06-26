@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3132.找出与数组相加的整数 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [4,20,16,12,8], nums2 = [14,18,10]",
+      "expected": "-2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [3,5,5,3], nums2 = [7,7]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

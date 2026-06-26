@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2849.判断能否在给定时间到达单元格",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sx = 2, sy = 4, fx = 7, fy = 7, t = 6",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sx = 3, sy = 1, fx = 7, fy = 3, t = 3",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

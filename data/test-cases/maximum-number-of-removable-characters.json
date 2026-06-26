@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1898.可移除字符的最大数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcacb\", p = \"ab\", removable = [3,1,0]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcbddddd\", p = \"abcd\", removable = [3,2,1,4,5,6]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcab\", p = \"abc\", removable = [0,1,2,3,4]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

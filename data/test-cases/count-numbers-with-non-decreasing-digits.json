@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3519.统计逐位非递减的整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "l = \"23\", r = \"28\", b = 8",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "l = \"2\", r = \"7\", b = 2",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

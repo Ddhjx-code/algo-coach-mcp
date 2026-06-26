@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2127.参加会议的最多员工数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "favorite = [2,2,1,2]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "favorite = [1,2,0]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "favorite = [3,0,1,4,1]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

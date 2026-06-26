@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2639.查询网格图中每一列的宽度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1],[22],[333]]",
+      "expected": "[3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[-15,1,3],[15,7,12],[5,6,-2]]",
+      "expected": "[3,1,2]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0624.数组列表中的最大距离",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[[1,2,3],[4,5],[1,2,3]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arrays = [[1],[1]]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

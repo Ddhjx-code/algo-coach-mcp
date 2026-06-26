@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1275.找出井字棋的获胜者",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "moves = [[0,0],[2,0],[1,1],[2,1],[2,2]]",
+      "expected": "\"A\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "moves = [[0,0],[1,1],[0,1],[0,2],[1,0],[2,0]]",
+      "expected": "\"B\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "moves = [[0,0],[1,1],[2,0],[1,0],[1,2],[2,1],[0,1],[0,2],[2,2]]",
+      "expected": "\"Draw\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

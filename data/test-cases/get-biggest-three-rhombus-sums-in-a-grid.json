@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1878.矩阵中最大的三个菱形和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[3,4,5,1,3],[3,3,4,2,3],[20,30,200,40,10],[1,5,5,4,1],[4,3,2,2,5]]",
+      "expected": "[228,216,211]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,2,3],[4,5,6],[7,8,9]]",
+      "expected": "[20,9,8]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[7,7,7]]",
+      "expected": "[7]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

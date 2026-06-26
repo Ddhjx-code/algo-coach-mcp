@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2597.美丽子集的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,4,6], k = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1], k = 1",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

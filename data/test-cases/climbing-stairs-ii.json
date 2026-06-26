@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3693.爬楼梯 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, costs = [1,2,3,4]",
+      "expected": "13",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, costs = [5,1,6,2]",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, costs = [9,8,3]",
+      "expected": "12",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

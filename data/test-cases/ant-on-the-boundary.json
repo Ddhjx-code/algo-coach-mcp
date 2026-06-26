@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3028.边界上的蚂蚁",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,-5]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,2,-3,-4]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

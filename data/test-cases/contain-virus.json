@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0749.隔离病毒",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "isInfected = [[0,1,0,0,0,0,0,1],[0,1,0,0,0,0,0,1],[0,0,0,0,0,0,0,1],[0,0,0,0,0,0,0,0]]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "isInfected = [[1,1,1],[1,0,1],[1,1,1]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "isInfected = [[1,1,1,0,0,0,0,0,0],[1,0,1,0,1,1,1,1,1],[1,1,1,0,0,0,0,0,0]]",
+      "expected": "13",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2562.找出数组的串联值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [7,52,2,4]",
+      "expected": "596",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,14,13,8,12]",
+      "expected": "673",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

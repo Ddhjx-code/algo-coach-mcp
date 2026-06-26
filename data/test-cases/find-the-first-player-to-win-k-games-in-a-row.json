@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3175.找到连续赢 K 场比赛的第一位玩家",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "skills = [4,2,6,3,9], k = 2",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "skills = [2,5,4], k = 3",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

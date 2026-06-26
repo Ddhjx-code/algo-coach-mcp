@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3542.将所有元素变为 0 的最少操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,2]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,1,2,1]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,1,2,1,2]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0753.破解保险箱",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1, k = 2",
+      "expected": "\"10\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, k = 2",
+      "expected": "\"01100\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

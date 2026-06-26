@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0173.二叉搜索树迭代器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"BSTIterator\",\"next\",\"next\",\"hasNext\",\"next\",\"hasNext\",\"next\",\"hasNext\",\"next\",\"hasNext\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[[7,3,15,null,null,9,20]],[],[],[],[],[],[],[],[],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

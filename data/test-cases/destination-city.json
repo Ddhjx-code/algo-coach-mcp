@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1436.旅行终点站",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "paths = [[\"London\",\"New York\"],[\"New York\",\"Lima\"],[\"Lima\",\"Sao Paulo\"]]",
+      "expected": "\"Sao Paulo\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "paths = [[\"B\",\"C\"],[\"D\",\"B\"],[\"C\",\"A\"]]",
+      "expected": "\"A\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "paths = [[\"A\",\"Z\"]]",
+      "expected": "\"Z\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

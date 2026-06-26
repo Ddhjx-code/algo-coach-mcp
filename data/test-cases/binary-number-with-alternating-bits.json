@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0693.交替位二进制数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 7",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 11",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

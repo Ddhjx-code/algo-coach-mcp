@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0649.Dota2 参议院",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "senate = \"RD\"",
+      "expected": "\"Radiant\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "senate = \"RDD\"",
+      "expected": "\"Dire\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

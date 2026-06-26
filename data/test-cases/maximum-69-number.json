@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1323.6 和 9 组成的最大数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 9669",
+      "expected": "9969",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 9996",
+      "expected": "9999",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 9999",
+      "expected": "9999",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

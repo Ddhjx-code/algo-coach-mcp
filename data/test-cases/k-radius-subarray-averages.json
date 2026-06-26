@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2090.半径为 k 的子数组平均值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [7,4,3,9,1,8,5,2,6], k = 3",
+      "expected": "[-1,-1,-1,5,4,4,-1,-1,-1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [100000], k = 0",
+      "expected": "[100000]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [8], k = 100000",
+      "expected": "[-1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

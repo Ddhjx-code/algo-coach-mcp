@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1662.检查两个字符串数组是否相等",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = [\"ab\", \"c\"], word2 = [\"a\", \"bc\"]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = [\"a\", \"cb\"], word2 = [\"ab\", \"c\"]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = [\"abc\", \"d\", \"defg\"], word2 = [\"abcddefg\"]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

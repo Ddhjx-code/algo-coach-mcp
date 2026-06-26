@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2801.统计范围内的步进数字数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "low = \"1\", high = \"11\"",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "low = \"90\", high = \"101\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

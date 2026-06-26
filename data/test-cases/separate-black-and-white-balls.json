@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2938.区分黑球与白球",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"101\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"100\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0111\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1073.负二进制数相加",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr1 = [1,1,1,1,1], arr2 = [1,0,1]",
+      "expected": "[1,0,0,0,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr1 = [0], arr2 = [0]",
+      "expected": "[0]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr1 = [0], arr2 = [1]",
+      "expected": "[1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

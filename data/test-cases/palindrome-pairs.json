@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0336.回文对",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"abcd\",\"dcba\",\"lls\",\"s\",\"sssll\"]",
+      "expected": "[[0,1],[1,0],[3,2],[2,4]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"bat\",\"tab\",\"cat\"]",
+      "expected": "[[0,1],[1,0]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"a\",\"\"]",
+      "expected": "[[0,1],[1,0]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

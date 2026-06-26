@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2833.距离原点最远的点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "moves = \"L_RL__R\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "moves = \"_R__LL_\"",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "moves = \"_______\"",
+      "expected": "7",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

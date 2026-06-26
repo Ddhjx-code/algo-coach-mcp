@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2318.不同骰子序列的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4",
+      "expected": "184",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "22",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

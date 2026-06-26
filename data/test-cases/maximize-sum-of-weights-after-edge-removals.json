@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3367.移除边之后的权重最大和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "edges = [[0,1,4],[0,2,2],[2,3,12],[2,4,6]], k = 2",
+      "expected": "22",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "edges = [[0,1,5],[1,2,10],[0,3,15],[3,4,20],[3,5,5],[0,6,10]], k = 3",
+      "expected": "65",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

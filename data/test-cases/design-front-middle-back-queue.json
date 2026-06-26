@@ -1,0 +1,12 @@
+{
+  "problemSlug": "1670.设计前中后队列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"FrontMiddleBackQueue\", \"pushFront\", \"pushBack\", \"pushMiddle\", \"pushMiddle\", \"popFront\", \"popMiddle\", \"popMiddle\", \"popBack\", \"popFront\"] [[], [1], [2], [3], [4], [], [], [], [], []]",
+      "expected": "[null, null, null, null, null, 1, 3, 4, 2, -1]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

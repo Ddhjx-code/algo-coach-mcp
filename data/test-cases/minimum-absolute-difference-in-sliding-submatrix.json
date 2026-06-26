@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3567.子矩阵的最小绝对差",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,8],[3,-2]], k = 2",
+      "expected": "[[2]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[3,-1]], k = 1",
+      "expected": "[[0,0]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[1,-2,3],[2,3,5]], k = 2",
+      "expected": "[[1,2]]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

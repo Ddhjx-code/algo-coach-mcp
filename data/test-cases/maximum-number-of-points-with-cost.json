@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1937.扣分后的最大得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[1,2,3],[1,5,1],[3,1,1]]",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,5],[2,3],[4,2]]",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

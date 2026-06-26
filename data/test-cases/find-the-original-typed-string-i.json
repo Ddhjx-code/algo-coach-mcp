@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3330.找到初始输入字符串 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"abbcccc\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"abcd\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"aaaa\"",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

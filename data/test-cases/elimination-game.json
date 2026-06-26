@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0390.消除游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 9",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

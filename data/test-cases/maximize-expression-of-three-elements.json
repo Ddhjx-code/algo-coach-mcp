@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3745.三元素表达式的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,4,2,5]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-2,0,5,-2,4]",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

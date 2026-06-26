@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2447.最大公因数等于 K 的子数组数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [9,3,1,2,6,3], k = 3",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4], k = 7",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

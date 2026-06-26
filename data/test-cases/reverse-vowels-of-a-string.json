@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0345.反转字符串中的元音字母",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"IceCreAm\"",
+      "expected": "\"AceCreIm\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"leetcode\"",
+      "expected": "\"leotcede\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

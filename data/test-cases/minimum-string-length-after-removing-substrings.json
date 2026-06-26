@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2696.删除子串后的字符串最小长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"ABFCACDB\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ACBBD\"",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

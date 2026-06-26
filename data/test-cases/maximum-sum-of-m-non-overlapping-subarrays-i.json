@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3956.M 个非重叠子数组最大和 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,1,-5,2], m = 2, l = 1, r = 3",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,0,3,4], m = 2, l = 1, r = 2",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-1,7,-4], m = 1, l = 2, r = 3",
+      "expected": "6",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-3,-4,-1], m = 2, l = 1, r = 2",
+      "expected": "-1",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3694.删除子字符串后不同的终点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"LUL\", k = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"UDLR\", k = 4",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"UU\", k = 1",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

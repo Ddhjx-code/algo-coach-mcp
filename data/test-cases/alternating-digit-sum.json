@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2544.交替数字和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 521",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 111",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 886996",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

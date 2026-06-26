@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3870.统计范围内的逗号",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1002",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 998",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

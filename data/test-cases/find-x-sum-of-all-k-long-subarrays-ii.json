@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3321.计算子数组的 x-sum II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,2,2,3,4,2,3], k = 6, x = 2",
+      "expected": "[6,10,12]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,8,7,8,7,5], k = 2, x = 2",
+      "expected": "[11,15,15,15,12]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

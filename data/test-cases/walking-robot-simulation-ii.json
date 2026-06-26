@@ -1,0 +1,12 @@
+{
+  "problemSlug": "2069.模拟行走机器人 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Robot\", \"step\", \"step\", \"getPos\", \"getDir\", \"step\", \"step\", \"step\", \"getPos\", \"getDir\"] [[6, 3], [2], [2], [], [], [2], [1], [4], [], []]",
+      "expected": "[null, null, null, [4, 0], \"East\", null, null, null, [1, 2], \"West\"]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

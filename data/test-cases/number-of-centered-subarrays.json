@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3804.中心子数组的数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [-1,1,0]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,-3]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

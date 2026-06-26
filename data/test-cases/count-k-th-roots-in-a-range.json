@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3932.统计区间内的完全 K 次幂数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "l = 1, r = 9, k = 3",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "l = 8, r = 30, k = 2",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

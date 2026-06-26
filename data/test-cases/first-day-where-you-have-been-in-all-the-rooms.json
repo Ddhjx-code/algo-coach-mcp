@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1997.访问完所有房间的第一天",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nextVisit = [0,0]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nextVisit = [0,0,2]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nextVisit = [0,1,2,0]",
+      "expected": "6",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

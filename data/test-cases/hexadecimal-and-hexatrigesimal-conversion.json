@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3602.十六进制和三十六进制转化",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 13",
+      "expected": "\"A91P1\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 36",
+      "expected": "\"5101000\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

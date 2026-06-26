@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3588.找到最大三角形面积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "coords = [[1,1],[1,2],[3,2],[3,3]]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "coords = [[1,1],[2,2],[3,3]]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

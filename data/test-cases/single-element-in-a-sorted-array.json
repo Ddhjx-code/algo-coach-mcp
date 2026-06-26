@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0540.有序数组中的单一元素",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1,2,3,3,4,4,8,8]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,3,7,7,10,11,11]",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

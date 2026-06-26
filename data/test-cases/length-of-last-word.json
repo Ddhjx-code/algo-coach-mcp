@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0058.最后一个单词的长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"Hello World\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \" fly me to the moon \"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"luffy is still joyboy\"",
+      "expected": "6",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

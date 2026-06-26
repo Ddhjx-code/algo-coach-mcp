@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3704.统计和为 N 的无零数对",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 11",
+      "expected": "8",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

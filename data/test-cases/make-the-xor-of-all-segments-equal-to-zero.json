@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1787.使所有区间的异或结果为零",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,0,3,0], k = 1",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,4,5,2,1,7,3,4,7], k = 3",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,4,1,2,5,1,2,6], k = 3",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

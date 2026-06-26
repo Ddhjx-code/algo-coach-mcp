@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0599.两个列表的最小索引总和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "list1 = [\"Shogun\", \"Tapioca Express\", \"Burger King\", \"KFC\"]，list2 = [\"Piatti\", \"The Grill at Torrey Pines\", \"Hungry Hunter Steakhouse\", \"Shogun\"]",
+      "expected": "[\"Shogun\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "list1 = [\"Shogun\", \"Tapioca Express\", \"Burger King\", \"KFC\"]，list2 = [\"KFC\", \"Shogun\", \"Burger King\"]",
+      "expected": "[\"Shogun\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "list1 = [\"happy\",\"sad\",\"good\"], list2 = [\"sad\",\"happy\",\"good\"]",
+      "expected": "[\"sad\",\"happy\"]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

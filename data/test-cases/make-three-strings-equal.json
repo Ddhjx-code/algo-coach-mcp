@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2937.使三个字符串相等",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"abc\"，s2 = \"abb\"，s3 = \"ab\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"dac\"，s2 = \"bac\"，s3 = \"cac\"",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

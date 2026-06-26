@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0478.在圆内随机生成点",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"Solution\",\"randPoint\",\"randPoint\",\"randPoint\"] [[1.0, 0.0, 0.0], [], [], []]",
+      "expected": "[null, [-0.02493, -0.38077], [0.82314, 0.38945], [0.36572, 0.17248]]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

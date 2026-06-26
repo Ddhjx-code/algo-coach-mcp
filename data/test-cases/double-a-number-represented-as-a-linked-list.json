@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2816.翻倍以链表形式表示的数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "head = [1,8,9]",
+      "expected": "[3,7,8]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "head = [9,9,9]",
+      "expected": "[1,9,9,8]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

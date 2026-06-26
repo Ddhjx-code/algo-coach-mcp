@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1277.统计全为 1 的正方形子矩阵",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "matrix = [ [0,1,1,1], [1,1,1,1], [0,1,1,1] ]",
+      "expected": "15",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "matrix = [ [1,0,1], [1,1,0], [1,1,0] ]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

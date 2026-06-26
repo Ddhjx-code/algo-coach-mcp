@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1220.统计元音字母序列的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5",
+      "expected": "68",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

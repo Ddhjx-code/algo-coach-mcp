@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0717.1 比特与 2 比特字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "bits = [1, 0, 0]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "bits = [1,1,1,0]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

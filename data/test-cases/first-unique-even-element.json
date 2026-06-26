@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3866.找到第一个唯一偶数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,4,2,5,4,6]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,4]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

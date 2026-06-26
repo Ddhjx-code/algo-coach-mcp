@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1477.找两个和为目标值且不重叠的子数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [3,2,2,4,3], target = 3",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [7,3,4,7], target = 7",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [4,3,2,6,2,3,4], target = 6",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [5,5,4,4,5], target = 3",
+      "expected": "-1",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [3,1,1,1,5,1,2,1], target = 3",
+      "expected": "3",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

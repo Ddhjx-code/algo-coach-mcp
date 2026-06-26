@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1415.长度为 n 的开心字符串中字典序第 k 小的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1, k = 3",
+      "expected": "&quot;c&quot;",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, k = 4",
+      "expected": "&quot;&quot;",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, k = 9",
+      "expected": "&quot;cab&quot;",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, k = 7",
+      "expected": "&quot;&quot;",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10, k = 100",
+      "expected": "&quot;abacbabacb&quot;",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

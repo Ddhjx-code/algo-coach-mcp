@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0828.统计子串中的唯一字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"ABC\"",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"ABA\"",
+      "expected": "8",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"LEETCODE\"",
+      "expected": "92",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

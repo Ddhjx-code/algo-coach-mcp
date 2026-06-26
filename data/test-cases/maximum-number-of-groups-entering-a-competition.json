@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2358.分组的最大数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grades = [10,6,12,7,3,5]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grades = [8,8]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1832.判断句子是否为全字母句",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "sentence = \"thequickbrownfoxjumpsoverthelazydog\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "sentence = \"leetcode\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

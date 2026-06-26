@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0043.字符串相乘",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num1 = \"2\", num2 = \"3\"",
+      "expected": "\"6\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num1 = \"123\", num2 = \"456\"",
+      "expected": "\"56088\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

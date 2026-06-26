@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1694.重新格式化电话号码",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "number = \"1-23-45 6\"",
+      "expected": "\"123-456\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "number = \"123 4-567\"",
+      "expected": "\"123-45-67\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "number = \"123 4-5678\"",
+      "expected": "\"123-456-78\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "number = \"12\"",
+      "expected": "\"12\"",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "number = \"--17-5 229 35-39475 \"",
+      "expected": "\"175-229-353-94-75\"",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

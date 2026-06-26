@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2441.与对应负数同时存在的最大正整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [-1,2,-3,3]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-1,10,6,7,-7,1]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-10,8,6,7,-2,-3]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

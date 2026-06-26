@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0396.旋转函数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,3,2,6]",
+      "expected": "26",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [100]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

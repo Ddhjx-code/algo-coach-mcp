@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3531.统计被覆盖的建筑",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, buildings = [[1,2],[2,2],[3,2],[2,1],[2,3]]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, buildings = [[1,1],[1,2],[2,1],[2,2]]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, buildings = [[1,3],[3,2],[3,3],[3,5],[5,3]]",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

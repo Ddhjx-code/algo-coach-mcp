@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0767.重构字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aab\"",
+      "expected": "\"aba\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aaab\"",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

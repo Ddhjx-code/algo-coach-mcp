@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0297.二叉树的序列化与反序列化",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,2,3,null,null,4,5]",
+      "expected": "[1,2,3,null,null,4,5]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = []",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1]",
+      "expected": "[1]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,2]",
+      "expected": "[1,2]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

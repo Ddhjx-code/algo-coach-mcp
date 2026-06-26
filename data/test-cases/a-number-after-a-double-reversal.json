@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2119.反转两次的数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 526",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 1800",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 0",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2514.统计同位异构字符串数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"too hot\"",
+      "expected": "18",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aa\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3525.求出数组的 X 值 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,5], k = 3, queries = [[2,2,0,2],[3,3,3,0],[0,1,0,1]]",
+      "expected": "[2,2,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,4,8,16,32], k = 4, queries = [[0,2,0,2],[0,2,0,1]]",
+      "expected": "[1,0]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,2,1,1], k = 2, queries = [[2,1,0,1]]",
+      "expected": "[5]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

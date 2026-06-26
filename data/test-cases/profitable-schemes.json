@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0879.盈利计划",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5, minProfit = 3, group = [2,2], profit = [2,3]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10, minProfit = 5, group = [2,3,5], profit = [6,7,8]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

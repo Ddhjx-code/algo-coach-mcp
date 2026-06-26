@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2412.完成所有交易的初始最少钱数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "transactions = [[2,1],[5,0],[4,2]]",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "transactions = [[3,0],[0,3]]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

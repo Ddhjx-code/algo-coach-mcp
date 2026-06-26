@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0826.安排工作以达到最大收益",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "difficulty = [2,4,6,8,10], profit = [10,20,30,40,50], worker = [4,5,6,7]",
+      "expected": "100",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "difficulty = [85,47,57], profit = [24,66,99], worker = [40,25,25]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

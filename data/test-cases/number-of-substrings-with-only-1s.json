@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1513.仅含 1 的子串数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = &quot;0110111&quot;",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;101&quot;",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;111111&quot;",
+      "expected": "21",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "s = &quot;000&quot;",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

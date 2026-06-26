@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2102.序列顺序查询",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"SORTracker\",\"add\",\"add\",\"get\",\"add\",\"get\",\"add\",\"get\",\"add\",\"get\",\"add\",\"get\",\"get\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[\"bradford\",2],[\"branford\",3],[],[\"alps\",2],[],[\"orland\",2],[],[\"orlando\",3],[],[\"alpine\",2],[],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

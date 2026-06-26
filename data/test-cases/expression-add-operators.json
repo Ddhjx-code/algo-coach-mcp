@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0282.给表达式添加运算符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"123\", target = 6",
+      "expected": "[\"1+2+3\", \"1*2*3\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"232\", target = 8",
+      "expected": "[\"2*3+2\", \"2+3*2\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"3456237490\", target = 9191",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

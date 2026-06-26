@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2029.石子游戏 IX",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "stones = [2,1]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [2]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [5,1,2,4,3]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0190.颠倒二进制位",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 43261596",
+      "expected": "964176192",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2147483644",
+      "expected": "1073741822",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

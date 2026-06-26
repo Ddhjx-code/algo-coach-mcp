@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0966.元音拼写检查器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "wordlist = [\"KiTe\",\"kite\",\"hare\",\"Hare\"], queries = [\"kite\",\"Kite\",\"KiTe\",\"Hare\",\"HARE\",\"Hear\",\"hear\",\"keti\",\"keet\",\"keto\"]",
+      "expected": "[\"kite\",\"KiTe\",\"KiTe\",\"Hare\",\"hare\",\"\",\"\",\"KiTe\",\"\",\"KiTe\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "wordlist = [\"yellow\"], queries = [\"YellOw\"]",
+      "expected": "[\"yellow\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

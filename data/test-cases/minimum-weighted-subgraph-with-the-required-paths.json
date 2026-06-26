@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2203.包含要求路径的最小带权子图",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 6, edges = [[0,2,2],[0,5,6],[1,0,3],[1,4,5],[2,1,1],[2,3,3],[2,3,4],[3,4,2],[4,5,1]], src1 = 0, src2 = 1, dest = 5",
+      "expected": "9",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, edges = [[0,1,1],[2,1,1]], src1 = 0, src2 = 1, dest = 2",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

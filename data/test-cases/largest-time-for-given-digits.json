@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0949.给定数字能组成的最大时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [1,2,3,4]",
+      "expected": "\"23:41\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [5,5,5,5]",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [0,0,0,0]",
+      "expected": "\"00:00\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [0,0,1,0]",
+      "expected": "\"10:00\"",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

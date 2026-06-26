@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2896.执行操作使两个字符串相等",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"1100011000\", s2 = \"0101001010\", x = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"10110\", s2 = \"00011\", x = 4",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

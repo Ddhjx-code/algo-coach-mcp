@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0804.唯一摩尔斯密码词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"gin\", \"zen\", \"gig\", \"msg\"]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"a\"]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

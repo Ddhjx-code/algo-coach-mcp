@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3136.有效单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"234Adas\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"b3\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"a3$e\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

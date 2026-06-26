@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3492.船上可以装载的最大集装箱数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, w = 3, maxWeight = 15",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, w = 5, maxWeight = 20",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2236.判断根结点是否等于子结点之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [10,4,6]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [5,3,1]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

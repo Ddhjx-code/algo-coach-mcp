@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3867.数对的最大公约数之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,6,4]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,6,2,8]",
+      "expected": "5",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

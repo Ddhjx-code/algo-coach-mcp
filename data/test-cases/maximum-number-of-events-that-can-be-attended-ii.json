@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1751.最多可以参加的会议数目 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "events = [[1,2,4],[3,4,3],[2,3,1]], k = 2",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "events = [[1,2,4],[3,4,3],[2,3,10]], k = 2",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "events = [[1,1,1],[2,2,2],[3,3,3],[4,4,4]], k = 3",
+      "expected": "9",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

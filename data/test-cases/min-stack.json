@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0155.最小栈",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"MinStack\",\"push\",\"push\",\"push\",\"getMin\",\"pop\",\"top\",\"getMin\"] [[],[-2],[0],[-3],[],[],[],[]]",
+      "expected": "[null,null,null,null,-3,null,0,-2]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

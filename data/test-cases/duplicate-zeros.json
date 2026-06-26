@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1089.复写零",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [1,0,2,3,0,4,5,0]",
+      "expected": "[1,0,0,2,3,0,0,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,2,3]",
+      "expected": "[1,2,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

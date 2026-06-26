@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0440.字典序的第K小数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 13, k = 2",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, k = 1",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

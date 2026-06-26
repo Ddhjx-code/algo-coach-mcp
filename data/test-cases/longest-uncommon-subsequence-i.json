@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0521.最长特殊序列 Ⅰ",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = \"aba\", b = \"cdc\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = \"aaa\", b = \"bbb\"",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "a = \"aaa\", b = \"aaa\"",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

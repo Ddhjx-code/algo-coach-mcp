@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3147.从魔法师身上吸取的最大能量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "energy = [5,2,-10,-5,1], k = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "energy = [-2,-3,-1], k = 2",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

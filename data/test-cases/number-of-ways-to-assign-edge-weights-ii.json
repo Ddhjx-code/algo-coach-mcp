@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3559.给边赋权值的方案数 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "edges = [[1,2]], queries = [[1,1],[1,2]]",
+      "expected": "[0,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "edges = [[1,2],[1,3],[3,4],[3,5]], queries = [[1,4],[3,4],[2,5]]",
+      "expected": "[2,1,4]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

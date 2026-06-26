@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2316.统计无向图中无法互相到达点对数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, edges = [[0,1],[0,2],[1,2]]",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 7, edges = [[0,2],[0,5],[2,4],[1,6],[5,4]]",
+      "expected": "14",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

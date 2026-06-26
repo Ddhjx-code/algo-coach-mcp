@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2208.将数组和减半的最少操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [5,19,8,1]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,8,20]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

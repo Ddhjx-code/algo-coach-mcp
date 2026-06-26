@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0748.最短补全词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "licensePlate = \"1s3 PSt\", words = [\"step\", \"steps\", \"stripe\", \"stepple\"]",
+      "expected": "\"steps\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "licensePlate = \"1s3 456\", words = [\"looks\", \"pest\", \"stew\", \"show\"]",
+      "expected": "\"pest\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

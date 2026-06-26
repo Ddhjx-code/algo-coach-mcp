@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3039.进行操作使字符串为空",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aabcbbca\"",
+      "expected": "\"ba\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\"",
+      "expected": "\"abcd\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

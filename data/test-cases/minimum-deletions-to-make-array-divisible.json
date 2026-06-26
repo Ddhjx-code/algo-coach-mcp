@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2344.使数组可以被整除的最少删除次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,3,2,4,3], numsDivide = [9,6,9,3,15]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,3,6], numsDivide = [8,2,6,10]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

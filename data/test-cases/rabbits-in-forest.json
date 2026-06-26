@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0781.森林中的兔子",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "answers = [1,1,2]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "answers = [10,10,10]",
+      "expected": "11",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

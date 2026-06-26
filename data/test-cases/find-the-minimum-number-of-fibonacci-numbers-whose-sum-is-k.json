@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1414.和为 K 的最少斐波那契数字数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 7",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 10",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "k = 19",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

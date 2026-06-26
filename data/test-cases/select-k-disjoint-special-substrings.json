@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3458.选择 K 个互不重叠的特殊子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcdbaefab\", k = 2",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"cdefdc\", k = 3",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abeabe\", k = 0",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

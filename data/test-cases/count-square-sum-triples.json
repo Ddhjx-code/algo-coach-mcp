@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1925.统计平方和三元组的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 10",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

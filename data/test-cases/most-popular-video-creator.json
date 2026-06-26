@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2456.最流行的视频创作者",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "creators = [\"alice\",\"bob\",\"alice\",\"chris\"], ids = [\"one\",\"two\",\"three\",\"four\"], views = [5,10,5,4]",
+      "expected": "[[\"alice\",\"one\"],[\"bob\",\"two\"]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "creators = [\"alice\",\"alice\",\"alice\"], ids = [\"a\",\"b\",\"c\"], views = [1,2,2]",
+      "expected": "[[\"alice\",\"b\"]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

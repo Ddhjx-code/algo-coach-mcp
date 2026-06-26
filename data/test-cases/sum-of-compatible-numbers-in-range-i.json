@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3954.区间内的兼容数字之和 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 2, k = 3",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, k = 1",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

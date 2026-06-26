@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2337.移动片段得到字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "start = \"_L__R__R_\", target = \"L______RR\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "start = \"R_L_\", target = \"__LR\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "start = \"_R\", target = \"R_\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

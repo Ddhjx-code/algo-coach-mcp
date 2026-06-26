@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3771.探索地牢的得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "hp = 11, damage = [3,6,7], requirement = [4,2,5]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "hp = 2, damage = [10000,1], requirement = [1,1]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

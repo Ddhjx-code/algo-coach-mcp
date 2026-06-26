@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2452.距离字典两次编辑以内的单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "queries = [\"word\",\"note\",\"ants\",\"wood\"], dictionary = [\"wood\",\"joke\",\"moat\"]",
+      "expected": "[\"word\",\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "queries = [\"yes\"], dictionary = [\"not\"]",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

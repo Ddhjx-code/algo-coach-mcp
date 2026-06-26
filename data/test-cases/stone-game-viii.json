@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1872.石子游戏 VIII",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "stones = [-1,2,-3,4,-5]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [7,-6,5,10,5,-2,-6]",
+      "expected": "13",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [-10,-12]",
+      "expected": "-22",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

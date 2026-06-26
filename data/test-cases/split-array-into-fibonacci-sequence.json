@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0842.将数组拆分成斐波那契序列",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"1101111\"",
+      "expected": "[11,0,11,11]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"112358130\"",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "\"0123\"",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

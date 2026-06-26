@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2657.找到两个数组的前缀公共数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "A = [1,3,2,4], B = [3,1,2,4]",
+      "expected": "[0,2,3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "A = [2,3,1], B = [3,1,2]",
+      "expected": "[0,1,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

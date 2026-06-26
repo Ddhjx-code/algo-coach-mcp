@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3044.出现频率最高的质数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[1,1],[9,9],[1,1]]",
+      "expected": "19",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[7]]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[9,7,8],[4,6,5],[2,8,6]]",
+      "expected": "97",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3797.统计在矩形格子里移动的路径数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [\"..\",\"#.\"], d = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [\"..\",\"#.\"], d = 2",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [\"#\"], d = 750",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [\"..\"], d = 1",
+      "expected": "4",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

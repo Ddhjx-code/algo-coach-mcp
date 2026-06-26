@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2081.k 镜像数字的和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "k = 2, n = 5",
+      "expected": "25",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "k = 3, n = 7",
+      "expected": "499",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "k = 7, n = 17",
+      "expected": "20379000",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

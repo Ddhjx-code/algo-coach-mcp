@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2946.循环移位后的矩阵相似检查",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mat = [[1,2,3],[4,5,6],[7,8,9]], k = 4",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[1,2,1,2],[5,5,5,5],[6,3,6,3]], k = 2",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "mat = [[2,2],[2,2]], k = 3",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

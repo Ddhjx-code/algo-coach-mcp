@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3751.范围内总波动值 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num1 = 120, num2 = 130",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num1 = 198, num2 = 202",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num1 = 4848, num2 = 4848",
+      "expected": "2",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

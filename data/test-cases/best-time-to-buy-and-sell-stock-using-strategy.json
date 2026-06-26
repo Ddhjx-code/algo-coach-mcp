@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3652.按策略买卖股票的最佳时机",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "prices = [4,2,8], strategy = [-1,0,1], k = 2",
+      "expected": "10",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "prices = [5,4,3], strategy = [1,1,0], k = 2",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3801.合并有序列表的最小成本",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "lists = [[1,3,5],[2,4],[6,7,8]]",
+      "expected": "18",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "lists = [[1,1,5],[1,4,7,8]]",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "lists = [[1],[3]]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "lists = [[1],[1]]",
+      "expected": "2",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

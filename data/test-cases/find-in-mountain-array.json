@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1095.山脉数组中查找目标值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "mountainArr = [1,2,3,4,5,3,1], target = 3",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "mountainArr = [0,1,2,4,2,1], target = 3",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

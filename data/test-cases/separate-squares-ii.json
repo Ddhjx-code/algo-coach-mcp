@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3454.分割正方形 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "squares = [[0,0,1],[2,2,1]]",
+      "expected": "1.00000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "squares = [[0,0,2],[1,1,1]]",
+      "expected": "1.00000",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

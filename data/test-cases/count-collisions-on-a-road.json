@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2211.统计道路上的碰撞次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "directions = \"RLRSLL\"",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "directions = \"LLRR\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

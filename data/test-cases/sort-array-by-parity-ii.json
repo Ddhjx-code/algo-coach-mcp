@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0922.按奇偶排序数组 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [4,2,5,7]",
+      "expected": "[4,5,2,7]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3]",
+      "expected": "[2,3]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

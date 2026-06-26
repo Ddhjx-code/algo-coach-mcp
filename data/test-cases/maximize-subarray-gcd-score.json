@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3574.最大子数组 GCD 分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,4], k = 1",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3,5,7], k = 2",
+      "expected": "14",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [5,5,5], k = 1",
+      "expected": "15",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

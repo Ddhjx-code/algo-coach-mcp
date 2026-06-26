@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1461.检查一个字符串是否包含所有长度为 K 的二进制子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"00110110\", k = 2",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0110\", k = 1",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0110\", k = 2",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3884.双端字符匹配",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abcacbd\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abc\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcdab\"",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

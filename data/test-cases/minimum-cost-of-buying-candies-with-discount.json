@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2144.打折购买糖果的最小开销",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "cost = [1,2,3]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "cost = [6,5,7,9,2,2]",
+      "expected": "23",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "cost = [5,5]",
+      "expected": "10",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

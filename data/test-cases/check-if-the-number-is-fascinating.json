@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2729.判断一个数是否迷人",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 192",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 100",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

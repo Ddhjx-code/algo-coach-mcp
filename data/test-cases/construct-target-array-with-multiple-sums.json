@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1354.多次求和构造目标数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "target = [9,3,5]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "target = [1,1,1,2]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "target = [8,5]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3184.构成整天的下标对数目 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "hours = [12,12,30,24,24]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "hours = [72,48,24,3]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

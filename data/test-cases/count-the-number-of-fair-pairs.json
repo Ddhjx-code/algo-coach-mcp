@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2563.统计公平数对的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [0,1,7,4,4,5], lower = 3, upper = 6",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,7,9,2,5], lower = 11, upper = 11",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

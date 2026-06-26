@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2525.根据规则将箱子分类",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "length = 1000, width = 35, height = 700, mass = 300",
+      "expected": "\"Heavy\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "length = 200, width = 50, height = 800, mass = 50",
+      "expected": "\"Neither\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

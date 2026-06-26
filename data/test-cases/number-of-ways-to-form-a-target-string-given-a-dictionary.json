@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1639.通过给定词典构造目标字符串的方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"acca\",\"bbbb\",\"caca\"], target = \"aba\"",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"abba\",\"baab\"], target = \"bab\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"abcd\"], target = \"abcd\"",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"abab\",\"baba\",\"abba\",\"baab\"], target = \"abba\"",
+      "expected": "16",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

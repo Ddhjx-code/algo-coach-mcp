@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1768.交替合并字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word1 = \"abc\", word2 = \"pqr\"",
+      "expected": "\"apbqcr\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"ab\", word2 = \"pqrs\"",
+      "expected": "\"apbqrs\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word1 = \"abcd\", word2 = \"pq\"",
+      "expected": "\"apbqcd\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

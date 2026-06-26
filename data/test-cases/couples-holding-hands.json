@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0765.情侣牵手",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "row = [0,2,1,3]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "row = [3,2,0,1]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2935.找出强数对的最大异或值 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3,4,5]",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,100]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [500,520,2500,3000]",
+      "expected": "1020",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

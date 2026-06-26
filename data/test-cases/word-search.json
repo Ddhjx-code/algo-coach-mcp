@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0079.单词搜索",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "board = [['A','B','C','E'],['S','F','C','S'],['A','D','E','E']], word = \"ABCCED\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "board = [['A','B','C','E'],['S','F','C','S'],['A','D','E','E']], word = \"SEE\"",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "board = [['A','B','C','E'],['S','F','C','S'],['A','D','E','E']], word = \"ABCB\"",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

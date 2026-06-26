@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3906.统计网格路径中好整数的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "l = 8, r = 10, directions = \"DDDRRR\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "l = 123456789, r = 123456790, directions = \"DDRRDR\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "l = 1288561398769758, r = 1288561398769758, directions = \"RRRDDD\"",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

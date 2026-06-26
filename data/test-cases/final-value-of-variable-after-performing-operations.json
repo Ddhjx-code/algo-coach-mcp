@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2011.执行操作后的变量值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "operations = [\"--X\",\"X++\",\"X++\"]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "operations = [\"++X\",\"++X\",\"X++\"]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "operations = [\"X++\",\"++X\",\"--X\",\"X--\"]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

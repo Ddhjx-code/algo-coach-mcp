@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1545.找出第 N 个二进制字符串中的第 K 位",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, k = 1",
+      "expected": "\"0\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, k = 11",
+      "expected": "\"1\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, k = 1",
+      "expected": "\"0\"",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, k = 3",
+      "expected": "\"1\"",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

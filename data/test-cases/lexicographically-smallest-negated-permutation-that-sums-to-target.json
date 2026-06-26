@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3752.字典序最小和为目标值且绝对值是排列的数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, target = 0",
+      "expected": "[-3,1,2]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1, target = 10000000000",
+      "expected": "[]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

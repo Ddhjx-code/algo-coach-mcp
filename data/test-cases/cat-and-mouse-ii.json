@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1728.猫和老鼠 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [\"####F\",\"#C...\",\"M....\"], catJump = 1, mouseJump = 2",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [\"M.C...F\"], catJump = 1, mouseJump = 4",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [\"M.C...F\"], catJump = 1, mouseJump = 3",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [\"C...#\",\"...#F\",\"....#\",\"M....\"], catJump = 2, mouseJump = 5",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [\".M...\",\"..#..\",\"#..#.\",\"C#.#.\",\"...#F\"], catJump = 3, mouseJump = 1",
+      "expected": "true",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

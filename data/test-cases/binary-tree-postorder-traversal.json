@@ -1,0 +1,30 @@
+{
+  "problemSlug": "0145.二叉树的后序遍历",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,null,2,3]",
+      "expected": "[3,2,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1,2,3,4,5,null,8,null,null,6,7,9]",
+      "expected": "[4,6,7,5,2,9,8,3,1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = []",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1]",
+      "expected": "[1]",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

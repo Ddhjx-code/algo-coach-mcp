@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0977.有序数组的平方",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [-4,-1,0,3,10]",
+      "expected": "[0,1,9,16,100]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [-7,-3,2,3,11]",
+      "expected": "[4,9,9,49,121]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3258.统计满足 K 约束的子字符串数量 I",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"10101\", k = 1",
+      "expected": "12",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1010101\", k = 2",
+      "expected": "25",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"11111\", k = 1",
+      "expected": "15",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

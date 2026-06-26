@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0524.通过删除字母匹配到字典里最长单词",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abpcplea\", dictionary = [\"ale\",\"apple\",\"monkey\",\"plea\"]",
+      "expected": "\"apple\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abpcplea\", dictionary = [\"a\",\"b\",\"c\"]",
+      "expected": "\"a\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

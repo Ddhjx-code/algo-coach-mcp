@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3076.数组中的最短非公共子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [\"cab\",\"ad\",\"bad\",\"c\"]",
+      "expected": "[\"ab\",\"\",\"ba\",\"\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [\"abc\",\"bcd\",\"abcd\"]",
+      "expected": "[\"\",\"\",\"abcd\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2013.检测正方形",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"DetectSquares\",\"add\",\"add\",\"add\",\"count\",\"count\",\"add\",\"count\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[],[[3,10]],[[11,2]],[[3,2]],[[11,10]],[[14,8]],[[11,2]],[[11,10]]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

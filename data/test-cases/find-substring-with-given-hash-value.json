@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2156.查找给定哈希值的子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"leetcode\", power = 7, modulo = 20, k = 2, hashValue = 0",
+      "expected": "\"ee\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"fbxzaad\", power = 31, modulo = 100, k = 3, hashValue = 32",
+      "expected": "\"fbx\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3760.不同首字母的子字符串数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"abab\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcd\"",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"aaaa\"",
+      "expected": "1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

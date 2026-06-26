@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0854.相似度为 K 的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s1 = \"ab\", s2 = \"ba\"",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s1 = \"abc\", s2 = \"bca\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

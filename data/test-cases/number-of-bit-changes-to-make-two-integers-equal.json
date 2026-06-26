@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3226.使两个整数相等的位更改次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 13, k = 4",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 21, k = 21",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 14, k = 13",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

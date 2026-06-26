@@ -1,0 +1,30 @@
+{
+  "problemSlug": "3785.避免禁用值的最小交换次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3], forbidden = [3,2,1]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,6,6,5], forbidden = [4,6,5,5]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [7,7], forbidden = [8,7]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2], forbidden = [2,1]",
+      "expected": "0",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

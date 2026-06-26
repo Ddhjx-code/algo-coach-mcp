@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2266.统计打字方案数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "pressedKeys = \"22233\"",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "pressedKeys = \"222222222222222222222222222222222222\"",
+      "expected": "82876089",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

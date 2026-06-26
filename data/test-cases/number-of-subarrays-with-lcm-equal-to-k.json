@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2470.最小公倍数等于 K 的子数组数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,6,2,7,1], k = 6",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [3], k = 2",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1373.二叉搜索子树的最大键值和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [1,4,3,2,4,2,5,null,null,null,null,null,null,4,6]",
+      "expected": "20",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [4,3,null,1,2]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [-4,-2,-5]",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "root = [2,1,3]",
+      "expected": "6",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "root = [5,4,8,3,null,6,3]",
+      "expected": "7",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

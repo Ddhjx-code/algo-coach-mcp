@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1808.好因子的最大数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "primeFactors = 5",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "primeFactors = 8",
+      "expected": "18",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3075.幸福值最大化的选择方案",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "happiness = [1,2,3], k = 2",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "happiness = [1,1,1,1], k = 2",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "happiness = [2,3,4,5], k = 1",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2384.最大回文数字",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = \"444947137\"",
+      "expected": "\"7449447\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = \"00009\"",
+      "expected": "\"9\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

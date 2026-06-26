@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2000.反转单词前缀",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \" abcd efd\", ch = 'd'",
+      "expected": "\" dcba efd\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \" xyxz xe\", ch = 'z'",
+      "expected": "\" zxyx xe\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"abcd\", ch = 'z'",
+      "expected": "\"abcd\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

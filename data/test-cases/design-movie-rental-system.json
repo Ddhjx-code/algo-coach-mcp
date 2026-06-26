@@ -1,0 +1,12 @@
+{
+  "problemSlug": "1912.设计电影租借系统",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"MovieRentingSystem\", \"search\", \"rent\", \"rent\", \"report\", \"drop\", \"search\"] [[3, [[0, 1, 5], [0, 2, 6], [0, 3, 7], [1, 1, 4], [1, 2, 7], [2, 1, 5]]], [1], [0, 1], [1, 2], [], [1, 2], [2]]",
+      "expected": "[null, [1, 0, 2], null, null, [[0, 1], [1, 2]], null, [0, 1]]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

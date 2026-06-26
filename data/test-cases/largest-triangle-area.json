@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0812.最大三角形面积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[0,0],[0,1],[1,0],[0,2],[2,0]]",
+      "expected": "2.00000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[1,0],[0,0],[0,1]]",
+      "expected": "0.50000",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

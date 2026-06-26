@@ -1,0 +1,12 @@
+{
+  "problemSlug": "0677.键值映射",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"MapSum\", \"insert\", \"sum\", \"insert\", \"sum\"] [[], [\"apple\", 3], [\"ap\"], [\"app\", 2], [\"ap\"]]",
+      "expected": "[null, null, 3, null, 5]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1038.从二叉搜索树到更大和树",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]",
+      "expected": "[30,36,21,36,35,26,15,null,null,null,33,null,null,null,8]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [0,null,1]",
+      "expected": "[1,null,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

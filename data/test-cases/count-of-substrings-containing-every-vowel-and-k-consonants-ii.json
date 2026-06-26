@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3306.元音辅音字符串计数 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"aeioqq\", k = 1",
+      "expected": "0",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"aeiou\", k = 0",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"ieaouqqieaouqq\", k = 1",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

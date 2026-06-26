@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2342.数位和相等数对的最大和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [18,43,36,13,7]",
+      "expected": "54",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [10,12,19,14]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

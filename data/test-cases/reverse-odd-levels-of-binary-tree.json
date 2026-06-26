@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2415.反转二叉树的奇数层",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [2,3,5,8,13,21,34]",
+      "expected": "[2,5,3,8,13,21,34]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [7,13,11]",
+      "expected": "[7,11,13]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "root = [0,1,2,0,0,0,0,1,1,1,1,2,2,2,2]",
+      "expected": "[0,2,1,0,0,0,0,2,2,2,2,1,1,1,1]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

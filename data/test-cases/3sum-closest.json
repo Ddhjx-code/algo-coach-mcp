@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0016.最接近的三数之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [-1,2,1,-4], target = 1",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,0,0], target = 1",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

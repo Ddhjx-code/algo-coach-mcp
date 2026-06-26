@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1105.填充书架",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "books = [[1,1],[2,3],[2,3],[1,1],[1,1],[1,1],[1,2]], shelfWidth = 4",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "books = [[1,3],[2,4],[3,2]], shelfWidth = 6",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

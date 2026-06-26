@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0962.最大宽度坡",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[6,0,8,2,1,5]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[9,8,1,0,1,9,4,0,4,1]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

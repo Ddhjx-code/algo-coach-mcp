@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3695.交换元素后的最大交替和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2,3], swaps = [[0,2],[1,2]]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3], swaps = [[1,2]]",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1000000000,1,1000000000,1,1000000000], swaps = []",
+      "expected": "-2999999997",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

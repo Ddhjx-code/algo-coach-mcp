@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2310.个位数字为 K 的整数之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 58, k = 9",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 37, k = 2",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 0, k = 7",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

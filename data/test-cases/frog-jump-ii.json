@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2498.青蛙过河 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "stones = [0,2,5,6,7]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "stones = [0,3,9]",
+      "expected": "9",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

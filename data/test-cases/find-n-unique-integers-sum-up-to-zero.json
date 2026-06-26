@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1304.和为零的 N 个不同整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5",
+      "expected": "[-7,-1,1,3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3",
+      "expected": "[-1,0,1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "[0]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

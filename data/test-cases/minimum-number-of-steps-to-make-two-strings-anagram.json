@@ -1,0 +1,42 @@
+{
+  "problemSlug": "1347.制造字母异位词的最小步骤数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "\"bab\"",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "\"aba\"",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "\"leetcode\"",
+      "expected": null,
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "\"practice\"",
+      "expected": null,
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "\"anagram\"",
+      "expected": null,
+      "description": "example 5",
+      "category": "basic"
+    },
+    {
+      "input": "\"mangaar\"",
+      "expected": null,
+      "description": "example 6",
+      "category": "basic"
+    }
+  ]
+}

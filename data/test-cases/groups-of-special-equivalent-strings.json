@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0893.特殊等价字符串组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"abcd\",\"cdab\",\"cbad\",\"xyzz\",\"zzxy\",\"zzyx\"]",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"abc\",\"acb\",\"bac\",\"bca\",\"cab\",\"cba\"]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2125.银行中的激光束数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "bank = [\"011001\",\"000000\",\"010100\",\"001000\"]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "bank = [\"000\",\"111\",\"000\"]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2185.统计包含给定前缀的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"pay\",\" at tention\",\"practice\",\" at tend\"], pref = \"at\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"leetcode\",\"win\",\"loops\",\"success\"], pref = \"code\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

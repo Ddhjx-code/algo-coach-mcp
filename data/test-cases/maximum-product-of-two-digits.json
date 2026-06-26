@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3536.两个数字的最大乘积",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 31",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 22",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 124",
+      "expected": "8",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

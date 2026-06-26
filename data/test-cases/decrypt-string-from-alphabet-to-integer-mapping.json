@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1309.解码字母到整数映射",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"10#11#12\"",
+      "expected": "\"jkab\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"1326#\"",
+      "expected": "\"acz\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

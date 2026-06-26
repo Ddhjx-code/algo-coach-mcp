@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0481.神奇字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 6",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

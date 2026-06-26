@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1381.设计一个支持增量操作的栈",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"CustomStack\",\"push\",\"push\",\"pop\",\"push\",\"push\",\"push\",\"increment\",\"increment\",\"pop\",\"pop\",\"pop\",\"pop\"]",
+      "expected": null,
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "[[3],[1],[2],[],[2],[3],[4],[5,100],[2,100],[],[],[],[]]",
+      "expected": null,
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

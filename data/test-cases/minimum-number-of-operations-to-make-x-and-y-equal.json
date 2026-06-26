@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2998.使 X 和 Y 相等的最少操作次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "x = 26, y = 1",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "x = 54, y = 2",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "x = 25, y = 30",
+      "expected": "5",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2140.解决智力问题",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "questions = [[3,2],[4,3],[4,4],[2,5]]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "questions = [[1,1],[2,2],[3,3],[4,4],[5,5]]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

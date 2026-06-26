@@ -11,6 +11,7 @@ import {
   mergeWithExisting,
   buildTopicOrder,
   buildProblemMeta,
+  parseExamplesFromHtml,
 } from "../src/sync/transformer.js";
 import { DIFFICULTY_MAP } from "../src/sync/types.js";
 import type { CheckpointEntry } from "../src/sync/types.js";
@@ -122,6 +123,7 @@ async function main() {
       tags: [],
       difficulty: DIFFICULTY_MAP[problem.difficulty.level],
       exampleTestcases: null,
+      codeSnippets: null,
       hints: [],
       paidOnly: false,
     };
@@ -134,6 +136,7 @@ async function main() {
         entry.comTitle = detail.title;
         entry.tags = detail.topicTags;
         entry.exampleTestcases = detail.exampleTestcases;
+        entry.codeSnippets = detail.codeSnippets;
         entry.hints = detail.hints;
         if (detail.isPaidOnly) entry.paidOnly = true;
       } else {
@@ -151,6 +154,8 @@ async function main() {
         if (!entry.tags.length) entry.tags = detail.topicTags;
         if (!entry.exampleTestcases)
           entry.exampleTestcases = detail.exampleTestcases;
+        if (!entry.codeSnippets)
+          entry.codeSnippets = detail.codeSnippets;
         if (!entry.hints.length) entry.hints = detail.hints;
       } else {
         entry.cnFetched = true;
@@ -221,23 +226,42 @@ async function main() {
   mkdirSync(TEST_CASES_DIR, { recursive: true });
   let testCasesWritten = 0;
   for (const entry of Object.values(checkpoint.entries)) {
-    if (!entry.exampleTestcases || entry.paidOnly) continue;
+    if (entry.paidOnly) continue;
+    const html = entry.cnContent ?? entry.comContent;
+    const examples = parseExamplesFromHtml(html);
     const filePath = resolve(TEST_CASES_DIR, `${entry.titleSlug}.json`);
-    const suite = {
-      problemSlug: `${String(entry.frontendId).padStart(4, "0")}.${entry.cnTitle ?? entry.comTitle ?? entry.titleSlug}`,
-      functionName: "solution",
-      cases: entry.exampleTestcases
-        .split("\n")
-        .filter((line) => line.trim())
-        .map((input, i) => ({
-          input: input.trim(),
-          expected: null,
+    const slug = `${String(entry.frontendId).padStart(4, "0")}.${entry.cnTitle ?? entry.comTitle ?? entry.titleSlug}`;
+
+    if (examples.length > 0) {
+      const suite = {
+        problemSlug: slug,
+        functionName: "solution",
+        cases: examples.map((ex, i) => ({
+          input: ex.input,
+          expected: ex.output,
           description: `example ${i + 1}`,
           category: "basic",
         })),
-    };
-    writeFileSync(filePath, JSON.stringify(suite, null, 2), "utf-8");
-    testCasesWritten++;
+      };
+      writeFileSync(filePath, JSON.stringify(suite, null, 2), "utf-8");
+      testCasesWritten++;
+    } else if (entry.exampleTestcases) {
+      const suite = {
+        problemSlug: slug,
+        functionName: "solution",
+        cases: entry.exampleTestcases
+          .split("\n")
+          .filter((line) => line.trim())
+          .map((input, i) => ({
+            input: input.trim(),
+            expected: null,
+            description: `example ${i + 1}`,
+            category: "basic",
+          })),
+      };
+      writeFileSync(filePath, JSON.stringify(suite, null, 2), "utf-8");
+      testCasesWritten++;
+    }
   }
   console.log(
     `[sync] Writing test-cases/ (${testCasesWritten} files)`

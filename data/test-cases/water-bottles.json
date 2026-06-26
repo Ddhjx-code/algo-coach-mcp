@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1518.换水问题",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "numBottles = 9, numExchange = 3",
+      "expected": "13",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "numBottles = 15, numExchange = 4",
+      "expected": "19",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

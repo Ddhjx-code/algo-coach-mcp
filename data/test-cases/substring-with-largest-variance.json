@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2272.最大波动的子字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"aababbb\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"abcde\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

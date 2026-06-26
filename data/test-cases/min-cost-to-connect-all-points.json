@@ -1,0 +1,36 @@
+{
+  "problemSlug": "1584.连接所有点的最小费用",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "points = [[0,0],[2,2],[3,10],[5,2],[7,0]]",
+      "expected": "20",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[3,12],[-2,5],[-4,1]]",
+      "expected": "18",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[0,0],[1,1],[1,0],[-1,1]]",
+      "expected": "4",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[-1000000,-1000000],[1000000,1000000]]",
+      "expected": "4000000",
+      "description": "example 4",
+      "category": "basic"
+    },
+    {
+      "input": "points = [[0,0]]",
+      "expected": "0",
+      "description": "example 5",
+      "category": "basic"
+    }
+  ]
+}

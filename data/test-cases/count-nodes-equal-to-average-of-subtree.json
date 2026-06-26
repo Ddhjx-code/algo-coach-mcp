@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2265.统计值等于子树平均值的节点数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "root = [4,8,5,0,1,null,6]",
+      "expected": "5",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "root = [1]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

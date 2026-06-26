@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0451.根据字符出现频率排序",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"tree\"",
+      "expected": "\"eert\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"cccaaa\"",
+      "expected": "\"cccaaa\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"Aabb\"",
+      "expected": "\"bbAa\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

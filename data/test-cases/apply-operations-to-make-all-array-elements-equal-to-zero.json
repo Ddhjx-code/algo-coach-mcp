@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2772.使数组中的所有元素都等于零",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,2,3,1,1,0], k = 3",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,3,1,1], k = 2",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3894.交通信号灯的颜色",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "timer = 60",
+      "expected": "\"Red\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "timer = 5",
+      "expected": "\"Invalid\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

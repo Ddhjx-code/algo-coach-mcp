@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2860.让所有学生保持开心的分组方法数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,1]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [6,0,3,3,6,7,2,7]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

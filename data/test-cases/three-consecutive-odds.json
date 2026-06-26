@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1550.存在连续三个奇数的数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [2,6,4,1]",
+      "expected": "false",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,2,34,3,4,5,7,23,12]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

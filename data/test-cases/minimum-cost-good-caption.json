@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3441.变成好标题的最少代价",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "caption = \"cdcd\"",
+      "expected": "\"cccc\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "caption = \"aca\"",
+      "expected": "\"aaa\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "caption = \"bc\"",
+      "expected": "\"\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

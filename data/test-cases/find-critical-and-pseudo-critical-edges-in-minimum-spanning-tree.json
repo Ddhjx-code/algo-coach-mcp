@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1489.找到最小生成树里的关键边和伪关键边",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5, edges = [[0,1,1],[1,2,1],[2,3,2],[0,3,2],[0,4,3],[3,4,3],[1,4,6]]",
+      "expected": "[[0,1],[2,3,4,5]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, edges = [[0,1,1],[1,2,1],[2,3,1],[0,3,1]]",
+      "expected": "[[],[0,1,2,3]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

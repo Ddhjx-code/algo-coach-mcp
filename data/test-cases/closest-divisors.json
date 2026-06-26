@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1362.最接近的因数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "num = 8",
+      "expected": "[3,3]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "num = 123",
+      "expected": "[5,25]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "num = 999",
+      "expected": "[40,25]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

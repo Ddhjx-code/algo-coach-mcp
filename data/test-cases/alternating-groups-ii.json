@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3208.交替组 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "colors = [0,1,0,1,0], k = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "colors = [0,1,0,0,1,0,1], k = 6",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "colors = [1,1,0,1], k = 4",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

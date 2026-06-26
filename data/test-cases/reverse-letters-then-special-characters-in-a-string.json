@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3823.反转一个字符串里的字母后反转特殊字符",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \" )ebc#da@f( \"",
+      "expected": "\" (fad@cb#e) \"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"z\"",
+      "expected": "\"z\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"!@#$%^&amp;*()\"",
+      "expected": "\" )(*&amp;^%$#@! \"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

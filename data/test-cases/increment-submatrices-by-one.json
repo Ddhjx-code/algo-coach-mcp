@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2536.子矩阵元素加 1",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, queries = [[1,1,2,2],[0,0,1,1]]",
+      "expected": "[[1,1,0],[1,2,1],[0,1,1]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 2, queries = [[0,0,1,1]]",
+      "expected": "[[1,1],[1,1]]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1001.网格照明",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 5, lamps = [[0,0],[4,4]], queries = [[1,1],[1,0]]",
+      "expected": "[1,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, lamps = [[0,0],[4,4]], queries = [[1,1],[1,1]]",
+      "expected": "[1,1]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, lamps = [[0,0],[0,4]], queries = [[0,4],[0,1],[1,4]]",
+      "expected": "[1,1,0]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

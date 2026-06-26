@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1899.合并若干三元组以形成目标三元组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "triplets = [[2,5,3],[1,8,4],[1,7,5]], target = [2,7,5]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "triplets = [[1,3,4],[2,5,8]], target = [2,5,8]",
+      "expected": "true",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "triplets = [[2,5,3],[2,3,4],[1,2,5],[5,2,3]], target = [5,5,5]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "triplets = [[3,4,5],[4,5,6]], target = [3,2,5]",
+      "expected": "false",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

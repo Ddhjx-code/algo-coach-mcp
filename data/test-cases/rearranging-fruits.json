@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2561.重排水果",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "basket1 = [4,2,2,2], basket2 = [1,4,1,2]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "basket1 = [2,3,4,1], basket2 = [3,2,5,1]",
+      "expected": "-1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

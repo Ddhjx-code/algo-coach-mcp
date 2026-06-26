@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0014.最长公共前缀",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "strs = [\"flower\",\"flow\",\"flight\"]",
+      "expected": "\"fl\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "strs = [\"dog\",\"racecar\",\"car\"]",
+      "expected": "\"\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

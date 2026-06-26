@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2864.最大二进制奇数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"010\"",
+      "expected": "\"001\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"0101\"",
+      "expected": "\"1001\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

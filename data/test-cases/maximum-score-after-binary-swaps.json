@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3781.二进制交换后的最大分数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [2,1,5,2,3], s = \"01010\"",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [4,7,2,9], s = \"0000\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

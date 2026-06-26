@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1616.分割两个字符串得到回文串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "a = \"x\", b = \"y\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "a = \"xbdef\", b = \"xecab\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "a = \"ulacfd\", b = \"jizalu\"",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3869.统计区间内奇妙数的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "l = 8, r = 10",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "l = 12340, r = 12341",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "l = 123456788, r = 123456788",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1408.数组中的字符串匹配",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"mass\",\"as\",\"hero\",\"superhero\"]",
+      "expected": "[\"as\",\"hero\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"leetcode\",\"et\",\"code\"]",
+      "expected": "[\"et\",\"code\"]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"blue\",\"green\",\"bu\"]",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3387.两天自由外汇交易后的最大货币数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "initialCurrency = \"EUR\", pairs1 = [[\"EUR\",\"USD\"],[\"USD\",\"JPY\"]], rates1 = [2.0,3.0], pairs2 = [[\"JPY\",\"USD\"],[\"USD\",\"CHF\"],[\"CHF\",\"EUR\"]], rates2 = [4.0,5.0,6.0]",
+      "expected": "720.00000",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "initialCurrency = \"NGN\", pairs1 = [[\"NGN\",\"EUR\"]], rates1 = [9.0], pairs2 = [[\"NGN\",\"EUR\"]], rates2 = [6.0]",
+      "expected": "1.50000",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "initialCurrency = \"USD\", pairs1 = [[\"USD\",\"EUR\"]], rates1 = [1.0], pairs2 = [[\"EUR\",\"JPY\"]], rates2 = [10.0]",
+      "expected": "1.00000",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

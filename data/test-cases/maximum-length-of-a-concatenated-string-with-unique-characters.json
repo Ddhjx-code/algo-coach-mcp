@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1239.串联字符串的最大长度",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [\"un\",\"iq\",\"ue\"]",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [\"cha\",\"r\",\"act\",\"ers\"]",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [\"abcdefghijklmnopqrstuvwxyz\"]",
+      "expected": "26",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

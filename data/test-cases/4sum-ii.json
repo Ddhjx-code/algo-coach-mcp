@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0454.四数相加 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums1 = [1,2], nums2 = [-2,-1], nums3 = [-1,2], nums4 = [0,2]",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums1 = [0], nums2 = [0], nums3 = [0], nums4 = [0]",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

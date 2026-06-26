@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1900.最佳运动员的比拼回合",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 11, firstPlayer = 2, secondPlayer = 4",
+      "expected": "[3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 5, firstPlayer = 1, secondPlayer = 5",
+      "expected": "[1,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

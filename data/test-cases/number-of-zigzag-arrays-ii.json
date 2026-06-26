@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3700.锯齿形数组的总数 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 3, l = 4, r = 5",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 3, l = 1, r = 3",
+      "expected": "10",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3276.选择矩阵中单元格的最大得分",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "grid = [[1,2,3],[4,3,2],[1,1,1]]",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "grid = [[8,7,6],[8,3,2]]",
+      "expected": "15",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

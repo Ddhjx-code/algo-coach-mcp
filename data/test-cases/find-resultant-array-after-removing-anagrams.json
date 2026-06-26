@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2273.移除字母异位词后的结果数组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "words = [\"abba\",\"baba\",\"bbaa\",\"cd\",\"cd\"]",
+      "expected": "[\"abba\",\"cd\"]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "words = [\"a\",\"b\",\"c\",\"d\",\"e\"]",
+      "expected": "[\"a\",\"b\",\"c\",\"d\",\"e\"]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

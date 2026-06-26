@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0925.长按键入",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "name = \"alex\", typed = \"aaleex\"",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "name = \"saeed\", typed = \"ssaaedd\"",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

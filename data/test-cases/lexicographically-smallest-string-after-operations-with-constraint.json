@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3106.满足距离约束且字典序最小的字符串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"zbbz\", k = 3",
+      "expected": "\"aaaz\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"xaxcd\", k = 4",
+      "expected": "\"aawcd\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"lol\", k = 0",
+      "expected": "\"lol\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

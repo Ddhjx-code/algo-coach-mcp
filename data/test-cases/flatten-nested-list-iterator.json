@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0341.扁平化嵌套列表迭代器",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nestedList = [[1,1],2,[1,1]]",
+      "expected": "[1,1,2,1,1]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nestedList = [1,[4,[6]]]",
+      "expected": "[1,4,6]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

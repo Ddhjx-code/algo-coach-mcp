@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3081.替换字符串中的问号使分数最小",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"???\"",
+      "expected": "\"abc\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"a?a?\"",
+      "expected": "\"abac\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

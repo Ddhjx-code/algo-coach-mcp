@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3900.一次交换后的最长平衡子串",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"100001\"",
+      "expected": "4",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"111\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

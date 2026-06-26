@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3557.不相交子字符串的最大数量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "word = \"abcdeafdef\"",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "word = \"bcdaaaab\"",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "problemSlug": "2526.找到数据流中的连续整数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "[\"DataStream\", \"consec\", \"consec\", \"consec\", \"consec\"] [[4, 3], [4], [4], [4], [3]]",
+      "expected": "[null, false, false, true, false]",
+      "description": "example 1",
+      "category": "basic"
+    }
+  ]
+}

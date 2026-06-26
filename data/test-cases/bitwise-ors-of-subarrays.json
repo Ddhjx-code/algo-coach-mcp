@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0898.子数组按位或操作",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "arr = [0]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,1,2]",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "arr = [1,2,4]",
+      "expected": "6",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

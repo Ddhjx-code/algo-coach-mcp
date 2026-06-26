@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2325.解密消息",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "key = \"the quick brown fox jumps over the lazy dog\", message = \"vkbs bs t suepuv\"",
+      "expected": "\"this is a secret\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "key = \"eljuxhpwnyrdgtqkviszcfmabo\", message = \"zwx hnfx lqantp mnoeius ycgk vcnjrdb\"",
+      "expected": "\"the five boxing wizards jump quickly\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

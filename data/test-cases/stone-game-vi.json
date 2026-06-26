@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1686.石子游戏 VI",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "aliceValues = [1,3], bobValues = [2,1]",
+      "expected": "1",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "aliceValues = [1,2], bobValues = [3,1]",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "aliceValues = [2,4,3], bobValues = [1,6,7]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

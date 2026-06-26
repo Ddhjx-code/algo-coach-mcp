@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1992.找到所有的农场组",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "land = [[1,0,0],[0,1,1],[0,1,1]]",
+      "expected": "[[0,0,0,0],[1,1,2,2]]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "land = [[1,1],[1,1]]",
+      "expected": "[[0,0,1,1]]",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "land = [[0]]",
+      "expected": "[]",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -44,6 +44,7 @@ export interface CheckpointEntry {
   tags: Array<{ name: string; slug: string }>;
   difficulty: Difficulty;
   exampleTestcases: string | null;
+  codeSnippets: Array<{ lang: string; langSlug: string; code: string }> | null;
   hints: string[];
   paidOnly: boolean;
   error?: string;

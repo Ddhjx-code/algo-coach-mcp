@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3527.找到最常见的回答",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "responses = [[\"good\",\"ok\",\"good\",\"ok\"],[\"ok\",\"bad\",\"good\",\"ok\",\"ok\"],[\"good\"],[\"bad\"]]",
+      "expected": "\"good\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "responses = [[\"good\",\"ok\",\"good\"],[\"ok\",\"bad\"],[\"bad\",\"notsure\"],[\"great\",\"good\"]]",
+      "expected": "\"bad\"",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

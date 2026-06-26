@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3726.移除十进制表示中的所有零",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 1020030",
+      "expected": "123",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 1",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

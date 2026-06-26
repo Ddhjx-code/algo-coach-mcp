@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3814.预算下的最大总容量",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "costs = [4,8,5,3], capacity = [1,5,2,7], budget = 8",
+      "expected": "8",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "costs = [3,5,7,4], capacity = [2,4,3,6], budget = 7",
+      "expected": "6",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "costs = [2,2,2], capacity = [3,5,4], budget = 5",
+      "expected": "9",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0640.求解方程",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "equation = \"x+5-3+x=6+x-2\"",
+      "expected": "\"x=2\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "equation = \"x=x\"",
+      "expected": "\"Infinite solutions\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "equation = \"2x=x\"",
+      "expected": "\"x=0\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

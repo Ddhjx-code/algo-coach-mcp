@@ -1,0 +1,24 @@
+{
+  "problemSlug": "2301.替换字符后匹配",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "s = \"fool3e7bar\", sub = \"leet\", mappings = [[\"e\",\"3\"],[\"t\",\"7\"],[\"t\",\"8\"]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"fooleetbar\", sub = \"f00l\", mappings = [[\"o\",\"0\"]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "s = \"Fool33tbaR\", sub = \"leetd\", mappings = [[\"e\",\"3\"],[\"t\",\"7\"],[\"t\",\"8\"],[\"d\",\"b\"],[\"p\",\"b\"]]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

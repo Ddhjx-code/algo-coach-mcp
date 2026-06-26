@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3789.采购的最小花费",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "cost1 = 3, cost2 = 2, costBoth = 1, need1 = 3, need2 = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "cost1 = 5, cost2 = 4, costBoth = 15, need1 = 2, need2 = 3",
+      "expected": "22",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "cost1 = 5, cost2 = 4, costBoth = 15, need1 = 0, need2 = 0",
+      "expected": "0",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

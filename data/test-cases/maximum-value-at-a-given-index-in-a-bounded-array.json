@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1802.有界数组中指定下标处的最大值",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 4, index = 2, maxSum = 6",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 6, index = 1, maxSum = 10",
+      "expected": "3",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

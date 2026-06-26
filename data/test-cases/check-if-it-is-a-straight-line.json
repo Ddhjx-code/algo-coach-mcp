@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1232.缀点成线",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "coordinates = [[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "coordinates = [[1,1],[2,2],[3,4],[4,5],[5,6],[7,7]]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

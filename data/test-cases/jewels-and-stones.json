@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0771.宝石与石头",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "jewels = \"aA\", stones = \"aAAbbbb\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "jewels = \"z\", stones = \"ZZ\"",
+      "expected": "0",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

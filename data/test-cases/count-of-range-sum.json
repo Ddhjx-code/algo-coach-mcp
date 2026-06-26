@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0327.区间和的个数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [-2,5,-1], lower = -2, upper = 2",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0], lower = 0, upper = 0",
+      "expected": "1",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

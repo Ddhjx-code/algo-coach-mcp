@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1736.替换隐藏数字得到的最晚时间",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "time = \"2?:?0\"",
+      "expected": "\"23:50\"",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "time = \"0?:3?\"",
+      "expected": "\"09:39\"",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "time = \"1?:22\"",
+      "expected": "\"19:22\"",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

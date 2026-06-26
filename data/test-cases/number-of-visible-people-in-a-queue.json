@@ -1,0 +1,18 @@
+{
+  "problemSlug": "1944.队列中可以看到的人数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "heights = [10,6,8,5,11,9]",
+      "expected": "[3,1,2,1,1,0]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "heights = [5,1,2,3,10]",
+      "expected": "[4,1,1,1,0]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

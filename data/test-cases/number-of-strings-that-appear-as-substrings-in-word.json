@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1967.作为子字符串出现在单词中的字符串数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "patterns = [\"a\",\"abc\",\"bc\",\"d\"], word = \"abc\"",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "patterns = [\"a\",\"b\",\"c\"], word = \"aaaaabbbbb\"",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "patterns = [\"a\",\"a\",\"a\"], word = \"ab\"",
+      "expected": "3",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

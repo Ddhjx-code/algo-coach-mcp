@@ -1,0 +1,24 @@
+{
+  "problemSlug": "1492.n 的第 k 个因子",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "n = 12, k = 3",
+      "expected": "3",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "n = 7, k = 2",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "n = 4, k = 4",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

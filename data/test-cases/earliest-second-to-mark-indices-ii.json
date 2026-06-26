@@ -1,0 +1,24 @@
+{
+  "problemSlug": "3049.标记所有下标的最早秒数 II",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,2,3], changeIndices = [1,3,2,2,2,2,3]",
+      "expected": "6",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,0,1,2], changeIndices = [1,2,1,2,1,2,1,2]",
+      "expected": "7",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3], changeIndices = [1,2,3]",
+      "expected": "-1",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

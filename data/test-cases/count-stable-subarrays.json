@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3748.统计稳定子数组的数目",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [3,1,2], queries = [[0,1],[1,2],[0,2]]",
+      "expected": "[2,3,4]",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,2], queries = [[0,1],[0,0]]",
+      "expected": "[3,1]",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "problemSlug": "0593.有效的正方形",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "p1 = [0,0], p2 = [1,1], p3 = [1,0], p4 = [0,1]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "p1 = [0,0], p2 = [1,1], p3 = [1,0], p4 = [0,12]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "p1 = [1,0], p2 = [-1,0], p3 = [0,1], p4 = [0,-1]",
+      "expected": "true",
+      "description": "example 3",
+      "category": "basic"
+    }
+  ]
+}

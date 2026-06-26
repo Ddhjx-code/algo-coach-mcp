@@ -1,0 +1,18 @@
+{
+  "problemSlug": "2257.统计网格图中没有被保卫的格子数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "m = 4, n = 6, guards = [[0,0],[1,1],[2,3]], walls = [[0,1],[2,2],[1,4]]",
+      "expected": "7",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "m = 3, n = 3, guards = [[1,1]], walls = [[0,1],[1,0],[2,1],[1,2]]",
+      "expected": "4",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

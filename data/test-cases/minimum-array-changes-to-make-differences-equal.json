@@ -1,0 +1,18 @@
+{
+  "problemSlug": "3224.使差值相等的最少数组改动次数",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,0,1,2,4,3], k = 4",
+      "expected": "2",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [0,1,2,3,3,6,5,4], k = 6",
+      "expected": "2",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

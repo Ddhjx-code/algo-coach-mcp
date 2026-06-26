@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0679.24 点游戏",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "cards = [4, 1, 8, 7]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "cards = [1, 2, 1, 2]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}

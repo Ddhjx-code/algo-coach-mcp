@@ -1,0 +1,30 @@
+{
+  "problemSlug": "1909.删除一个元素使数组严格递增",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "nums = [1,2, 10 ,5,7]",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [2,3,1,2]",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,1,1]",
+      "expected": "false",
+      "description": "example 3",
+      "category": "basic"
+    },
+    {
+      "input": "nums = [1,2,3]",
+      "expected": "true",
+      "description": "example 4",
+      "category": "basic"
+    }
+  ]
+}

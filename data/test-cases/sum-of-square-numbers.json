@@ -1,0 +1,18 @@
+{
+  "problemSlug": "0633.平方数之和",
+  "functionName": "solution",
+  "cases": [
+    {
+      "input": "c = 5",
+      "expected": "true",
+      "description": "example 1",
+      "category": "basic"
+    },
+    {
+      "input": "c = 3",
+      "expected": "false",
+      "description": "example 2",
+      "category": "basic"
+    }
+  ]
+}
