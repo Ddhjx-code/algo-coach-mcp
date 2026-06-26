@@ -1,6 +1,6 @@
 {
   "name": "algo-coach-mcp",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Interactive algorithm coach MCP server with 3000+ LeetCode problems, bilingual descriptions, and local code testing",
   "type": "module",
   "main": "dist/index.js",
