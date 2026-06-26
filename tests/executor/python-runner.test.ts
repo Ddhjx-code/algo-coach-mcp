@@ -66,6 +66,31 @@ def solution(n):
     expect(result.stderr).toContain("timeout");
   }, 10000);
 
+  it("runs class Solution style code (LeetCode format)", async () => {
+    const code = `
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        lookup = {}
+        for i, num in enumerate(nums):
+            if target - num in lookup:
+                return [lookup[target - num], i]
+            lookup[num] = i
+        return []
+`;
+    const cases: TestCase[] = [
+      {
+        input: [[2, 7, 11, 15], 9],
+        expected: [0, 1],
+        description: "basic",
+        category: "basic",
+      },
+    ];
+
+    const result = await runPythonCode(code, "twoSum", cases);
+    expect(result.passed).toBe(true);
+    expect(result.passedCases).toBe(1);
+  });
+
   it("handles runtime errors gracefully", async () => {
     const code = `
 def solution(nums):

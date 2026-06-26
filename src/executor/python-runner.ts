@@ -54,6 +54,10 @@ export async function runPythonCode(
   }
 }
 
+function hasClassSolution(code: string): boolean {
+  return /^class\s+Solution\b/m.test(code);
+}
+
 function buildTestScript(
   userCode: string,
   functionName: string,
@@ -67,11 +71,16 @@ function buildTestScript(
     }))
   );
 
-  // Use triple-quoted string to avoid escaping issues with single/double quotes
   const escapedJson = casesJson.replace(/\\/g, "\\\\").replace(/"""/g, '\\"\\"\\"');
+
+  const callExpr = hasClassSolution(userCode)
+    ? `Solution().${functionName}(*case["input"])`
+    : `${functionName}(*case["input"])`;
 
   return `import json
 import sys
+from typing import *
+from collections import *
 
 # User code
 ${userCode}
@@ -82,7 +91,7 @@ results = []
 
 for i, case in enumerate(cases):
     try:
-        actual = ${functionName}(*case["input"])
+        actual = ${callExpr}
         passed = actual == case["expected"]
         results.append({
             "index": i,
